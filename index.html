@@ -98,10 +98,14 @@ function pct(v) {
 }
 
 function scoreDots(score, max) {
-  let html = '<div class="score-bar">';
+  let html = '<div style="display:flex;align-items:center;gap:6px">';
+  html += '<div class="score-bar">';
   for (let i = 0; i < max; i++)
     html += `<div class="dot ${i < score ? 'on' : 'off'}"></div>`;
-  return html + '</div>';
+  html += '</div>';
+  html += `<span style="font-size:12px;color:#4ade80;font-weight:600">${score}/${max}</span>`;
+  html += '</div>';
+  return html;
 }
 
 function winRate(items, field) {
