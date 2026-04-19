@@ -1,1 +1,49 @@
-{"recommendations": []}
+{
+  "recommendations": [
+    {
+      "date": "2026-04-19",
+      "ticker": "KRW-TRX",
+      "score": 8,
+      "entry_price": 491.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-19",
+      "ticker": "KRW-BLUR",
+      "score": 6,
+      "entry_price": 49.7,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-19",
+      "ticker": "KRW-USDT",
+      "score": 6,
+      "entry_price": 1488.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-19",
+      "ticker": "KRW-ONT",
+      "score": 6,
+      "entry_price": 113.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-19",
+      "ticker": "KRW-FF",
+      "score": 6,
+      "entry_price": 108.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    }
+  ]
+}
