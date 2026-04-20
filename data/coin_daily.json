@@ -5,7 +5,7 @@
       "ticker": "KRW-TRX",
       "score": 8,
       "entry_price": 491.0,
-      "return_1d": null,
+      "return_1d": 0.41,
       "return_3d": null,
       "return_5d": null
     },
@@ -14,7 +14,7 @@
       "ticker": "KRW-BLUR",
       "score": 6,
       "entry_price": 49.7,
-      "return_1d": null,
+      "return_1d": -8.65,
       "return_3d": null,
       "return_5d": null
     },
@@ -23,7 +23,7 @@
       "ticker": "KRW-USDT",
       "score": 6,
       "entry_price": 1488.0,
-      "return_1d": null,
+      "return_1d": -0.07,
       "return_3d": null,
       "return_5d": null
     },
@@ -32,7 +32,7 @@
       "ticker": "KRW-ONT",
       "score": 6,
       "entry_price": 113.0,
-      "return_1d": null,
+      "return_1d": -0.88,
       "return_3d": null,
       "return_5d": null
     },
@@ -41,7 +41,7 @@
       "ticker": "KRW-FF",
       "score": 6,
       "entry_price": 108.0,
-      "return_1d": null,
+      "return_1d": 2.78,
       "return_3d": null,
       "return_5d": null
     },
