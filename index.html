@@ -50,6 +50,7 @@
   <button class="tab active" onclick="show('coin')">📈 코인 일봉</button>
   <button class="tab" onclick="show('stock')">🏢 주식</button>
   <button class="tab" onclick="show('hourly')">⚡ 1시간봉</button>
+  <button class="tab" onclick="show('bounce')">🔄 눌림목 반등</button>
 </div>
 
 <div class="content">
@@ -79,6 +80,15 @@
       <th>시간</th><th>종목</th><th>점수</th>
       <th>진입가</th><th>1H</th><th>4H</th><th>24H</th><th>시간대</th>
     </tr></thead><tbody id="body-hourly"></tbody></table>
+  </div>
+
+  <!-- 눌림목 반등 -->
+  <div class="panel" id="panel-bounce">
+    <div class="summary" id="summary-bounce"></div>
+    <table><thead><tr>
+      <th>날짜</th><th>종목</th><th>급등폭</th>
+      <th>연속음봉</th><th>알림시 양봉%</th><th>1일</th><th>3일</th><th>5일</th>
+    </tr></thead><tbody id="body-bounce"></tbody></table>
   </div>
 
 </div>
@@ -123,7 +133,7 @@ function avgReturn(items, field) {
 function renderSummary(id, items, f1, f2, f3) {
   const el = document.getElementById(id);
   const w1 = winRate(items, f1), w3 = winRate(items, f2), w5 = winRate(items, f3);
-  const a1 = avgReturn(items, f1), a3 = avgReturn(items, f2), a5 = avgReturn(items, f3);
+  const a1 = avgReturn(items, f1);
   el.innerHTML = `
     <div class="card"><div class="label">총 추천 수</div><div class="value">${items.length}건</div></div>
     <div class="card"><div class="label">1일 승률</div><div class="value ${w1>=50?'green':'red'}">${w1 ?? '-'}%</div></div>
@@ -191,8 +201,39 @@ async function loadHourly() {
   } catch(e) { document.getElementById('body-hourly').innerHTML = '<tr><td colspan="8" class="empty">데이터 없음</td></tr>'; }
 }
 
+async function loadBounce() {
+  try {
+    const d = await fetch('./data/coin_bounce.json').then(r => r.json());
+    const items = d.recommendations || [];
+    const el = document.getElementById('summary-bounce');
+    const avgRed = items.length ? (items.reduce((s,i) => s + (i.consecutive_red||0), 0) / items.length).toFixed(1) : '-';
+    const avgGain = items.length ? (items.reduce((s,i) => s + (i.gain_pct||0), 0) / items.length).toFixed(1) : '-';
+    const w1 = winRate(items, 'return_1d');
+    const a1 = avgReturn(items, 'return_1d');
+    el.innerHTML = `
+      <div class="card"><div class="label">총 추천 수</div><div class="value">${items.length}건</div></div>
+      <div class="card"><div class="label">평균 연속음봉</div><div class="value">${avgRed}일</div></div>
+      <div class="card"><div class="label">평균 급등폭</div><div class="value green">+${avgGain}%</div></div>
+      <div class="card"><div class="label">1일 승률</div><div class="value ${w1>=50?'green':'red'}">${w1 ?? '-'}%</div></div>
+      <div class="card"><div class="label">평균 수익(1일)</div><div class="value ${a1>=0?'green':'red'}">${a1 ?? '-'}%</div></div>
+    `;
+    const tbody = document.getElementById('body-bounce');
+    if (!items.length) { tbody.innerHTML = '<tr><td colspan="8" class="empty">아직 데이터가 없습니다</td></tr>'; return; }
+    tbody.innerHTML = items.slice().reverse().map(i => `<tr>
+      <td>${i.date}</td>
+      <td><b>${i.ticker}</b></td>
+      <td><span class="pos">+${i.gain_pct?.toFixed(0)}%</span></td>
+      <td>${i.consecutive_red}일</td>
+      <td><span class="pos">+${i.rise_pct?.toFixed(1)}%</span></td>
+      <td>${pct(i.return_1d)}</td>
+      <td>${pct(i.return_3d)}</td>
+      <td>${pct(i.return_5d)}</td>
+    </tr>`).join('');
+  } catch(e) { document.getElementById('body-bounce').innerHTML = '<tr><td colspan="8" class="empty">데이터 없음</td></tr>'; }
+}
+
 document.getElementById('updated').textContent = '마지막 업데이트: ' + new Date().toLocaleString('ko-KR');
-loadCoin(); loadStock(); loadHourly();
+loadCoin(); loadStock(); loadHourly(); loadBounce();
 </script>
 </body>
 </html>
