@@ -1,0 +1,94 @@
+{
+  "recommendations": [
+    {
+      "date": "2026-04-20",
+      "type": "bounce",
+      "ticker": "WET",
+      "consecutive_red": 6,
+      "gain_pct": 96.2,
+      "rise_pct": 0.65,
+      "current_price": 154.0
+    },
+    {
+      "date": "2026-04-20",
+      "type": "bounce",
+      "ticker": "RED",
+      "consecutive_red": 4,
+      "gain_pct": 80.9,
+      "rise_pct": 2.02,
+      "current_price": 202.0
+    },
+    {
+      "date": "2026-04-20",
+      "type": "bounce",
+      "ticker": "ORDER",
+      "consecutive_red": 4,
+      "gain_pct": 37.6,
+      "rise_pct": 0.77,
+      "current_price": 78.7
+    },
+    {
+      "date": "2026-04-20",
+      "type": "bounce",
+      "ticker": "XPL",
+      "consecutive_red": 3,
+      "gain_pct": 54.0,
+      "rise_pct": 1.94,
+      "current_price": 158.0
+    },
+    {
+      "date": "2026-04-20",
+      "type": "bounce",
+      "ticker": "MOODENG",
+      "consecutive_red": 3,
+      "gain_pct": 44.3,
+      "rise_pct": 1.81,
+      "current_price": 78.7
+    },
+    {
+      "date": "2026-04-20",
+      "type": "bounce",
+      "ticker": "ALT",
+      "consecutive_red": 3,
+      "gain_pct": 41.3,
+      "rise_pct": 2.88,
+      "current_price": 10.7
+    },
+    {
+      "date": "2026-04-20",
+      "type": "bounce",
+      "ticker": "WCT",
+      "consecutive_red": 3,
+      "gain_pct": 34.4,
+      "rise_pct": 0.81,
+      "current_price": 86.9
+    },
+    {
+      "date": "2026-04-20",
+      "type": "bounce",
+      "ticker": "WLD",
+      "consecutive_red": 3,
+      "gain_pct": 34.3,
+      "rise_pct": 1.56,
+      "current_price": 391.0
+    },
+    {
+      "date": "2026-04-20",
+      "type": "bounce",
+      "ticker": "AAVE",
+      "consecutive_red": 3,
+      "gain_pct": 33.7,
+      "rise_pct": 1.41,
+      "current_price": 136400.0
+    },
+    {
+      "date": "2026-04-20",
+      "type": "bounce",
+      "ticker": "JTO",
+      "consecutive_red": 3,
+      "gain_pct": 30.8,
+      "rise_pct": 1.53,
+      "current_price": 464.0
+    }
+  ]
+}
