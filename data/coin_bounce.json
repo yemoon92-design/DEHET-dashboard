@@ -179,6 +179,42 @@
       "gain_pct": 29.4,
       "rise_pct": 6.03,
       "current_price": 211.0
+    },
+    {
+      "date": "2026-04-21",
+      "type": "bounce",
+      "ticker": "WET",
+      "consecutive_red": 7,
+      "gain_pct": 96.2,
+      "rise_pct": 2.74,
+      "current_price": 150.0
+    },
+    {
+      "date": "2026-04-21",
+      "type": "bounce",
+      "ticker": "AAVE",
+      "consecutive_red": 4,
+      "gain_pct": 33.7,
+      "rise_pct": 2.6,
+      "current_price": 138000.0
+    },
+    {
+      "date": "2026-04-21",
+      "type": "bounce",
+      "ticker": "OPEN",
+      "consecutive_red": 3,
+      "gain_pct": 50.2,
+      "rise_pct": 4.56,
+      "current_price": 321.0
+    },
+    {
+      "date": "2026-04-21",
+      "type": "bounce",
+      "ticker": "DKA",
+      "consecutive_red": 3,
+      "gain_pct": 23.4,
+      "rise_pct": 0.11,
+      "current_price": 9.22
     }
   ]
 }
