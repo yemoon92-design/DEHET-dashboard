@@ -89,6 +89,51 @@
       "return_1d": null,
       "return_3d": null,
       "return_5d": null
+    },
+    {
+      "date": "2026-04-21",
+      "ticker": "KRW-IP",
+      "score": 8,
+      "entry_price": 773.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-21",
+      "ticker": "KRW-ONT",
+      "score": 7,
+      "entry_price": 111.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-21",
+      "ticker": "KRW-RAY",
+      "score": 7,
+      "entry_price": 978.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-21",
+      "ticker": "KRW-ORDER",
+      "score": 7,
+      "entry_price": 80.4,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-21",
+      "ticker": "KRW-AVNT",
+      "score": 7,
+      "entry_price": 201.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
     }
   ]
 }
