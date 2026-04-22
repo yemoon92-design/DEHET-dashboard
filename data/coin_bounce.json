@@ -215,6 +215,33 @@
       "gain_pct": 23.4,
       "rise_pct": 0.11,
       "current_price": 9.22
+    },
+    {
+      "date": "2026-04-22",
+      "type": "bounce",
+      "ticker": "KAITO",
+      "consecutive_red": 4,
+      "gain_pct": 31.5,
+      "rise_pct": 0.17,
+      "current_price": 604.0
+    },
+    {
+      "date": "2026-04-22",
+      "type": "bounce",
+      "ticker": "DKA",
+      "consecutive_red": 4,
+      "gain_pct": 23.4,
+      "rise_pct": 0.22,
+      "current_price": 9.12
+    },
+    {
+      "date": "2026-04-22",
+      "type": "bounce",
+      "ticker": "MOVE",
+      "consecutive_red": 3,
+      "gain_pct": 37.1,
+      "rise_pct": 1.84,
+      "current_price": 27.7
     }
   ]
 }
