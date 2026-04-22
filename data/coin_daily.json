@@ -6,7 +6,7 @@
       "score": 8,
       "entry_price": 491.0,
       "return_1d": 0.41,
-      "return_3d": null,
+      "return_3d": -0.81,
       "return_5d": null
     },
     {
@@ -15,7 +15,7 @@
       "score": 6,
       "entry_price": 49.7,
       "return_1d": -8.65,
-      "return_3d": null,
+      "return_3d": -4.83,
       "return_5d": null
     },
     {
@@ -24,7 +24,7 @@
       "score": 6,
       "entry_price": 1488.0,
       "return_1d": -0.07,
-      "return_3d": null,
+      "return_3d": -0.6,
       "return_5d": null
     },
     {
@@ -33,7 +33,7 @@
       "score": 6,
       "entry_price": 113.0,
       "return_1d": -0.88,
-      "return_3d": null,
+      "return_3d": 1.77,
       "return_5d": null
     },
     {
@@ -42,7 +42,7 @@
       "score": 6,
       "entry_price": 108.0,
       "return_1d": 2.78,
-      "return_3d": null,
+      "return_3d": 1.85,
       "return_5d": null
     },
     {
@@ -95,7 +95,7 @@
       "ticker": "KRW-IP",
       "score": 8,
       "entry_price": 773.0,
-      "return_1d": null,
+      "return_1d": 1.94,
       "return_3d": null,
       "return_5d": null
     },
@@ -104,7 +104,7 @@
       "ticker": "KRW-ONT",
       "score": 7,
       "entry_price": 111.0,
-      "return_1d": null,
+      "return_1d": 3.6,
       "return_3d": null,
       "return_5d": null
     },
@@ -113,7 +113,7 @@
       "ticker": "KRW-RAY",
       "score": 7,
       "entry_price": 978.0,
-      "return_1d": null,
+      "return_1d": 2.86,
       "return_3d": null,
       "return_5d": null
     },
@@ -122,7 +122,7 @@
       "ticker": "KRW-ORDER",
       "score": 7,
       "entry_price": 80.4,
-      "return_1d": null,
+      "return_1d": 2.99,
       "return_3d": null,
       "return_5d": null
     },
@@ -131,7 +131,7 @@
       "ticker": "KRW-AVNT",
       "score": 7,
       "entry_price": 201.0,
-      "return_1d": null,
+      "return_1d": 11.44,
       "return_3d": null,
       "return_5d": null
     },
