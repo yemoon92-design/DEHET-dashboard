@@ -134,6 +134,51 @@
       "return_1d": null,
       "return_3d": null,
       "return_5d": null
+    },
+    {
+      "date": "2026-04-22",
+      "ticker": "KRW-MON",
+      "score": 9,
+      "entry_price": 50.5,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-22",
+      "ticker": "KRW-ETC",
+      "score": 8,
+      "entry_price": 12710.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-22",
+      "ticker": "KRW-NEAR",
+      "score": 8,
+      "entry_price": 2076.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-22",
+      "ticker": "KRW-RENDER",
+      "score": 8,
+      "entry_price": 2716.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-22",
+      "ticker": "KRW-ETH",
+      "score": 7,
+      "entry_price": 3536000.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
     }
   ]
 }
