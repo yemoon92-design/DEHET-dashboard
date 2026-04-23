@@ -242,6 +242,15 @@
       "gain_pct": 37.1,
       "rise_pct": 1.84,
       "current_price": 27.7
+    },
+    {
+      "date": "2026-04-23",
+      "type": "bounce",
+      "ticker": "ZBT",
+      "consecutive_red": 3,
+      "gain_pct": 30.9,
+      "rise_pct": 3.38,
+      "current_price": 153.0
     }
   ]
 }
