@@ -179,6 +179,51 @@
       "return_1d": null,
       "return_3d": null,
       "return_5d": null
+    },
+    {
+      "date": "2026-04-23",
+      "ticker": "KRW-AXL",
+      "score": 7,
+      "entry_price": 87.1,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-23",
+      "ticker": "KRW-RED",
+      "score": 7,
+      "entry_price": 199.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-23",
+      "ticker": "KRW-ONT",
+      "score": 7,
+      "entry_price": 112.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-23",
+      "ticker": "KRW-BLAST",
+      "score": 7,
+      "entry_price": 0.781,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-23",
+      "ticker": "KRW-JST",
+      "score": 7,
+      "entry_price": 124.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
     }
   ]
 }
