@@ -251,6 +251,24 @@
       "gain_pct": 30.9,
       "rise_pct": 3.38,
       "current_price": 153.0
+    },
+    {
+      "date": "2026-04-24",
+      "type": "bounce",
+      "ticker": "CFG",
+      "consecutive_red": 4,
+      "gain_pct": 83.3,
+      "rise_pct": 4.2,
+      "current_price": 372.0
+    },
+    {
+      "date": "2026-04-24",
+      "type": "bounce",
+      "ticker": "SUPER",
+      "consecutive_red": 3,
+      "gain_pct": 65.5,
+      "rise_pct": 1.07,
+      "current_price": 189.0
     }
   ]
 }
