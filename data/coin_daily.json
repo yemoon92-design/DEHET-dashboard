@@ -269,6 +269,51 @@
       "return_1d": null,
       "return_3d": null,
       "return_5d": null
+    },
+    {
+      "date": "2026-04-25",
+      "ticker": "KRW-IP",
+      "score": 8,
+      "entry_price": 816.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-25",
+      "ticker": "KRW-ALGO",
+      "score": 8,
+      "entry_price": 171.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-25",
+      "ticker": "KRW-SAND",
+      "score": 7,
+      "entry_price": 125.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-25",
+      "ticker": "KRW-IN",
+      "score": 7,
+      "entry_price": 103.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-25",
+      "ticker": "KRW-SAHARA",
+      "score": 7,
+      "entry_price": 33.3,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
     }
   ]
 }
