@@ -269,6 +269,15 @@
       "gain_pct": 65.5,
       "rise_pct": 1.07,
       "current_price": 189.0
+    },
+    {
+      "date": "2026-04-25",
+      "type": "bounce",
+      "ticker": "SAFE",
+      "consecutive_red": 3,
+      "gain_pct": 49.7,
+      "rise_pct": 15.0,
+      "current_price": 253.0
     }
   ]
 }
