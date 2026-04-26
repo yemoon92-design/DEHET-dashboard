@@ -278,6 +278,51 @@
       "gain_pct": 49.7,
       "rise_pct": 15.0,
       "current_price": 253.0
+    },
+    {
+      "date": "2026-04-26",
+      "type": "bounce",
+      "ticker": "CFG",
+      "consecutive_red": 6,
+      "gain_pct": 83.3,
+      "rise_pct": 2.85,
+      "current_price": 325.0
+    },
+    {
+      "date": "2026-04-26",
+      "type": "bounce",
+      "ticker": "TIA",
+      "consecutive_red": 5,
+      "gain_pct": 37.3,
+      "rise_pct": 2.3,
+      "current_price": 534.0
+    },
+    {
+      "date": "2026-04-26",
+      "type": "bounce",
+      "ticker": "PENDLE",
+      "consecutive_red": 4,
+      "gain_pct": 40.9,
+      "rise_pct": 0.63,
+      "current_price": 1916.0
+    },
+    {
+      "date": "2026-04-26",
+      "type": "bounce",
+      "ticker": "MET2",
+      "consecutive_red": 3,
+      "gain_pct": 89.5,
+      "rise_pct": 3.88,
+      "current_price": 241.0
+    },
+    {
+      "date": "2026-04-26",
+      "type": "bounce",
+      "ticker": "FLUID",
+      "consecutive_red": 3,
+      "gain_pct": 32.5,
+      "rise_pct": 2.46,
+      "current_price": 2537.0
     }
   ]
 }
