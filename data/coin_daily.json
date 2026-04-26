@@ -314,6 +314,51 @@
       "return_1d": null,
       "return_3d": null,
       "return_5d": null
+    },
+    {
+      "date": "2026-04-26",
+      "ticker": "KRW-ETH",
+      "score": 8,
+      "entry_price": 3464000.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-26",
+      "ticker": "KRW-BTC",
+      "score": 7,
+      "entry_price": 115950000.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-26",
+      "ticker": "KRW-IP",
+      "score": 7,
+      "entry_price": 813.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-26",
+      "ticker": "KRW-CHZ",
+      "score": 7,
+      "entry_price": 74.7,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-26",
+      "ticker": "KRW-ONT",
+      "score": 7,
+      "entry_price": 111.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
     }
   ]
 }
