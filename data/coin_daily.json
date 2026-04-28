@@ -404,6 +404,51 @@
       "return_1d": null,
       "return_3d": null,
       "return_5d": null
+    },
+    {
+      "date": "2026-04-28",
+      "ticker": "KRW-KAITO",
+      "score": 8,
+      "entry_price": 630.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-28",
+      "ticker": "KRW-DKA",
+      "score": 7,
+      "entry_price": 8.66,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-28",
+      "ticker": "KRW-BLUR",
+      "score": 7,
+      "entry_price": 42.9,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-28",
+      "ticker": "KRW-ARDR",
+      "score": 6,
+      "entry_price": 64.2,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-04-28",
+      "ticker": "KRW-OPEN",
+      "score": 6,
+      "entry_price": 395.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
     }
   ]
 }
