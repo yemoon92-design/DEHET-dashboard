@@ -359,6 +359,78 @@
       "gain_pct": 23.5,
       "rise_pct": 4.51,
       "current_price": 2246.0
+    },
+    {
+      "date": "2026-04-29",
+      "type": "bounce",
+      "ticker": "W",
+      "consecutive_red": 4,
+      "gain_pct": 24.3,
+      "rise_pct": 0.52,
+      "current_price": 19.2
+    },
+    {
+      "date": "2026-04-29",
+      "type": "bounce",
+      "ticker": "IMX",
+      "consecutive_red": 3,
+      "gain_pct": 51.2,
+      "rise_pct": 1.62,
+      "current_price": 251.0
+    },
+    {
+      "date": "2026-04-29",
+      "type": "bounce",
+      "ticker": "GMT",
+      "consecutive_red": 3,
+      "gain_pct": 26.8,
+      "rise_pct": 0.59,
+      "current_price": 17.1
+    },
+    {
+      "date": "2026-04-29",
+      "type": "bounce",
+      "ticker": "AGLD",
+      "consecutive_red": 3,
+      "gain_pct": 25.3,
+      "rise_pct": 0.51,
+      "current_price": 391.0
+    },
+    {
+      "date": "2026-04-29",
+      "type": "bounce",
+      "ticker": "LPT",
+      "consecutive_red": 3,
+      "gain_pct": 23.7,
+      "rise_pct": 0.7,
+      "current_price": 3181.0
+    },
+    {
+      "date": "2026-04-29",
+      "type": "bounce",
+      "ticker": "TFUEL",
+      "consecutive_red": 3,
+      "gain_pct": 20.4,
+      "rise_pct": 0.58,
+      "current_price": 17.4
+    },
+    {
+      "date": "2026-04-29",
+      "type": "bounce",
+      "ticker": "ATOM",
+      "consecutive_red": 3,
+      "gain_pct": 20.3,
+      "rise_pct": 1.1,
+      "current_price": 2930.0
+    },
+    {
+      "date": "2026-04-29",
+      "type": "bounce",
+      "ticker": "PROVE",
+      "consecutive_red": 3,
+      "gain_pct": 20.1,
+      "rise_pct": 0.82,
+      "current_price": 371.0
     }
   ]
 }
