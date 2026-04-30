@@ -431,6 +431,78 @@
       "gain_pct": 20.1,
       "rise_pct": 0.82,
       "current_price": 371.0
+    },
+    {
+      "date": "2026-04-30",
+      "type": "bounce",
+      "ticker": "HYPER",
+      "consecutive_red": 4,
+      "gain_pct": 109.2,
+      "rise_pct": 8.52,
+      "current_price": 191.0
+    },
+    {
+      "date": "2026-04-30",
+      "type": "bounce",
+      "ticker": "IMX",
+      "consecutive_red": 4,
+      "gain_pct": 51.2,
+      "rise_pct": 0.82,
+      "current_price": 247.0
+    },
+    {
+      "date": "2026-04-30",
+      "type": "bounce",
+      "ticker": "AVNT",
+      "consecutive_red": 3,
+      "gain_pct": 39.8,
+      "rise_pct": 1.83,
+      "current_price": 223.0
+    },
+    {
+      "date": "2026-04-30",
+      "type": "bounce",
+      "ticker": "ARKM",
+      "consecutive_red": 3,
+      "gain_pct": 29.6,
+      "rise_pct": 0.61,
+      "current_price": 166.0
+    },
+    {
+      "date": "2026-04-30",
+      "type": "bounce",
+      "ticker": "SENT",
+      "consecutive_red": 3,
+      "gain_pct": 26.1,
+      "rise_pct": 1.94,
+      "current_price": 26.3
+    },
+    {
+      "date": "2026-04-30",
+      "type": "bounce",
+      "ticker": "2Z",
+      "consecutive_red": 3,
+      "gain_pct": 24.3,
+      "rise_pct": 0.81,
+      "current_price": 124.0
+    },
+    {
+      "date": "2026-04-30",
+      "type": "bounce",
+      "ticker": "SUPER",
+      "consecutive_red": 3,
+      "gain_pct": 20.6,
+      "rise_pct": 1.12,
+      "current_price": 180.0
+    },
+    {
+      "date": "2026-04-30",
+      "type": "bounce",
+      "ticker": "OP",
+      "consecutive_red": 3,
+      "gain_pct": 20.3,
+      "rise_pct": 0.56,
+      "current_price": 180.0
     }
   ]
 }
