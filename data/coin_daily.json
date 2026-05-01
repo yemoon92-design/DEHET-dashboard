@@ -539,6 +539,51 @@
       "return_1d": 0.88,
       "return_3d": null,
       "return_5d": null
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "KRW-BTC",
+      "score": 7,
+      "entry_price": 114689000.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "KRW-ETH",
+      "score": 7,
+      "entry_price": 3392000.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "KRW-MON",
+      "score": 7,
+      "entry_price": 43.1,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "KRW-LINEA",
+      "score": 7,
+      "entry_price": 5.36,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-01",
+      "ticker": "KRW-MASK",
+      "score": 7,
+      "entry_price": 784.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
     }
   ]
 }
