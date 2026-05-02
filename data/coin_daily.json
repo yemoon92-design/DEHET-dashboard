@@ -584,6 +584,51 @@
       "return_1d": null,
       "return_3d": null,
       "return_5d": null
+    },
+    {
+      "date": "2026-05-02",
+      "ticker": "KRW-ETH",
+      "score": 8,
+      "entry_price": 3414000.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-02",
+      "ticker": "KRW-KAVA",
+      "score": 8,
+      "entry_price": 91.6,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-02",
+      "ticker": "KRW-CELO",
+      "score": 8,
+      "entry_price": 135.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-02",
+      "ticker": "KRW-KNC",
+      "score": 7,
+      "entry_price": 271.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-02",
+      "ticker": "KRW-CARV",
+      "score": 7,
+      "entry_price": 84.5,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
     }
   ]
 }
