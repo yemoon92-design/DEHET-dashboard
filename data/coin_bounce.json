@@ -629,6 +629,42 @@
       "gain_pct": 21.8,
       "rise_pct": 2.22,
       "current_price": 87.4
+    },
+    {
+      "date": "2026-05-05",
+      "type": "bounce",
+      "ticker": "ARB",
+      "consecutive_red": 5,
+      "gain_pct": 23.0,
+      "rise_pct": 1.74,
+      "current_price": 175.0
+    },
+    {
+      "date": "2026-05-05",
+      "type": "bounce",
+      "ticker": "RAY",
+      "consecutive_red": 3,
+      "gain_pct": 34.9,
+      "rise_pct": 0.69,
+      "current_price": 1171.0
+    },
+    {
+      "date": "2026-05-05",
+      "type": "bounce",
+      "ticker": "AXS",
+      "consecutive_red": 3,
+      "gain_pct": 32.1,
+      "rise_pct": 3.84,
+      "current_price": 2030.0
+    },
+    {
+      "date": "2026-05-05",
+      "type": "bounce",
+      "ticker": "MASK",
+      "consecutive_red": 3,
+      "gain_pct": 21.3,
+      "rise_pct": 1.24,
+      "current_price": 735.0
     }
   ]
 }
