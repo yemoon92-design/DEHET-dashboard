@@ -665,6 +665,33 @@
       "gain_pct": 21.3,
       "rise_pct": 1.24,
       "current_price": 735.0
+    },
+    {
+      "date": "2026-05-07",
+      "type": "bounce",
+      "ticker": "ORCA",
+      "consecutive_red": 4,
+      "gain_pct": 170.6,
+      "rise_pct": 3.25,
+      "current_price": 2286.0
+    },
+    {
+      "date": "2026-05-07",
+      "type": "bounce",
+      "ticker": "CPOOL",
+      "consecutive_red": 3,
+      "gain_pct": 43.9,
+      "rise_pct": 0.24,
+      "current_price": 41.3
+    },
+    {
+      "date": "2026-05-07",
+      "type": "bounce",
+      "ticker": "TOKAMAK",
+      "consecutive_red": 3,
+      "gain_pct": 31.8,
+      "rise_pct": 0.13,
+      "current_price": 778.0
     }
   ]
 }
