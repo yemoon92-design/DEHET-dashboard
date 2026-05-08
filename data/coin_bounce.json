@@ -692,6 +692,33 @@
       "gain_pct": 31.8,
       "rise_pct": 0.13,
       "current_price": 778.0
+    },
+    {
+      "date": "2026-05-08",
+      "type": "bounce",
+      "ticker": "BIO",
+      "consecutive_red": 4,
+      "gain_pct": 148.0,
+      "rise_pct": 3.31,
+      "current_price": 68.7
+    },
+    {
+      "date": "2026-05-08",
+      "type": "bounce",
+      "ticker": "ZBT",
+      "consecutive_red": 3,
+      "gain_pct": 132.9,
+      "rise_pct": 5.73,
+      "current_price": 277.0
+    },
+    {
+      "date": "2026-05-08",
+      "type": "bounce",
+      "ticker": "AXL",
+      "consecutive_red": 3,
+      "gain_pct": 71.5,
+      "rise_pct": 4.85,
+      "current_price": 108.0
     }
   ]
 }
