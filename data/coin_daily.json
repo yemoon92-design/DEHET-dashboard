@@ -809,6 +809,51 @@
       "return_1d": null,
       "return_3d": null,
       "return_5d": null
+    },
+    {
+      "date": "2026-05-08",
+      "ticker": "KRW-ORCA",
+      "score": 8,
+      "entry_price": 2364.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-08",
+      "ticker": "KRW-AKT",
+      "score": 7,
+      "entry_price": 920.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-08",
+      "ticker": "KRW-ZBT",
+      "score": 7,
+      "entry_price": 281.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-08",
+      "ticker": "KRW-DRIFT",
+      "score": 7,
+      "entry_price": 73.1,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-08",
+      "ticker": "KRW-APT",
+      "score": 7,
+      "entry_price": 1525.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
     }
   ]
 }
