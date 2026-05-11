@@ -719,6 +719,15 @@
       "gain_pct": 71.5,
       "rise_pct": 4.85,
       "current_price": 108.0
+    },
+    {
+      "date": "2026-05-11",
+      "type": "bounce",
+      "ticker": "JTO",
+      "consecutive_red": 3,
+      "gain_pct": 110.0,
+      "rise_pct": 0.67,
+      "current_price": 754.0
     }
   ]
 }
