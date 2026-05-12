@@ -728,6 +728,51 @@
       "gain_pct": 110.0,
       "rise_pct": 0.67,
       "current_price": 754.0
+    },
+    {
+      "date": "2026-05-12",
+      "type": "bounce",
+      "ticker": "ZBT",
+      "consecutive_red": 3,
+      "gain_pct": 99.3,
+      "rise_pct": 5.38,
+      "current_price": 235.0
+    },
+    {
+      "date": "2026-05-12",
+      "type": "bounce",
+      "ticker": "ICP",
+      "consecutive_red": 3,
+      "gain_pct": 59.0,
+      "rise_pct": 0.53,
+      "current_price": 4905.0
+    },
+    {
+      "date": "2026-05-12",
+      "type": "bounce",
+      "ticker": "CHIP",
+      "consecutive_red": 3,
+      "gain_pct": 47.4,
+      "rise_pct": 6.44,
+      "current_price": 95.8
+    },
+    {
+      "date": "2026-05-12",
+      "type": "bounce",
+      "ticker": "WLFI",
+      "consecutive_red": 3,
+      "gain_pct": 46.8,
+      "rise_pct": 1.02,
+      "current_price": 99.3
+    },
+    {
+      "date": "2026-05-12",
+      "type": "bounce",
+      "ticker": "NEAR",
+      "consecutive_red": 3,
+      "gain_pct": 27.8,
+      "rise_pct": 3.43,
+      "current_price": 2352.0
     }
   ]
 }
