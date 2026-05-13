@@ -773,6 +773,87 @@
       "gain_pct": 27.8,
       "rise_pct": 3.43,
       "current_price": 2352.0
+    },
+    {
+      "date": "2026-05-13",
+      "type": "bounce",
+      "ticker": "ICP",
+      "consecutive_red": 4,
+      "gain_pct": 59.0,
+      "rise_pct": 2.88,
+      "current_price": 4851.0
+    },
+    {
+      "date": "2026-05-13",
+      "type": "bounce",
+      "ticker": "FIL",
+      "consecutive_red": 4,
+      "gain_pct": 54.5,
+      "rise_pct": 1.11,
+      "current_price": 1639.0
+    },
+    {
+      "date": "2026-05-13",
+      "type": "bounce",
+      "ticker": "STORJ",
+      "consecutive_red": 4,
+      "gain_pct": 34.8,
+      "rise_pct": 1.89,
+      "current_price": 162.0
+    },
+    {
+      "date": "2026-05-13",
+      "type": "bounce",
+      "ticker": "AXS",
+      "consecutive_red": 4,
+      "gain_pct": 31.6,
+      "rise_pct": 1.51,
+      "current_price": 2021.0
+    },
+    {
+      "date": "2026-05-13",
+      "type": "bounce",
+      "ticker": "LINEA",
+      "consecutive_red": 4,
+      "gain_pct": 30.7,
+      "rise_pct": 3.31,
+      "current_price": 5.93
+    },
+    {
+      "date": "2026-05-13",
+      "type": "bounce",
+      "ticker": "PLUME",
+      "consecutive_red": 3,
+      "gain_pct": 44.3,
+      "rise_pct": 4.43,
+      "current_price": 21.2
+    },
+    {
+      "date": "2026-05-13",
+      "type": "bounce",
+      "ticker": "VIRTUAL",
+      "consecutive_red": 3,
+      "gain_pct": 44.0,
+      "rise_pct": 2.24,
+      "current_price": 1232.0
+    },
+    {
+      "date": "2026-05-13",
+      "type": "bounce",
+      "ticker": "KAITO",
+      "consecutive_red": 3,
+      "gain_pct": 31.1,
+      "rise_pct": 2.35,
+      "current_price": 697.0
+    },
+    {
+      "date": "2026-05-13",
+      "type": "bounce",
+      "ticker": "ENSO",
+      "consecutive_red": 3,
+      "gain_pct": 23.0,
+      "rise_pct": 1.11,
+      "current_price": 1363.0
     }
   ]
 }
