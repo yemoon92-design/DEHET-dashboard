@@ -908,6 +908,24 @@
       "gain_pct": 21.8,
       "rise_pct": 6.23,
       "current_price": 290.0
+    },
+    {
+      "date": "2026-05-15",
+      "type": "bounce",
+      "ticker": "VANA",
+      "consecutive_red": 4,
+      "gain_pct": 23.8,
+      "rise_pct": 0.26,
+      "current_price": 2310.0
+    },
+    {
+      "date": "2026-05-15",
+      "type": "bounce",
+      "ticker": "ORCA",
+      "consecutive_red": 3,
+      "gain_pct": 55.8,
+      "rise_pct": 1.54,
+      "current_price": 2178.0
     }
   ]
 }
