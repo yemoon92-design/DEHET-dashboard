@@ -926,6 +926,15 @@
       "gain_pct": 55.8,
       "rise_pct": 1.54,
       "current_price": 2178.0
+    },
+    {
+      "date": "2026-05-16",
+      "type": "bounce",
+      "ticker": "SNT",
+      "consecutive_red": 5,
+      "gain_pct": 29.5,
+      "rise_pct": 0.67,
+      "current_price": 15.0
     }
   ]
 }
