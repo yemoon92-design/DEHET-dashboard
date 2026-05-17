@@ -1214,6 +1214,51 @@
       "return_1d": null,
       "return_3d": null,
       "return_5d": null
+    },
+    {
+      "date": "2026-05-17",
+      "ticker": "KRW-HOLO",
+      "score": 8,
+      "entry_price": 114.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-17",
+      "ticker": "KRW-ORCA",
+      "score": 7,
+      "entry_price": 2222.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-17",
+      "ticker": "KRW-ATOM",
+      "score": 7,
+      "entry_price": 3108.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-17",
+      "ticker": "KRW-MED",
+      "score": 7,
+      "entry_price": 3.24,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-17",
+      "ticker": "KRW-BIO",
+      "score": 7,
+      "entry_price": 59.8,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
     }
   ]
 }
