@@ -1223,6 +1223,15 @@
       "gain_pct": 60.7,
       "rise_pct": 1.86,
       "current_price": 1095.0
+    },
+    {
+      "date": "2026-05-21",
+      "type": "bounce",
+      "ticker": "DRIFT",
+      "consecutive_red": 5,
+      "gain_pct": 24.6,
+      "rise_pct": 0.15,
+      "current_price": 64.8
     }
   ]
 }
