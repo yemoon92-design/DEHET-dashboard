@@ -1232,6 +1232,33 @@
       "gain_pct": 24.6,
       "rise_pct": 0.15,
       "current_price": 64.8
+    },
+    {
+      "date": "2026-05-22",
+      "type": "bounce",
+      "ticker": "DRIFT",
+      "consecutive_red": 6,
+      "gain_pct": 24.6,
+      "rise_pct": 0.47,
+      "current_price": 64.7
+    },
+    {
+      "date": "2026-05-22",
+      "type": "bounce",
+      "ticker": "ELF",
+      "consecutive_red": 5,
+      "gain_pct": 25.4,
+      "rise_pct": 1.82,
+      "current_price": 112.0
+    },
+    {
+      "date": "2026-05-22",
+      "type": "bounce",
+      "ticker": "META",
+      "consecutive_red": 4,
+      "gain_pct": 25.5,
+      "rise_pct": 29.29,
+      "current_price": 18.1
     }
   ]
 }
