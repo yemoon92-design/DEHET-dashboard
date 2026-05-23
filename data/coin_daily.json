@@ -1484,6 +1484,51 @@
       "return_1d": null,
       "return_3d": null,
       "return_5d": null
+    },
+    {
+      "date": "2026-05-23",
+      "ticker": "KRW-HIVE",
+      "score": 8,
+      "entry_price": 96.4,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-23",
+      "ticker": "KRW-STEEM",
+      "score": 7,
+      "entry_price": 89.4,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-23",
+      "ticker": "KRW-PENGU",
+      "score": 7,
+      "entry_price": 13.1,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-23",
+      "ticker": "KRW-NXPC",
+      "score": 7,
+      "entry_price": 504.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-23",
+      "ticker": "KRW-ZBT",
+      "score": 7,
+      "entry_price": 240.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
     }
   ]
 }
