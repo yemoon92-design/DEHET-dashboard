@@ -1286,6 +1286,24 @@
       "gain_pct": 43.0,
       "rise_pct": 2.08,
       "current_price": 294.0
+    },
+    {
+      "date": "2026-05-24",
+      "type": "bounce",
+      "ticker": "CHZ",
+      "consecutive_red": 5,
+      "gain_pct": 26.6,
+      "rise_pct": 2.12,
+      "current_price": 57.8
+    },
+    {
+      "date": "2026-05-24",
+      "type": "bounce",
+      "ticker": "OPEN",
+      "consecutive_red": 4,
+      "gain_pct": 43.0,
+      "rise_pct": 2.14,
+      "current_price": 286.0
     }
   ]
 }
