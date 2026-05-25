@@ -1304,6 +1304,15 @@
       "gain_pct": 43.0,
       "rise_pct": 2.14,
       "current_price": 286.0
+    },
+    {
+      "date": "2026-05-25",
+      "type": "bounce",
+      "ticker": "KITE",
+      "consecutive_red": 3,
+      "gain_pct": 67.0,
+      "rise_pct": 0.33,
+      "current_price": 302.0
     }
   ]
 }
