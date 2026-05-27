@@ -1313,6 +1313,69 @@
       "gain_pct": 67.0,
       "rise_pct": 0.33,
       "current_price": 302.0
+    },
+    {
+      "date": "2026-05-27",
+      "type": "bounce",
+      "ticker": "GMT",
+      "consecutive_red": 3,
+      "gain_pct": 48.3,
+      "rise_pct": 0.63,
+      "current_price": 15.9
+    },
+    {
+      "date": "2026-05-27",
+      "type": "bounce",
+      "ticker": "MTL",
+      "consecutive_red": 3,
+      "gain_pct": 34.5,
+      "rise_pct": 0.47,
+      "current_price": 428.0
+    },
+    {
+      "date": "2026-05-27",
+      "type": "bounce",
+      "ticker": "PROVE",
+      "consecutive_red": 3,
+      "gain_pct": 34.2,
+      "rise_pct": 0.85,
+      "current_price": 357.0
+    },
+    {
+      "date": "2026-05-27",
+      "type": "bounce",
+      "ticker": "2Z",
+      "consecutive_red": 3,
+      "gain_pct": 32.5,
+      "rise_pct": 0.7,
+      "current_price": 143.0
+    },
+    {
+      "date": "2026-05-27",
+      "type": "bounce",
+      "ticker": "BLEND",
+      "consecutive_red": 3,
+      "gain_pct": 25.8,
+      "rise_pct": 2.94,
+      "current_price": 140.0
+    },
+    {
+      "date": "2026-05-27",
+      "type": "bounce",
+      "ticker": "PROS",
+      "consecutive_red": 3,
+      "gain_pct": 24.2,
+      "rise_pct": 2.0,
+      "current_price": 918.0
+    },
+    {
+      "date": "2026-05-27",
+      "type": "bounce",
+      "ticker": "AERO",
+      "consecutive_red": 3,
+      "gain_pct": 20.9,
+      "rise_pct": 0.47,
+      "current_price": 642.0
     }
   ]
 }
