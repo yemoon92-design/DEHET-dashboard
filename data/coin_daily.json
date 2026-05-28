@@ -1709,6 +1709,51 @@
       "return_1d": null,
       "return_3d": null,
       "return_5d": null
+    },
+    {
+      "date": "2026-05-28",
+      "ticker": "KRW-STORJ",
+      "score": 8,
+      "entry_price": 159.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-28",
+      "ticker": "KRW-LAYER",
+      "score": 8,
+      "entry_price": 131.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-28",
+      "ticker": "KRW-FIL",
+      "score": 7,
+      "entry_price": 1533.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-28",
+      "ticker": "KRW-JTO",
+      "score": 7,
+      "entry_price": 810.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-28",
+      "ticker": "KRW-CPOOL",
+      "score": 7,
+      "entry_price": 48.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
     }
   ]
 }
