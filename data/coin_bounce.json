@@ -1376,6 +1376,15 @@
       "gain_pct": 20.9,
       "rise_pct": 0.47,
       "current_price": 642.0
+    },
+    {
+      "date": "2026-05-28",
+      "type": "bounce",
+      "ticker": "WAVES",
+      "consecutive_red": 3,
+      "gain_pct": 21.6,
+      "rise_pct": 0.37,
+      "current_price": 539.0
     }
   ]
 }
