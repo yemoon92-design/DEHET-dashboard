@@ -1754,6 +1754,51 @@
       "return_1d": null,
       "return_3d": null,
       "return_5d": null
+    },
+    {
+      "date": "2026-05-29",
+      "ticker": "KRW-LAYER",
+      "score": 8,
+      "entry_price": 132.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-29",
+      "ticker": "KRW-ONDO",
+      "score": 7,
+      "entry_price": 546.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-29",
+      "ticker": "KRW-NEAR",
+      "score": 7,
+      "entry_price": 3746.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-29",
+      "ticker": "KRW-JTO",
+      "score": 7,
+      "entry_price": 710.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-29",
+      "ticker": "KRW-RENDER",
+      "score": 7,
+      "entry_price": 3026.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
     }
   ]
 }
