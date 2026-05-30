@@ -1,51 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-04-19",
-      "ticker": "KRW-TRX",
-      "score": 8,
-      "entry_price": 491.0,
-      "return_1d": 0.41,
-      "return_3d": -0.81,
-      "return_5d": -0.61
-    },
-    {
-      "date": "2026-04-19",
-      "ticker": "KRW-BLUR",
-      "score": 6,
-      "entry_price": 49.7,
-      "return_1d": -8.65,
-      "return_3d": -4.83,
-      "return_5d": -0.4
-    },
-    {
-      "date": "2026-04-19",
-      "ticker": "KRW-USDT",
-      "score": 6,
-      "entry_price": 1488.0,
-      "return_1d": -0.07,
-      "return_3d": -0.6,
-      "return_5d": 0.0
-    },
-    {
-      "date": "2026-04-19",
-      "ticker": "KRW-ONT",
-      "score": 6,
-      "entry_price": 113.0,
-      "return_1d": -0.88,
-      "return_3d": 1.77,
-      "return_5d": 4.42
-    },
-    {
-      "date": "2026-04-19",
-      "ticker": "KRW-FF",
-      "score": 6,
-      "entry_price": 108.0,
-      "return_1d": 2.78,
-      "return_3d": 1.85,
-      "return_5d": 1.85
-    },
-    {
       "date": "2026-04-20",
       "ticker": "KRW-FF",
       "score": 8,
@@ -1796,6 +1751,51 @@
       "ticker": "KRW-RENDER",
       "score": 7,
       "entry_price": 3026.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-30",
+      "ticker": "KRW-CPOOL",
+      "score": 9,
+      "entry_price": 48.5,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-30",
+      "ticker": "KRW-ENS",
+      "score": 8,
+      "entry_price": 9040.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-30",
+      "ticker": "KRW-LAYER",
+      "score": 8,
+      "entry_price": 133.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-30",
+      "ticker": "KRW-SONIC",
+      "score": 8,
+      "entry_price": 52.6,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-05-30",
+      "ticker": "KRW-AVNT",
+      "score": 8,
+      "entry_price": 210.0,
       "return_1d": null,
       "return_3d": null,
       "return_5d": null
