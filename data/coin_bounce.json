@@ -1556,6 +1556,33 @@
       "gain_pct": 24.0,
       "rise_pct": 1.3,
       "current_price": 38.9
+    },
+    {
+      "date": "2026-05-31",
+      "type": "bounce",
+      "ticker": "BIRB",
+      "consecutive_red": 9,
+      "gain_pct": 22.0,
+      "rise_pct": 0.68,
+      "current_price": 147.0
+    },
+    {
+      "date": "2026-05-31",
+      "type": "bounce",
+      "ticker": "KITE",
+      "consecutive_red": 4,
+      "gain_pct": 24.9,
+      "rise_pct": 1.03,
+      "current_price": 293.0
+    },
+    {
+      "date": "2026-05-31",
+      "type": "bounce",
+      "ticker": "FF",
+      "consecutive_red": 3,
+      "gain_pct": 65.3,
+      "rise_pct": 1.35,
+      "current_price": 150.0
     }
   ]
 }
