@@ -1583,6 +1583,96 @@
       "gain_pct": 65.3,
       "rise_pct": 1.35,
       "current_price": 150.0
+    },
+    {
+      "date": "2026-06-03",
+      "type": "bounce",
+      "ticker": "TIA",
+      "consecutive_red": 8,
+      "gain_pct": 33.7,
+      "rise_pct": 0.94,
+      "current_price": 538.0
+    },
+    {
+      "date": "2026-06-03",
+      "type": "bounce",
+      "ticker": "TRAC",
+      "consecutive_red": 6,
+      "gain_pct": 54.7,
+      "rise_pct": 15.6,
+      "current_price": 578.0
+    },
+    {
+      "date": "2026-06-03",
+      "type": "bounce",
+      "ticker": "ZAMA",
+      "consecutive_red": 4,
+      "gain_pct": 52.2,
+      "rise_pct": 3.47,
+      "current_price": 50.7
+    },
+    {
+      "date": "2026-06-03",
+      "type": "bounce",
+      "ticker": "AKT",
+      "consecutive_red": 4,
+      "gain_pct": 22.8,
+      "rise_pct": 0.4,
+      "current_price": 1016.0
+    },
+    {
+      "date": "2026-06-03",
+      "type": "bounce",
+      "ticker": "ID",
+      "consecutive_red": 3,
+      "gain_pct": 100.8,
+      "rise_pct": 2.75,
+      "current_price": 48.5
+    },
+    {
+      "date": "2026-06-03",
+      "type": "bounce",
+      "ticker": "VTHO",
+      "consecutive_red": 3,
+      "gain_pct": 48.0,
+      "rise_pct": 1.04,
+      "current_price": 0.678
+    },
+    {
+      "date": "2026-06-03",
+      "type": "bounce",
+      "ticker": "AZTEC",
+      "consecutive_red": 3,
+      "gain_pct": 29.3,
+      "rise_pct": 5.08,
+      "current_price": 33.1
+    },
+    {
+      "date": "2026-06-03",
+      "type": "bounce",
+      "ticker": "AXS",
+      "consecutive_red": 3,
+      "gain_pct": 23.7,
+      "rise_pct": 0.84,
+      "current_price": 1674.0
+    },
+    {
+      "date": "2026-06-03",
+      "type": "bounce",
+      "ticker": "ENS",
+      "consecutive_red": 3,
+      "gain_pct": 23.0,
+      "rise_pct": 1.06,
+      "current_price": 8080.0
+    },
+    {
+      "date": "2026-06-03",
+      "type": "bounce",
+      "ticker": "AVNT",
+      "consecutive_red": 3,
+      "gain_pct": 21.4,
+      "rise_pct": 1.56,
+      "current_price": 195.0
     }
   ]
 }
