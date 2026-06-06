@@ -3,51 +3,6 @@
     {
       "date": "2026-04-20",
       "type": "bounce",
-      "ticker": "WET",
-      "consecutive_red": 6,
-      "gain_pct": 96.2,
-      "rise_pct": 0.65,
-      "current_price": 154.0
-    },
-    {
-      "date": "2026-04-20",
-      "type": "bounce",
-      "ticker": "RED",
-      "consecutive_red": 4,
-      "gain_pct": 80.9,
-      "rise_pct": 2.02,
-      "current_price": 202.0
-    },
-    {
-      "date": "2026-04-20",
-      "type": "bounce",
-      "ticker": "ORDER",
-      "consecutive_red": 4,
-      "gain_pct": 37.6,
-      "rise_pct": 0.77,
-      "current_price": 78.7
-    },
-    {
-      "date": "2026-04-20",
-      "type": "bounce",
-      "ticker": "XPL",
-      "consecutive_red": 3,
-      "gain_pct": 54.0,
-      "rise_pct": 1.94,
-      "current_price": 158.0
-    },
-    {
-      "date": "2026-04-20",
-      "type": "bounce",
-      "ticker": "MOODENG",
-      "consecutive_red": 3,
-      "gain_pct": 44.3,
-      "rise_pct": 1.81,
-      "current_price": 78.7
-    },
-    {
-      "date": "2026-04-20",
-      "type": "bounce",
       "ticker": "ALT",
       "consecutive_red": 3,
       "gain_pct": 41.3,
@@ -1754,6 +1709,96 @@
       "gain_pct": 20.9,
       "rise_pct": 0.26,
       "current_price": 78.2
+    },
+    {
+      "date": "2026-06-06",
+      "type": "bounce",
+      "ticker": "ZAMA",
+      "consecutive_red": 7,
+      "gain_pct": 52.2,
+      "rise_pct": 0.45,
+      "current_price": 44.8
+    },
+    {
+      "date": "2026-06-06",
+      "type": "bounce",
+      "ticker": "POKT",
+      "consecutive_red": 6,
+      "gain_pct": 39.1,
+      "rise_pct": 0.82,
+      "current_price": 12.3
+    },
+    {
+      "date": "2026-06-06",
+      "type": "bounce",
+      "ticker": "BAT",
+      "consecutive_red": 6,
+      "gain_pct": 32.1,
+      "rise_pct": 1.55,
+      "current_price": 131.0
+    },
+    {
+      "date": "2026-06-06",
+      "type": "bounce",
+      "ticker": "PUNDIX",
+      "consecutive_red": 5,
+      "gain_pct": 42.7,
+      "rise_pct": 0.62,
+      "current_price": 162.0
+    },
+    {
+      "date": "2026-06-06",
+      "type": "bounce",
+      "ticker": "BLAST",
+      "consecutive_red": 5,
+      "gain_pct": 26.8,
+      "rise_pct": 0.4,
+      "current_price": 0.497
+    },
+    {
+      "date": "2026-06-06",
+      "type": "bounce",
+      "ticker": "INJ",
+      "consecutive_red": 4,
+      "gain_pct": 61.9,
+      "rise_pct": 0.64,
+      "current_price": 7910.0
+    },
+    {
+      "date": "2026-06-06",
+      "type": "bounce",
+      "ticker": "WAL",
+      "consecutive_red": 4,
+      "gain_pct": 40.0,
+      "rise_pct": 1.65,
+      "current_price": 55.5
+    },
+    {
+      "date": "2026-06-06",
+      "type": "bounce",
+      "ticker": "AERGO",
+      "consecutive_red": 4,
+      "gain_pct": 35.1,
+      "rise_pct": 6.31,
+      "current_price": 62.3
+    },
+    {
+      "date": "2026-06-06",
+      "type": "bounce",
+      "ticker": "SEI",
+      "consecutive_red": 4,
+      "gain_pct": 20.9,
+      "rise_pct": 0.84,
+      "current_price": 72.4
+    },
+    {
+      "date": "2026-06-06",
+      "type": "bounce",
+      "ticker": "PIEVERSE",
+      "consecutive_red": 3,
+      "gain_pct": 79.5,
+      "rise_pct": 0.51,
+      "current_price": 979.0
     }
   ]
 }
