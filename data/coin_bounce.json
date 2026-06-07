@@ -6,96 +6,6 @@
       "ticker": "ALT",
       "consecutive_red": 3,
       "gain_pct": 41.3,
-      "rise_pct": 2.88,
-      "current_price": 10.7
-    },
-    {
-      "date": "2026-04-20",
-      "type": "bounce",
-      "ticker": "WCT",
-      "consecutive_red": 3,
-      "gain_pct": 34.4,
-      "rise_pct": 0.81,
-      "current_price": 86.9
-    },
-    {
-      "date": "2026-04-20",
-      "type": "bounce",
-      "ticker": "WLD",
-      "consecutive_red": 3,
-      "gain_pct": 34.3,
-      "rise_pct": 1.56,
-      "current_price": 391.0
-    },
-    {
-      "date": "2026-04-20",
-      "type": "bounce",
-      "ticker": "AAVE",
-      "consecutive_red": 3,
-      "gain_pct": 33.7,
-      "rise_pct": 1.41,
-      "current_price": 136400.0
-    },
-    {
-      "date": "2026-04-20",
-      "type": "bounce",
-      "ticker": "JTO",
-      "consecutive_red": 3,
-      "gain_pct": 30.8,
-      "rise_pct": 1.53,
-      "current_price": 464.0
-    },
-    {
-      "date": "2026-04-20",
-      "type": "bounce",
-      "ticker": "WET",
-      "consecutive_red": 6,
-      "gain_pct": 96.2,
-      "rise_pct": 2.61,
-      "current_price": 157.0
-    },
-    {
-      "date": "2026-04-20",
-      "type": "bounce",
-      "ticker": "RED",
-      "consecutive_red": 4,
-      "gain_pct": 80.9,
-      "rise_pct": 1.52,
-      "current_price": 201.0
-    },
-    {
-      "date": "2026-04-20",
-      "type": "bounce",
-      "ticker": "ORDER",
-      "consecutive_red": 4,
-      "gain_pct": 37.6,
-      "rise_pct": 0.26,
-      "current_price": 78.3
-    },
-    {
-      "date": "2026-04-20",
-      "type": "bounce",
-      "ticker": "XPL",
-      "consecutive_red": 3,
-      "gain_pct": 54.0,
-      "rise_pct": 2.58,
-      "current_price": 159.0
-    },
-    {
-      "date": "2026-04-20",
-      "type": "bounce",
-      "ticker": "MOODENG",
-      "consecutive_red": 3,
-      "gain_pct": 44.3,
-      "rise_pct": 1.16,
-      "current_price": 78.2
-    },
-    {
-      "date": "2026-04-20",
-      "type": "bounce",
-      "ticker": "ALT",
-      "consecutive_red": 3,
-      "gain_pct": 41.3,
       "rise_pct": 1.92,
       "current_price": 10.6
     },
@@ -1799,6 +1709,96 @@
       "gain_pct": 79.5,
       "rise_pct": 0.51,
       "current_price": 979.0
+    },
+    {
+      "date": "2026-06-07",
+      "type": "bounce",
+      "ticker": "ZAMA",
+      "consecutive_red": 8,
+      "gain_pct": 52.2,
+      "rise_pct": 3.67,
+      "current_price": 45.2
+    },
+    {
+      "date": "2026-06-07",
+      "type": "bounce",
+      "ticker": "ID",
+      "consecutive_red": 7,
+      "gain_pct": 100.8,
+      "rise_pct": 2.09,
+      "current_price": 39.0
+    },
+    {
+      "date": "2026-06-07",
+      "type": "bounce",
+      "ticker": "POKT",
+      "consecutive_red": 7,
+      "gain_pct": 39.1,
+      "rise_pct": 1.69,
+      "current_price": 12.0
+    },
+    {
+      "date": "2026-06-07",
+      "type": "bounce",
+      "ticker": "BAT",
+      "consecutive_red": 7,
+      "gain_pct": 32.1,
+      "rise_pct": 1.57,
+      "current_price": 129.0
+    },
+    {
+      "date": "2026-06-07",
+      "type": "bounce",
+      "ticker": "STRAX",
+      "consecutive_red": 6,
+      "gain_pct": 66.9,
+      "rise_pct": 0.77,
+      "current_price": 13.1
+    },
+    {
+      "date": "2026-06-07",
+      "type": "bounce",
+      "ticker": "PUNDIX",
+      "consecutive_red": 6,
+      "gain_pct": 42.7,
+      "rise_pct": 1.92,
+      "current_price": 159.0
+    },
+    {
+      "date": "2026-06-07",
+      "type": "bounce",
+      "ticker": "ALGO",
+      "consecutive_red": 6,
+      "gain_pct": 30.5,
+      "rise_pct": 2.14,
+      "current_price": 143.0
+    },
+    {
+      "date": "2026-06-07",
+      "type": "bounce",
+      "ticker": "BLAST",
+      "consecutive_red": 6,
+      "gain_pct": 26.8,
+      "rise_pct": 2.08,
+      "current_price": 0.49
+    },
+    {
+      "date": "2026-06-07",
+      "type": "bounce",
+      "ticker": "HBAR",
+      "consecutive_red": 6,
+      "gain_pct": 23.3,
+      "rise_pct": 1.65,
+      "current_price": 123.0
+    },
+    {
+      "date": "2026-06-07",
+      "type": "bounce",
+      "ticker": "HUNT",
+      "consecutive_red": 6,
+      "gain_pct": 20.1,
+      "rise_pct": 0.83,
+      "current_price": 121.0
     }
   ]
 }
