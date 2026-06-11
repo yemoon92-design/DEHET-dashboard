@@ -1,78 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-04-20",
-      "type": "bounce",
-      "ticker": "JTO",
-      "consecutive_red": 3,
-      "gain_pct": 30.8,
-      "rise_pct": 1.31,
-      "current_price": 463.0
-    },
-    {
-      "date": "2026-04-20",
-      "type": "bounce",
-      "ticker": "KITE",
-      "consecutive_red": 3,
-      "gain_pct": 29.4,
-      "rise_pct": 6.03,
-      "current_price": 211.0
-    },
-    {
-      "date": "2026-04-21",
-      "type": "bounce",
-      "ticker": "WET",
-      "consecutive_red": 7,
-      "gain_pct": 96.2,
-      "rise_pct": 2.74,
-      "current_price": 150.0
-    },
-    {
-      "date": "2026-04-21",
-      "type": "bounce",
-      "ticker": "AAVE",
-      "consecutive_red": 4,
-      "gain_pct": 33.7,
-      "rise_pct": 2.6,
-      "current_price": 138000.0
-    },
-    {
-      "date": "2026-04-21",
-      "type": "bounce",
-      "ticker": "OPEN",
-      "consecutive_red": 3,
-      "gain_pct": 50.2,
-      "rise_pct": 4.56,
-      "current_price": 321.0
-    },
-    {
-      "date": "2026-04-21",
-      "type": "bounce",
-      "ticker": "DKA",
-      "consecutive_red": 3,
-      "gain_pct": 23.4,
-      "rise_pct": 0.11,
-      "current_price": 9.22
-    },
-    {
-      "date": "2026-04-22",
-      "type": "bounce",
-      "ticker": "KAITO",
-      "consecutive_red": 4,
-      "gain_pct": 31.5,
-      "rise_pct": 0.17,
-      "current_price": 604.0
-    },
-    {
-      "date": "2026-04-22",
-      "type": "bounce",
-      "ticker": "DKA",
-      "consecutive_red": 4,
-      "gain_pct": 23.4,
-      "rise_pct": 0.22,
-      "current_price": 9.12
-    },
-    {
       "date": "2026-04-22",
       "type": "bounce",
       "ticker": "MOVE",
@@ -1799,6 +1727,78 @@
       "gain_pct": 22.7,
       "rise_pct": 0.46,
       "current_price": 877.0
+    },
+    {
+      "date": "2026-06-11",
+      "type": "bounce",
+      "ticker": "WAL",
+      "consecutive_red": 9,
+      "gain_pct": 40.0,
+      "rise_pct": 1.68,
+      "current_price": 48.3
+    },
+    {
+      "date": "2026-06-11",
+      "type": "bounce",
+      "ticker": "ZRO",
+      "consecutive_red": 7,
+      "gain_pct": 23.6,
+      "rise_pct": 0.82,
+      "current_price": 1236.0
+    },
+    {
+      "date": "2026-06-11",
+      "type": "bounce",
+      "ticker": "XLM",
+      "consecutive_red": 4,
+      "gain_pct": 55.7,
+      "rise_pct": 2.18,
+      "current_price": 281.0
+    },
+    {
+      "date": "2026-06-11",
+      "type": "bounce",
+      "ticker": "IN",
+      "consecutive_red": 3,
+      "gain_pct": 24.1,
+      "rise_pct": 1.87,
+      "current_price": 109.0
+    },
+    {
+      "date": "2026-06-11",
+      "type": "bounce",
+      "ticker": "KITE",
+      "consecutive_red": 3,
+      "gain_pct": 23.6,
+      "rise_pct": 0.37,
+      "current_price": 269.0
+    },
+    {
+      "date": "2026-06-11",
+      "type": "bounce",
+      "ticker": "ENA",
+      "consecutive_red": 3,
+      "gain_pct": 21.7,
+      "rise_pct": 0.92,
+      "current_price": 110.0
+    },
+    {
+      "date": "2026-06-11",
+      "type": "bounce",
+      "ticker": "AKT",
+      "consecutive_red": 3,
+      "gain_pct": 20.9,
+      "rise_pct": 1.37,
+      "current_price": 887.0
+    },
+    {
+      "date": "2026-06-11",
+      "type": "bounce",
+      "ticker": "PENGU",
+      "consecutive_red": 3,
+      "gain_pct": 20.4,
+      "rise_pct": 1.87,
+      "current_price": 9.78
     }
   ]
 }
