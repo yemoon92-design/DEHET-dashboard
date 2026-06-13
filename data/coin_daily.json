@@ -1537,7 +1537,7 @@
       "entry_price": 513.0,
       "return_1d": 2.34,
       "return_3d": 10.33,
-      "return_5d": null
+      "return_5d": 6.63
     },
     {
       "date": "2026-06-08",
@@ -1546,7 +1546,7 @@
       "entry_price": 8330.0,
       "return_1d": -0.9,
       "return_3d": -8.88,
-      "return_5d": null
+      "return_5d": -7.68
     },
     {
       "date": "2026-06-08",
@@ -1555,7 +1555,7 @@
       "entry_price": 3075.0,
       "return_1d": 0.39,
       "return_3d": -2.08,
-      "return_5d": null
+      "return_5d": -1.04
     },
     {
       "date": "2026-06-08",
@@ -1564,7 +1564,7 @@
       "entry_price": 123.0,
       "return_1d": -15.45,
       "return_3d": -11.38,
-      "return_5d": null
+      "return_5d": -6.5
     },
     {
       "date": "2026-06-08",
@@ -1573,7 +1573,7 @@
       "entry_price": 719.0,
       "return_1d": 0.97,
       "return_3d": -4.17,
-      "return_5d": null
+      "return_5d": 0.56
     },
     {
       "date": "2026-06-09",
@@ -1626,7 +1626,7 @@
       "score": 9,
       "entry_price": 3278.0,
       "return_1d": -8.05,
-      "return_3d": null,
+      "return_3d": -7.17,
       "return_5d": null
     },
     {
@@ -1635,7 +1635,7 @@
       "score": 7,
       "entry_price": 909.0,
       "return_1d": -4.51,
-      "return_3d": null,
+      "return_3d": -11.44,
       "return_5d": null
     },
     {
@@ -1644,7 +1644,7 @@
       "score": 7,
       "entry_price": 9.55,
       "return_1d": 1.26,
-      "return_3d": null,
+      "return_3d": -1.15,
       "return_5d": null
     },
     {
@@ -1653,7 +1653,7 @@
       "score": 6,
       "entry_price": 769.0,
       "return_1d": -10.4,
-      "return_3d": null,
+      "return_3d": -5.98,
       "return_5d": null
     },
     {
@@ -1662,7 +1662,7 @@
       "score": 6,
       "entry_price": 286.0,
       "return_1d": -1.05,
-      "return_3d": null,
+      "return_3d": -2.1,
       "return_5d": null
     },
     {
@@ -1715,7 +1715,7 @@
       "ticker": "KRW-NEAR",
       "score": 8,
       "entry_price": 3109.0,
-      "return_1d": null,
+      "return_1d": -2.19,
       "return_3d": null,
       "return_5d": null
     },
@@ -1724,7 +1724,7 @@
       "ticker": "KRW-ENSO",
       "score": 8,
       "entry_price": 964.0,
-      "return_1d": null,
+      "return_1d": -0.41,
       "return_3d": null,
       "return_5d": null
     },
@@ -1733,7 +1733,7 @@
       "ticker": "KRW-SOPH",
       "score": 7,
       "entry_price": 9.51,
-      "return_1d": null,
+      "return_1d": -7.15,
       "return_3d": null,
       "return_5d": null
     },
@@ -1742,7 +1742,7 @@
       "ticker": "KRW-ZETA",
       "score": 7,
       "entry_price": 60.2,
-      "return_1d": null,
+      "return_1d": -6.15,
       "return_3d": null,
       "return_5d": null
     },
@@ -1751,7 +1751,7 @@
       "ticker": "KRW-JTO",
       "score": 7,
       "entry_price": 804.0,
-      "return_1d": null,
+      "return_1d": 0.12,
       "return_3d": null,
       "return_5d": null
     },
