@@ -1,24 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-04-22",
-      "type": "bounce",
-      "ticker": "MOVE",
-      "consecutive_red": 3,
-      "gain_pct": 37.1,
-      "rise_pct": 1.84,
-      "current_price": 27.7
-    },
-    {
-      "date": "2026-04-23",
-      "type": "bounce",
-      "ticker": "ZBT",
-      "consecutive_red": 3,
-      "gain_pct": 30.9,
-      "rise_pct": 3.38,
-      "current_price": 153.0
-    },
-    {
       "date": "2026-04-24",
       "type": "bounce",
       "ticker": "CFG",
@@ -1799,6 +1781,24 @@
       "gain_pct": 20.4,
       "rise_pct": 1.87,
       "current_price": 9.78
+    },
+    {
+      "date": "2026-06-15",
+      "type": "bounce",
+      "ticker": "KAT",
+      "consecutive_red": 4,
+      "gain_pct": 52.6,
+      "rise_pct": 0.46,
+      "current_price": 8.77
+    },
+    {
+      "date": "2026-06-15",
+      "type": "bounce",
+      "ticker": "CTC",
+      "consecutive_red": 3,
+      "gain_pct": 26.9,
+      "rise_pct": 3.5,
+      "current_price": 148.0
     }
   ]
 }
