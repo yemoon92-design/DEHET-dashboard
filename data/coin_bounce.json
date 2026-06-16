@@ -3,15 +3,6 @@
     {
       "date": "2026-04-24",
       "type": "bounce",
-      "ticker": "CFG",
-      "consecutive_red": 4,
-      "gain_pct": 83.3,
-      "rise_pct": 4.2,
-      "current_price": 372.0
-    },
-    {
-      "date": "2026-04-24",
-      "type": "bounce",
       "ticker": "SUPER",
       "consecutive_red": 3,
       "gain_pct": 65.5,
@@ -1799,6 +1790,15 @@
       "gain_pct": 26.9,
       "rise_pct": 3.5,
       "current_price": 148.0
+    },
+    {
+      "date": "2026-06-16",
+      "type": "bounce",
+      "ticker": "WAVES",
+      "consecutive_red": 3,
+      "gain_pct": 41.7,
+      "rise_pct": 17.49,
+      "current_price": 477.0
     }
   ]
 }
