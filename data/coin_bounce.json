@@ -1,96 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-04-30",
-      "type": "bounce",
-      "ticker": "HYPER",
-      "consecutive_red": 4,
-      "gain_pct": 109.2,
-      "rise_pct": 8.52,
-      "current_price": 191.0
-    },
-    {
-      "date": "2026-04-30",
-      "type": "bounce",
-      "ticker": "IMX",
-      "consecutive_red": 4,
-      "gain_pct": 51.2,
-      "rise_pct": 0.82,
-      "current_price": 247.0
-    },
-    {
-      "date": "2026-04-30",
-      "type": "bounce",
-      "ticker": "AVNT",
-      "consecutive_red": 3,
-      "gain_pct": 39.8,
-      "rise_pct": 1.83,
-      "current_price": 223.0
-    },
-    {
-      "date": "2026-04-30",
-      "type": "bounce",
-      "ticker": "ARKM",
-      "consecutive_red": 3,
-      "gain_pct": 29.6,
-      "rise_pct": 0.61,
-      "current_price": 166.0
-    },
-    {
-      "date": "2026-04-30",
-      "type": "bounce",
-      "ticker": "SENT",
-      "consecutive_red": 3,
-      "gain_pct": 26.1,
-      "rise_pct": 1.94,
-      "current_price": 26.3
-    },
-    {
-      "date": "2026-04-30",
-      "type": "bounce",
-      "ticker": "2Z",
-      "consecutive_red": 3,
-      "gain_pct": 24.3,
-      "rise_pct": 0.81,
-      "current_price": 124.0
-    },
-    {
-      "date": "2026-04-30",
-      "type": "bounce",
-      "ticker": "SUPER",
-      "consecutive_red": 3,
-      "gain_pct": 20.6,
-      "rise_pct": 1.12,
-      "current_price": 180.0
-    },
-    {
-      "date": "2026-04-30",
-      "type": "bounce",
-      "ticker": "OP",
-      "consecutive_red": 3,
-      "gain_pct": 20.3,
-      "rise_pct": 0.56,
-      "current_price": 180.0
-    },
-    {
-      "date": "2026-05-01",
-      "type": "bounce",
-      "ticker": "W",
-      "consecutive_red": 6,
-      "gain_pct": 24.3,
-      "rise_pct": 1.09,
-      "current_price": 18.6
-    },
-    {
-      "date": "2026-05-01",
-      "type": "bounce",
-      "ticker": "IMX",
-      "consecutive_red": 5,
-      "gain_pct": 51.2,
-      "rise_pct": 1.22,
-      "current_price": 248.0
-    },
-    {
       "date": "2026-05-01",
       "type": "bounce",
       "ticker": "GMT",
@@ -1799,6 +1709,96 @@
       "gain_pct": 22.3,
       "rise_pct": 1.56,
       "current_price": 2596.0
+    },
+    {
+      "date": "2026-06-19",
+      "type": "bounce",
+      "ticker": "KAT",
+      "consecutive_red": 8,
+      "gain_pct": 52.6,
+      "rise_pct": 0.62,
+      "current_price": 8.1
+    },
+    {
+      "date": "2026-06-19",
+      "type": "bounce",
+      "ticker": "BLEND",
+      "consecutive_red": 6,
+      "gain_pct": 22.0,
+      "rise_pct": 17.18,
+      "current_price": 98.9
+    },
+    {
+      "date": "2026-06-19",
+      "type": "bounce",
+      "ticker": "SKR",
+      "consecutive_red": 4,
+      "gain_pct": 34.6,
+      "rise_pct": 1.59,
+      "current_price": 12.8
+    },
+    {
+      "date": "2026-06-19",
+      "type": "bounce",
+      "ticker": "RENDER",
+      "consecutive_red": 4,
+      "gain_pct": 22.3,
+      "rise_pct": 3.36,
+      "current_price": 2617.0
+    },
+    {
+      "date": "2026-06-19",
+      "type": "bounce",
+      "ticker": "IMX",
+      "consecutive_red": 4,
+      "gain_pct": 21.3,
+      "rise_pct": 4.25,
+      "current_price": 221.0
+    },
+    {
+      "date": "2026-06-19",
+      "type": "bounce",
+      "ticker": "IRYS",
+      "consecutive_red": 4,
+      "gain_pct": 21.1,
+      "rise_pct": 1.93,
+      "current_price": 26.4
+    },
+    {
+      "date": "2026-06-19",
+      "type": "bounce",
+      "ticker": "AERGO",
+      "consecutive_red": 4,
+      "gain_pct": 20.7,
+      "rise_pct": 3.69,
+      "current_price": 50.6
+    },
+    {
+      "date": "2026-06-19",
+      "type": "bounce",
+      "ticker": "BERA",
+      "consecutive_red": 4,
+      "gain_pct": 20.4,
+      "rise_pct": 0.28,
+      "current_price": 357.0
+    },
+    {
+      "date": "2026-06-19",
+      "type": "bounce",
+      "ticker": "AKT",
+      "consecutive_red": 3,
+      "gain_pct": 59.0,
+      "rise_pct": 1.88,
+      "current_price": 1138.0
+    },
+    {
+      "date": "2026-06-19",
+      "type": "bounce",
+      "ticker": "MET2",
+      "consecutive_red": 3,
+      "gain_pct": 30.8,
+      "rise_pct": 20.99,
+      "current_price": 196.0
     }
   ]
 }
