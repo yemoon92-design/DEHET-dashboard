@@ -3,33 +3,6 @@
     {
       "date": "2026-05-02",
       "type": "bounce",
-      "ticker": "BEAM",
-      "consecutive_red": 5,
-      "gain_pct": 21.5,
-      "rise_pct": 0.35,
-      "current_price": 2.84
-    },
-    {
-      "date": "2026-05-02",
-      "type": "bounce",
-      "ticker": "KAT",
-      "consecutive_red": 3,
-      "gain_pct": 55.2,
-      "rise_pct": 0.68,
-      "current_price": 14.8
-    },
-    {
-      "date": "2026-05-02",
-      "type": "bounce",
-      "ticker": "TREE",
-      "consecutive_red": 3,
-      "gain_pct": 22.0,
-      "rise_pct": 2.75,
-      "current_price": 101.0
-    },
-    {
-      "date": "2026-05-02",
-      "type": "bounce",
       "ticker": "FLOCK",
       "consecutive_red": 3,
       "gain_pct": 21.8,
@@ -1799,6 +1772,33 @@
       "gain_pct": 20.5,
       "rise_pct": 0.3,
       "current_price": 99.3
+    },
+    {
+      "date": "2026-06-21",
+      "type": "bounce",
+      "ticker": "IOTA",
+      "consecutive_red": 5,
+      "gain_pct": 21.5,
+      "rise_pct": 0.44,
+      "current_price": 68.6
+    },
+    {
+      "date": "2026-06-21",
+      "type": "bounce",
+      "ticker": "SENT",
+      "consecutive_red": 4,
+      "gain_pct": 78.9,
+      "rise_pct": 0.42,
+      "current_price": 23.8
+    },
+    {
+      "date": "2026-06-21",
+      "type": "bounce",
+      "ticker": "TRUMP",
+      "consecutive_red": 3,
+      "gain_pct": 29.5,
+      "rise_pct": 0.15,
+      "current_price": 2741.0
     }
   ]
 }
