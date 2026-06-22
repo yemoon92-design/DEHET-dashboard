@@ -1,96 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-05-02",
-      "type": "bounce",
-      "ticker": "FLOCK",
-      "consecutive_red": 3,
-      "gain_pct": 21.8,
-      "rise_pct": 2.22,
-      "current_price": 87.4
-    },
-    {
-      "date": "2026-05-05",
-      "type": "bounce",
-      "ticker": "ARB",
-      "consecutive_red": 5,
-      "gain_pct": 23.0,
-      "rise_pct": 1.74,
-      "current_price": 175.0
-    },
-    {
-      "date": "2026-05-05",
-      "type": "bounce",
-      "ticker": "RAY",
-      "consecutive_red": 3,
-      "gain_pct": 34.9,
-      "rise_pct": 0.69,
-      "current_price": 1171.0
-    },
-    {
-      "date": "2026-05-05",
-      "type": "bounce",
-      "ticker": "AXS",
-      "consecutive_red": 3,
-      "gain_pct": 32.1,
-      "rise_pct": 3.84,
-      "current_price": 2030.0
-    },
-    {
-      "date": "2026-05-05",
-      "type": "bounce",
-      "ticker": "MASK",
-      "consecutive_red": 3,
-      "gain_pct": 21.3,
-      "rise_pct": 1.24,
-      "current_price": 735.0
-    },
-    {
-      "date": "2026-05-07",
-      "type": "bounce",
-      "ticker": "ORCA",
-      "consecutive_red": 4,
-      "gain_pct": 170.6,
-      "rise_pct": 3.25,
-      "current_price": 2286.0
-    },
-    {
-      "date": "2026-05-07",
-      "type": "bounce",
-      "ticker": "CPOOL",
-      "consecutive_red": 3,
-      "gain_pct": 43.9,
-      "rise_pct": 0.24,
-      "current_price": 41.3
-    },
-    {
-      "date": "2026-05-07",
-      "type": "bounce",
-      "ticker": "TOKAMAK",
-      "consecutive_red": 3,
-      "gain_pct": 31.8,
-      "rise_pct": 0.13,
-      "current_price": 778.0
-    },
-    {
-      "date": "2026-05-08",
-      "type": "bounce",
-      "ticker": "BIO",
-      "consecutive_red": 4,
-      "gain_pct": 148.0,
-      "rise_pct": 3.31,
-      "current_price": 68.7
-    },
-    {
-      "date": "2026-05-08",
-      "type": "bounce",
-      "ticker": "ZBT",
-      "consecutive_red": 3,
-      "gain_pct": 132.9,
-      "rise_pct": 5.73,
-      "current_price": 277.0
-    },
-    {
       "date": "2026-05-08",
       "type": "bounce",
       "ticker": "AXL",
@@ -1799,6 +1709,96 @@
       "gain_pct": 29.5,
       "rise_pct": 0.15,
       "current_price": 2741.0
+    },
+    {
+      "date": "2026-06-22",
+      "type": "bounce",
+      "ticker": "KITE",
+      "consecutive_red": 8,
+      "gain_pct": 20.4,
+      "rise_pct": 0.81,
+      "current_price": 250.0
+    },
+    {
+      "date": "2026-06-22",
+      "type": "bounce",
+      "ticker": "ZRO",
+      "consecutive_red": 6,
+      "gain_pct": 52.7,
+      "rise_pct": 1.1,
+      "current_price": 1380.0
+    },
+    {
+      "date": "2026-06-22",
+      "type": "bounce",
+      "ticker": "ENS",
+      "consecutive_red": 6,
+      "gain_pct": 33.5,
+      "rise_pct": 1.57,
+      "current_price": 7125.0
+    },
+    {
+      "date": "2026-06-22",
+      "type": "bounce",
+      "ticker": "IOTA",
+      "consecutive_red": 6,
+      "gain_pct": 21.5,
+      "rise_pct": 1.81,
+      "current_price": 67.4
+    },
+    {
+      "date": "2026-06-22",
+      "type": "bounce",
+      "ticker": "WLD",
+      "consecutive_red": 5,
+      "gain_pct": 100.8,
+      "rise_pct": 5.04,
+      "current_price": 958.0
+    },
+    {
+      "date": "2026-06-22",
+      "type": "bounce",
+      "ticker": "SENT",
+      "consecutive_red": 5,
+      "gain_pct": 78.9,
+      "rise_pct": 1.79,
+      "current_price": 22.7
+    },
+    {
+      "date": "2026-06-22",
+      "type": "bounce",
+      "ticker": "TIA",
+      "consecutive_red": 5,
+      "gain_pct": 43.6,
+      "rise_pct": 2.73,
+      "current_price": 565.0
+    },
+    {
+      "date": "2026-06-22",
+      "type": "bounce",
+      "ticker": "UNI",
+      "consecutive_red": 5,
+      "gain_pct": 41.3,
+      "rise_pct": 2.31,
+      "current_price": 4607.0
+    },
+    {
+      "date": "2026-06-22",
+      "type": "bounce",
+      "ticker": "MANTRA",
+      "consecutive_red": 5,
+      "gain_pct": 28.0,
+      "rise_pct": 0.89,
+      "current_price": 11.3
+    },
+    {
+      "date": "2026-06-22",
+      "type": "bounce",
+      "ticker": "SUI",
+      "consecutive_red": 5,
+      "gain_pct": 20.6,
+      "rise_pct": 1.91,
+      "current_price": 1065.0
     }
   ]
 }
