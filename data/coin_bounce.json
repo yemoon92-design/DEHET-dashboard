@@ -1,24 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-05-08",
-      "type": "bounce",
-      "ticker": "AXL",
-      "consecutive_red": 3,
-      "gain_pct": 71.5,
-      "rise_pct": 4.85,
-      "current_price": 108.0
-    },
-    {
-      "date": "2026-05-11",
-      "type": "bounce",
-      "ticker": "JTO",
-      "consecutive_red": 3,
-      "gain_pct": 110.0,
-      "rise_pct": 0.67,
-      "current_price": 754.0
-    },
-    {
       "date": "2026-05-12",
       "type": "bounce",
       "ticker": "ZBT",
@@ -1799,6 +1781,24 @@
       "gain_pct": 20.6,
       "rise_pct": 1.91,
       "current_price": 1065.0
+    },
+    {
+      "date": "2026-06-23",
+      "type": "bounce",
+      "ticker": "XPL",
+      "consecutive_red": 3,
+      "gain_pct": 74.2,
+      "rise_pct": 0.78,
+      "current_price": 130.0
+    },
+    {
+      "date": "2026-06-23",
+      "type": "bounce",
+      "ticker": "ZAMA",
+      "consecutive_red": 3,
+      "gain_pct": 31.7,
+      "rise_pct": 0.4,
+      "current_price": 50.5
     }
   ]
 }
