@@ -3,33 +3,6 @@
     {
       "date": "2026-05-18",
       "type": "bounce",
-      "ticker": "AXS",
-      "consecutive_red": 9,
-      "gain_pct": 31.6,
-      "rise_pct": 2.38,
-      "current_price": 1722.0
-    },
-    {
-      "date": "2026-05-18",
-      "type": "bounce",
-      "ticker": "LINEA",
-      "consecutive_red": 9,
-      "gain_pct": 30.7,
-      "rise_pct": 0.79,
-      "current_price": 5.09
-    },
-    {
-      "date": "2026-05-18",
-      "type": "bounce",
-      "ticker": "VIRTUAL",
-      "consecutive_red": 8,
-      "gain_pct": 44.0,
-      "rise_pct": 0.86,
-      "current_price": 1057.0
-    },
-    {
-      "date": "2026-05-18",
-      "type": "bounce",
       "ticker": "DEEP",
       "consecutive_red": 7,
       "gain_pct": 61.7,
@@ -1799,6 +1772,33 @@
       "gain_pct": 22.8,
       "rise_pct": 1.13,
       "current_price": 44.6
+    },
+    {
+      "date": "2026-06-28",
+      "type": "bounce",
+      "ticker": "XLM",
+      "consecutive_red": 9,
+      "gain_pct": 39.7,
+      "rise_pct": 0.38,
+      "current_price": 265.0
+    },
+    {
+      "date": "2026-06-28",
+      "type": "bounce",
+      "ticker": "AERO",
+      "consecutive_red": 3,
+      "gain_pct": 65.0,
+      "rise_pct": 0.71,
+      "current_price": 707.0
+    },
+    {
+      "date": "2026-06-28",
+      "type": "bounce",
+      "ticker": "MASK",
+      "consecutive_red": 3,
+      "gain_pct": 24.6,
+      "rise_pct": 1.56,
+      "current_price": 587.0
     }
   ]
 }
