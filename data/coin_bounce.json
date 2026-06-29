@@ -3,33 +3,6 @@
     {
       "date": "2026-05-18",
       "type": "bounce",
-      "ticker": "DEEP",
-      "consecutive_red": 7,
-      "gain_pct": 61.7,
-      "rise_pct": 0.42,
-      "current_price": 48.2
-    },
-    {
-      "date": "2026-05-18",
-      "type": "bounce",
-      "ticker": "SUI",
-      "consecutive_red": 7,
-      "gain_pct": 56.4,
-      "rise_pct": 0.71,
-      "current_price": 1568.0
-    },
-    {
-      "date": "2026-05-18",
-      "type": "bounce",
-      "ticker": "ARB",
-      "consecutive_red": 7,
-      "gain_pct": 27.4,
-      "rise_pct": 0.58,
-      "current_price": 174.0
-    },
-    {
-      "date": "2026-05-18",
-      "type": "bounce",
       "ticker": "VANA",
       "consecutive_red": 7,
       "gain_pct": 23.8,
@@ -1799,6 +1772,33 @@
       "gain_pct": 24.6,
       "rise_pct": 1.56,
       "current_price": 587.0
+    },
+    {
+      "date": "2026-06-29",
+      "type": "bounce",
+      "ticker": "ZRO",
+      "consecutive_red": 6,
+      "gain_pct": 26.3,
+      "rise_pct": 0.26,
+      "current_price": 1177.0
+    },
+    {
+      "date": "2026-06-29",
+      "type": "bounce",
+      "ticker": "MASK",
+      "consecutive_red": 4,
+      "gain_pct": 24.6,
+      "rise_pct": 0.53,
+      "current_price": 574.0
+    },
+    {
+      "date": "2026-06-29",
+      "type": "bounce",
+      "ticker": "OP",
+      "consecutive_red": 3,
+      "gain_pct": 23.1,
+      "rise_pct": 0.66,
+      "current_price": 152.0
     }
   ]
 }
