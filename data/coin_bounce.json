@@ -3,24 +3,6 @@
     {
       "date": "2026-05-20",
       "type": "bounce",
-      "ticker": "TAO",
-      "consecutive_red": 5,
-      "gain_pct": 24.5,
-      "rise_pct": 2.32,
-      "current_price": 391800.0
-    },
-    {
-      "date": "2026-05-20",
-      "type": "bounce",
-      "ticker": "CHIP",
-      "consecutive_red": 5,
-      "gain_pct": 20.5,
-      "rise_pct": 9.73,
-      "current_price": 76.7
-    },
-    {
-      "date": "2026-05-20",
-      "type": "bounce",
       "ticker": "PIEVERSE",
       "consecutive_red": 4,
       "gain_pct": 60.7,
@@ -1799,6 +1781,24 @@
       "gain_pct": 329.5,
       "rise_pct": 3.82,
       "current_price": 761.0
+    },
+    {
+      "date": "2026-07-03",
+      "type": "bounce",
+      "ticker": "IN",
+      "consecutive_red": 3,
+      "gain_pct": 89.4,
+      "rise_pct": 1.7,
+      "current_price": 89.9
+    },
+    {
+      "date": "2026-07-03",
+      "type": "bounce",
+      "ticker": "AGLD",
+      "consecutive_red": 3,
+      "gain_pct": 80.4,
+      "rise_pct": 2.42,
+      "current_price": 254.0
     }
   ]
 }
