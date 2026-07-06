@@ -1,33 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-05-20",
-      "type": "bounce",
-      "ticker": "PIEVERSE",
-      "consecutive_red": 4,
-      "gain_pct": 60.7,
-      "rise_pct": 1.86,
-      "current_price": 1095.0
-    },
-    {
-      "date": "2026-05-21",
-      "type": "bounce",
-      "ticker": "DRIFT",
-      "consecutive_red": 5,
-      "gain_pct": 24.6,
-      "rise_pct": 0.15,
-      "current_price": 64.8
-    },
-    {
-      "date": "2026-05-22",
-      "type": "bounce",
-      "ticker": "DRIFT",
-      "consecutive_red": 6,
-      "gain_pct": 24.6,
-      "rise_pct": 0.47,
-      "current_price": 64.7
-    },
-    {
       "date": "2026-05-22",
       "type": "bounce",
       "ticker": "ELF",
@@ -1799,6 +1772,33 @@
       "gain_pct": 80.4,
       "rise_pct": 2.42,
       "current_price": 254.0
+    },
+    {
+      "date": "2026-07-06",
+      "type": "bounce",
+      "ticker": "SLX",
+      "consecutive_red": 3,
+      "gain_pct": 287.6,
+      "rise_pct": 0.62,
+      "current_price": 324.0
+    },
+    {
+      "date": "2026-07-06",
+      "type": "bounce",
+      "ticker": "DEEP",
+      "consecutive_red": 3,
+      "gain_pct": 40.4,
+      "rise_pct": 0.37,
+      "current_price": 26.9
+    },
+    {
+      "date": "2026-07-06",
+      "type": "bounce",
+      "ticker": "BARD",
+      "consecutive_red": 3,
+      "gain_pct": 26.0,
+      "rise_pct": 4.0,
+      "current_price": 208.0
     }
   ]
 }
