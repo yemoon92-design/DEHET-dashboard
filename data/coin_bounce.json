@@ -1,24 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-05-22",
-      "type": "bounce",
-      "ticker": "ELF",
-      "consecutive_red": 5,
-      "gain_pct": 25.4,
-      "rise_pct": 1.82,
-      "current_price": 112.0
-    },
-    {
-      "date": "2026-05-22",
-      "type": "bounce",
-      "ticker": "META",
-      "consecutive_red": 4,
-      "gain_pct": 25.5,
-      "rise_pct": 29.29,
-      "current_price": 18.1
-    },
-    {
       "date": "2026-05-23",
       "type": "bounce",
       "ticker": "CHZ",
@@ -1799,6 +1781,24 @@
       "gain_pct": 26.0,
       "rise_pct": 4.0,
       "current_price": 208.0
+    },
+    {
+      "date": "2026-07-07",
+      "type": "bounce",
+      "ticker": "UP2",
+      "consecutive_red": 4,
+      "gain_pct": 39.0,
+      "rise_pct": 11.73,
+      "current_price": 100.0
+    },
+    {
+      "date": "2026-07-07",
+      "type": "bounce",
+      "ticker": "PIEVERSE",
+      "consecutive_red": 3,
+      "gain_pct": 23.1,
+      "rise_pct": 1.07,
+      "current_price": 1040.0
     }
   ]
 }
