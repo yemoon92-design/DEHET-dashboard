@@ -1,96 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-05-23",
-      "type": "bounce",
-      "ticker": "CHZ",
-      "consecutive_red": 4,
-      "gain_pct": 26.6,
-      "rise_pct": 0.83,
-      "current_price": 60.9
-    },
-    {
-      "date": "2026-05-23",
-      "type": "bounce",
-      "ticker": "SAHARA",
-      "consecutive_red": 3,
-      "gain_pct": 59.1,
-      "rise_pct": 0.81,
-      "current_price": 49.7
-    },
-    {
-      "date": "2026-05-23",
-      "type": "bounce",
-      "ticker": "OPEN",
-      "consecutive_red": 3,
-      "gain_pct": 43.0,
-      "rise_pct": 2.08,
-      "current_price": 294.0
-    },
-    {
-      "date": "2026-05-24",
-      "type": "bounce",
-      "ticker": "CHZ",
-      "consecutive_red": 5,
-      "gain_pct": 26.6,
-      "rise_pct": 2.12,
-      "current_price": 57.8
-    },
-    {
-      "date": "2026-05-24",
-      "type": "bounce",
-      "ticker": "OPEN",
-      "consecutive_red": 4,
-      "gain_pct": 43.0,
-      "rise_pct": 2.14,
-      "current_price": 286.0
-    },
-    {
-      "date": "2026-05-25",
-      "type": "bounce",
-      "ticker": "KITE",
-      "consecutive_red": 3,
-      "gain_pct": 67.0,
-      "rise_pct": 0.33,
-      "current_price": 302.0
-    },
-    {
-      "date": "2026-05-27",
-      "type": "bounce",
-      "ticker": "GMT",
-      "consecutive_red": 3,
-      "gain_pct": 48.3,
-      "rise_pct": 0.63,
-      "current_price": 15.9
-    },
-    {
-      "date": "2026-05-27",
-      "type": "bounce",
-      "ticker": "MTL",
-      "consecutive_red": 3,
-      "gain_pct": 34.5,
-      "rise_pct": 0.47,
-      "current_price": 428.0
-    },
-    {
-      "date": "2026-05-27",
-      "type": "bounce",
-      "ticker": "PROVE",
-      "consecutive_red": 3,
-      "gain_pct": 34.2,
-      "rise_pct": 0.85,
-      "current_price": 357.0
-    },
-    {
-      "date": "2026-05-27",
-      "type": "bounce",
-      "ticker": "2Z",
-      "consecutive_red": 3,
-      "gain_pct": 32.5,
-      "rise_pct": 0.7,
-      "current_price": 143.0
-    },
-    {
       "date": "2026-05-27",
       "type": "bounce",
       "ticker": "BLEND",
@@ -1799,6 +1709,96 @@
       "gain_pct": 23.1,
       "rise_pct": 1.07,
       "current_price": 1040.0
+    },
+    {
+      "date": "2026-07-08",
+      "type": "bounce",
+      "ticker": "IN",
+      "consecutive_red": 8,
+      "gain_pct": 89.4,
+      "rise_pct": 0.55,
+      "current_price": 72.7
+    },
+    {
+      "date": "2026-07-08",
+      "type": "bounce",
+      "ticker": "VVV",
+      "consecutive_red": 6,
+      "gain_pct": 26.7,
+      "rise_pct": 3.3,
+      "current_price": 16270.0
+    },
+    {
+      "date": "2026-07-08",
+      "type": "bounce",
+      "ticker": "ZBT",
+      "consecutive_red": 4,
+      "gain_pct": 47.3,
+      "rise_pct": 1.11,
+      "current_price": 182.0
+    },
+    {
+      "date": "2026-07-08",
+      "type": "bounce",
+      "ticker": "DOOD",
+      "consecutive_red": 4,
+      "gain_pct": 23.4,
+      "rise_pct": 2.25,
+      "current_price": 2.27
+    },
+    {
+      "date": "2026-07-08",
+      "type": "bounce",
+      "ticker": "PIEVERSE",
+      "consecutive_red": 4,
+      "gain_pct": 23.1,
+      "rise_pct": 1.39,
+      "current_price": 1020.0
+    },
+    {
+      "date": "2026-07-08",
+      "type": "bounce",
+      "ticker": "WLD",
+      "consecutive_red": 4,
+      "gain_pct": 23.0,
+      "rise_pct": 1.05,
+      "current_price": 578.0
+    },
+    {
+      "date": "2026-07-08",
+      "type": "bounce",
+      "ticker": "INJ",
+      "consecutive_red": 4,
+      "gain_pct": 20.2,
+      "rise_pct": 0.85,
+      "current_price": 7145.0
+    },
+    {
+      "date": "2026-07-08",
+      "type": "bounce",
+      "ticker": "MED",
+      "consecutive_red": 3,
+      "gain_pct": 46.0,
+      "rise_pct": 2.25,
+      "current_price": 2.27
+    },
+    {
+      "date": "2026-07-08",
+      "type": "bounce",
+      "ticker": "ADA",
+      "consecutive_red": 3,
+      "gain_pct": 43.3,
+      "rise_pct": 1.15,
+      "current_price": 264.0
+    },
+    {
+      "date": "2026-07-08",
+      "type": "bounce",
+      "ticker": "FLOCK",
+      "consecutive_red": 3,
+      "gain_pct": 24.0,
+      "rise_pct": 0.21,
+      "current_price": 48.5
     }
   ]
 }
