@@ -1,69 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-05-29",
-      "type": "bounce",
-      "ticker": "NEAR",
-      "consecutive_red": 3,
-      "gain_pct": 90.9,
-      "rise_pct": 4.62,
-      "current_price": 3733.0
-    },
-    {
-      "date": "2026-05-29",
-      "type": "bounce",
-      "ticker": "INJ",
-      "consecutive_red": 3,
-      "gain_pct": 43.7,
-      "rise_pct": 4.21,
-      "current_price": 8415.0
-    },
-    {
-      "date": "2026-05-29",
-      "type": "bounce",
-      "ticker": "AKT",
-      "consecutive_red": 3,
-      "gain_pct": 42.0,
-      "rise_pct": 0.59,
-      "current_price": 1187.0
-    },
-    {
-      "date": "2026-05-29",
-      "type": "bounce",
-      "ticker": "TIA",
-      "consecutive_red": 3,
-      "gain_pct": 33.7,
-      "rise_pct": 2.13,
-      "current_price": 623.0
-    },
-    {
-      "date": "2026-05-30",
-      "type": "bounce",
-      "ticker": "GMT",
-      "consecutive_red": 6,
-      "gain_pct": 48.3,
-      "rise_pct": 2.72,
-      "current_price": 15.1
-    },
-    {
-      "date": "2026-05-30",
-      "type": "bounce",
-      "ticker": "ME",
-      "consecutive_red": 6,
-      "gain_pct": 24.8,
-      "rise_pct": 2.36,
-      "current_price": 130.0
-    },
-    {
-      "date": "2026-05-30",
-      "type": "bounce",
-      "ticker": "VVV",
-      "consecutive_red": 5,
-      "gain_pct": 65.7,
-      "rise_pct": 2.44,
-      "current_price": 23950.0
-    },
-    {
       "date": "2026-05-30",
       "type": "bounce",
       "ticker": "PLUME",
@@ -1799,6 +1736,69 @@
       "gain_pct": 42.2,
       "rise_pct": 0.1,
       "current_price": 19490.0
+    },
+    {
+      "date": "2026-07-10",
+      "type": "bounce",
+      "ticker": "ADA",
+      "consecutive_red": 5,
+      "gain_pct": 43.3,
+      "rise_pct": 0.4,
+      "current_price": 250.0
+    },
+    {
+      "date": "2026-07-10",
+      "type": "bounce",
+      "ticker": "HP",
+      "consecutive_red": 4,
+      "gain_pct": 23.9,
+      "rise_pct": 0.7,
+      "current_price": 14.3
+    },
+    {
+      "date": "2026-07-10",
+      "type": "bounce",
+      "ticker": "PUMP",
+      "consecutive_red": 3,
+      "gain_pct": 44.9,
+      "rise_pct": 0.45,
+      "current_price": 2.22
+    },
+    {
+      "date": "2026-07-10",
+      "type": "bounce",
+      "ticker": "DEEP",
+      "consecutive_red": 3,
+      "gain_pct": 39.9,
+      "rise_pct": 1.14,
+      "current_price": 26.7
+    },
+    {
+      "date": "2026-07-10",
+      "type": "bounce",
+      "ticker": "SPX",
+      "consecutive_red": 3,
+      "gain_pct": 32.6,
+      "rise_pct": 0.54,
+      "current_price": 561.0
+    },
+    {
+      "date": "2026-07-10",
+      "type": "bounce",
+      "ticker": "RE",
+      "consecutive_red": 3,
+      "gain_pct": 24.5,
+      "rise_pct": 0.11,
+      "current_price": 877.0
+    },
+    {
+      "date": "2026-07-10",
+      "type": "bounce",
+      "ticker": "MOVE",
+      "consecutive_red": 3,
+      "gain_pct": 21.2,
+      "rise_pct": 0.6,
+      "current_price": 16.8
     }
   ]
 }
