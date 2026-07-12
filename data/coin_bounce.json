@@ -3,33 +3,6 @@
     {
       "date": "2026-05-30",
       "type": "bounce",
-      "ticker": "ERA",
-      "consecutive_red": 4,
-      "gain_pct": 40.4,
-      "rise_pct": 2.2,
-      "current_price": 186.0
-    },
-    {
-      "date": "2026-05-30",
-      "type": "bounce",
-      "ticker": "TIA",
-      "consecutive_red": 4,
-      "gain_pct": 33.7,
-      "rise_pct": 1.64,
-      "current_price": 619.0
-    },
-    {
-      "date": "2026-05-30",
-      "type": "bounce",
-      "ticker": "KAITO",
-      "consecutive_red": 4,
-      "gain_pct": 29.6,
-      "rise_pct": 2.09,
-      "current_price": 685.0
-    },
-    {
-      "date": "2026-05-30",
-      "type": "bounce",
       "ticker": "RENDER",
       "consecutive_red": 3,
       "gain_pct": 39.7,
@@ -1799,6 +1772,33 @@
       "gain_pct": 24.5,
       "rise_pct": 2.45,
       "current_price": 879.0
+    },
+    {
+      "date": "2026-07-12",
+      "type": "bounce",
+      "ticker": "PUMP",
+      "consecutive_red": 5,
+      "gain_pct": 44.9,
+      "rise_pct": 0.48,
+      "current_price": 2.09
+    },
+    {
+      "date": "2026-07-12",
+      "type": "bounce",
+      "ticker": "MON",
+      "consecutive_red": 5,
+      "gain_pct": 37.7,
+      "rise_pct": 0.6,
+      "current_price": 33.6
+    },
+    {
+      "date": "2026-07-12",
+      "type": "bounce",
+      "ticker": "SPX",
+      "consecutive_red": 5,
+      "gain_pct": 32.6,
+      "rise_pct": 0.73,
+      "current_price": 554.0
     }
   ]
 }
