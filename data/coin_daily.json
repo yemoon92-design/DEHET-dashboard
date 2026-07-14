@@ -1,51 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-06-04",
-      "ticker": "KRW-CPOOL",
-      "score": 8,
-      "entry_price": 43.9,
-      "return_1d": -18.91,
-      "return_3d": -22.1,
-      "return_5d": -24.6
-    },
-    {
-      "date": "2026-06-04",
-      "ticker": "KRW-SAHARA",
-      "score": 7,
-      "entry_price": 48.9,
-      "return_1d": 1.23,
-      "return_3d": 3.07,
-      "return_5d": -52.56
-    },
-    {
-      "date": "2026-06-04",
-      "ticker": "KRW-ONDO",
-      "score": 6,
-      "entry_price": 584.0,
-      "return_1d": -7.36,
-      "return_3d": -13.36,
-      "return_5d": -8.9
-    },
-    {
-      "date": "2026-06-04",
-      "ticker": "KRW-RENDER",
-      "score": 6,
-      "entry_price": 3034.0,
-      "return_1d": -11.4,
-      "return_3d": -18.52,
-      "return_5d": -21.03
-    },
-    {
-      "date": "2026-06-04",
-      "ticker": "KRW-INJ",
-      "score": 6,
-      "entry_price": 9140.0,
-      "return_1d": -12.53,
-      "return_3d": -12.09,
-      "return_5d": -9.68
-    },
-    {
       "date": "2026-06-05",
       "ticker": "KRW-NEAR",
       "score": 7,
@@ -1796,6 +1751,51 @@
       "ticker": "KRW-ETH",
       "score": 6,
       "entry_price": 2722000.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-07-14",
+      "ticker": "KRW-KITE",
+      "score": 7,
+      "entry_price": 198.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-07-14",
+      "ticker": "KRW-JTO",
+      "score": 7,
+      "entry_price": 959.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-07-14",
+      "ticker": "KRW-MMT",
+      "score": 7,
+      "entry_price": 243.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-07-14",
+      "ticker": "KRW-BTT",
+      "score": 6,
+      "entry_price": 0.000401,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-07-14",
+      "ticker": "KRW-NEAR",
+      "score": 6,
+      "entry_price": 2882.0,
       "return_1d": null,
       "return_3d": null,
       "return_5d": null
