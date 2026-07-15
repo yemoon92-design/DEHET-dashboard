@@ -1,51 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-06-03",
-      "type": "bounce",
-      "ticker": "ENS",
-      "consecutive_red": 3,
-      "gain_pct": 23.0,
-      "rise_pct": 1.06,
-      "current_price": 8080.0
-    },
-    {
-      "date": "2026-06-03",
-      "type": "bounce",
-      "ticker": "AVNT",
-      "consecutive_red": 3,
-      "gain_pct": 21.4,
-      "rise_pct": 1.56,
-      "current_price": 195.0
-    },
-    {
-      "date": "2026-06-05",
-      "type": "bounce",
-      "ticker": "ZAMA",
-      "consecutive_red": 6,
-      "gain_pct": 52.2,
-      "rise_pct": 1.3,
-      "current_price": 46.6
-    },
-    {
-      "date": "2026-06-05",
-      "type": "bounce",
-      "ticker": "POKT",
-      "consecutive_red": 5,
-      "gain_pct": 39.1,
-      "rise_pct": 3.79,
-      "current_price": 13.7
-    },
-    {
-      "date": "2026-06-05",
-      "type": "bounce",
-      "ticker": "BAT",
-      "consecutive_red": 5,
-      "gain_pct": 32.1,
-      "rise_pct": 0.69,
-      "current_price": 146.0
-    },
-    {
       "date": "2026-06-05",
       "type": "bounce",
       "ticker": "LA",
@@ -1799,6 +1754,51 @@
       "gain_pct": 21.1,
       "rise_pct": 0.22,
       "current_price": 6935.0
+    },
+    {
+      "date": "2026-07-15",
+      "type": "bounce",
+      "ticker": "MMT",
+      "consecutive_red": 4,
+      "gain_pct": 51.0,
+      "rise_pct": 1.29,
+      "current_price": 235.0
+    },
+    {
+      "date": "2026-07-15",
+      "type": "bounce",
+      "ticker": "TT",
+      "consecutive_red": 4,
+      "gain_pct": 37.1,
+      "rise_pct": 5.2,
+      "current_price": 0.991
+    },
+    {
+      "date": "2026-07-15",
+      "type": "bounce",
+      "ticker": "ZRO",
+      "consecutive_red": 4,
+      "gain_pct": 25.9,
+      "rise_pct": 0.48,
+      "current_price": 1269.0
+    },
+    {
+      "date": "2026-07-15",
+      "type": "bounce",
+      "ticker": "SYRUP",
+      "consecutive_red": 3,
+      "gain_pct": 70.5,
+      "rise_pct": 0.36,
+      "current_price": 281.0
+    },
+    {
+      "date": "2026-07-15",
+      "type": "bounce",
+      "ticker": "ID",
+      "consecutive_red": 3,
+      "gain_pct": 22.5,
+      "rise_pct": 0.2,
+      "current_price": 50.4
     }
   ]
 }
