@@ -3,24 +3,6 @@
     {
       "date": "2026-06-05",
       "type": "bounce",
-      "ticker": "LA",
-      "consecutive_red": 4,
-      "gain_pct": 50.7,
-      "rise_pct": 3.42,
-      "current_price": 121.0
-    },
-    {
-      "date": "2026-06-05",
-      "type": "bounce",
-      "ticker": "PUNDIX",
-      "consecutive_red": 4,
-      "gain_pct": 42.7,
-      "rise_pct": 0.55,
-      "current_price": 182.0
-    },
-    {
-      "date": "2026-06-05",
-      "type": "bounce",
       "ticker": "BLAST",
       "consecutive_red": 4,
       "gain_pct": 26.8,
@@ -1799,6 +1781,24 @@
       "gain_pct": 22.5,
       "rise_pct": 0.2,
       "current_price": 50.4
+    },
+    {
+      "date": "2026-07-16",
+      "type": "bounce",
+      "ticker": "TAIKO",
+      "consecutive_red": 5,
+      "gain_pct": 64.8,
+      "rise_pct": 1.61,
+      "current_price": 126.0
+    },
+    {
+      "date": "2026-07-16",
+      "type": "bounce",
+      "ticker": "ID",
+      "consecutive_red": 4,
+      "gain_pct": 22.5,
+      "rise_pct": 0.4,
+      "current_price": 50.3
     }
   ]
 }
