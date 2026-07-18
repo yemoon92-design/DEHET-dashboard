@@ -3,33 +3,6 @@
     {
       "date": "2026-06-06",
       "type": "bounce",
-      "ticker": "ZAMA",
-      "consecutive_red": 7,
-      "gain_pct": 52.2,
-      "rise_pct": 0.45,
-      "current_price": 44.8
-    },
-    {
-      "date": "2026-06-06",
-      "type": "bounce",
-      "ticker": "POKT",
-      "consecutive_red": 6,
-      "gain_pct": 39.1,
-      "rise_pct": 0.82,
-      "current_price": 12.3
-    },
-    {
-      "date": "2026-06-06",
-      "type": "bounce",
-      "ticker": "BAT",
-      "consecutive_red": 6,
-      "gain_pct": 32.1,
-      "rise_pct": 1.55,
-      "current_price": 131.0
-    },
-    {
-      "date": "2026-06-06",
-      "type": "bounce",
       "ticker": "PUNDIX",
       "consecutive_red": 5,
       "gain_pct": 42.7,
@@ -1799,6 +1772,33 @@
       "gain_pct": 26.3,
       "rise_pct": 0.42,
       "current_price": 19250.0
+    },
+    {
+      "date": "2026-07-18",
+      "type": "bounce",
+      "ticker": "ZRO",
+      "consecutive_red": 7,
+      "gain_pct": 25.9,
+      "rise_pct": 0.17,
+      "current_price": 1152.0
+    },
+    {
+      "date": "2026-07-18",
+      "type": "bounce",
+      "ticker": "AWE",
+      "consecutive_red": 4,
+      "gain_pct": 25.9,
+      "rise_pct": 0.24,
+      "current_price": 81.9
+    },
+    {
+      "date": "2026-07-18",
+      "type": "bounce",
+      "ticker": "DEEP",
+      "consecutive_red": 3,
+      "gain_pct": 24.8,
+      "rise_pct": 0.39,
+      "current_price": 25.5
     }
   ]
 }
