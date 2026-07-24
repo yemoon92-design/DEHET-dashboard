@@ -3,15 +3,6 @@
     {
       "date": "2026-06-07",
       "type": "bounce",
-      "ticker": "PUNDIX",
-      "consecutive_red": 6,
-      "gain_pct": 42.7,
-      "rise_pct": 1.92,
-      "current_price": 159.0
-    },
-    {
-      "date": "2026-06-07",
-      "type": "bounce",
       "ticker": "ALGO",
       "consecutive_red": 6,
       "gain_pct": 30.5,
@@ -1799,6 +1790,15 @@
       "gain_pct": 31.2,
       "rise_pct": 0.87,
       "current_price": 69.9
+    },
+    {
+      "date": "2026-07-24",
+      "type": "bounce",
+      "ticker": "CBK",
+      "consecutive_red": 4,
+      "gain_pct": 37.9,
+      "rise_pct": 0.39,
+      "current_price": 259.0
     }
   ]
 }
