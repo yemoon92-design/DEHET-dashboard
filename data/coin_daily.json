@@ -1,51 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-06-16",
-      "ticker": "KRW-STRAX",
-      "score": 8,
-      "entry_price": 16.7,
-      "return_1d": -12.57,
-      "return_3d": -17.37,
-      "return_5d": -14.37
-    },
-    {
-      "date": "2026-06-16",
-      "ticker": "KRW-UNI",
-      "score": 8,
-      "entry_price": 4295.0,
-      "return_1d": 23.75,
-      "return_3d": 6.71,
-      "return_5d": 4.35
-    },
-    {
-      "date": "2026-06-16",
-      "ticker": "KRW-HIVE",
-      "score": 8,
-      "entry_price": 81.0,
-      "return_1d": -4.94,
-      "return_3d": -8.77,
-      "return_5d": -7.53
-    },
-    {
-      "date": "2026-06-16",
-      "ticker": "KRW-WLD",
-      "score": 7,
-      "entry_price": 890.0,
-      "return_1d": 15.17,
-      "return_3d": 8.31,
-      "return_5d": 2.92
-    },
-    {
-      "date": "2026-06-16",
-      "ticker": "KRW-WAVES",
-      "score": 7,
-      "entry_price": 478.0,
-      "return_1d": -9.83,
-      "return_3d": -14.64,
-      "return_5d": -1.46
-    },
-    {
       "date": "2026-06-17",
       "ticker": "KRW-INJ",
       "score": 8,
@@ -1796,6 +1751,51 @@
       "ticker": "KRW-DATA",
       "score": 6,
       "entry_price": 405.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-07-26",
+      "ticker": "KRW-KAITO",
+      "score": 8,
+      "entry_price": 1500.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-07-26",
+      "ticker": "KRW-ETC",
+      "score": 7,
+      "entry_price": 9845.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-07-26",
+      "ticker": "KRW-BTC",
+      "score": 6,
+      "entry_price": 94469000.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-07-26",
+      "ticker": "KRW-ETH",
+      "score": 6,
+      "entry_price": 2755000.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-07-26",
+      "ticker": "KRW-DOGE",
+      "score": 6,
+      "entry_price": 106.0,
       "return_1d": null,
       "return_3d": null,
       "return_5d": null
