@@ -3,24 +3,6 @@
     {
       "date": "2026-06-11",
       "type": "bounce",
-      "ticker": "WAL",
-      "consecutive_red": 9,
-      "gain_pct": 40.0,
-      "rise_pct": 1.68,
-      "current_price": 48.3
-    },
-    {
-      "date": "2026-06-11",
-      "type": "bounce",
-      "ticker": "ZRO",
-      "consecutive_red": 7,
-      "gain_pct": 23.6,
-      "rise_pct": 0.82,
-      "current_price": 1236.0
-    },
-    {
-      "date": "2026-06-11",
-      "type": "bounce",
       "ticker": "XLM",
       "consecutive_red": 4,
       "gain_pct": 55.7,
@@ -1799,6 +1781,24 @@
       "gain_pct": 22.0,
       "rise_pct": 0.83,
       "current_price": 85.5
+    },
+    {
+      "date": "2026-07-27",
+      "type": "bounce",
+      "ticker": "B3",
+      "consecutive_red": 6,
+      "gain_pct": 21.5,
+      "rise_pct": 1.39,
+      "current_price": 0.73
+    },
+    {
+      "date": "2026-07-27",
+      "type": "bounce",
+      "ticker": "JTO",
+      "consecutive_red": 3,
+      "gain_pct": 21.0,
+      "rise_pct": 1.88,
+      "current_price": 869.0
     }
   ]
 }
