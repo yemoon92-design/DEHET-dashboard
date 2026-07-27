@@ -1,51 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-06-17",
-      "ticker": "KRW-INJ",
-      "score": 8,
-      "entry_price": 8480.0,
-      "return_1d": -5.9,
-      "return_3d": -9.49,
-      "return_5d": -12.74
-    },
-    {
-      "date": "2026-06-17",
-      "ticker": "KRW-AAVE",
-      "score": 8,
-      "entry_price": 116000.0,
-      "return_1d": -3.97,
-      "return_3d": -4.57,
-      "return_5d": -2.67
-    },
-    {
-      "date": "2026-06-17",
-      "ticker": "KRW-WLD",
-      "score": 7,
-      "entry_price": 1042.0,
-      "return_1d": -6.81,
-      "return_3d": -12.76,
-      "return_5d": -8.45
-    },
-    {
-      "date": "2026-06-17",
-      "ticker": "KRW-XLM",
-      "score": 7,
-      "entry_price": 340.0,
-      "return_1d": 3.53,
-      "return_3d": -5.59,
-      "return_5d": -6.76
-    },
-    {
-      "date": "2026-06-17",
-      "ticker": "KRW-NEAR",
-      "score": 7,
-      "entry_price": 3520.0,
-      "return_1d": -5.6,
-      "return_3d": -6.68,
-      "return_5d": -8.35
-    },
-    {
       "date": "2026-06-18",
       "ticker": "KRW-XLM",
       "score": 7,
@@ -1796,6 +1751,51 @@
       "ticker": "KRW-DOGE",
       "score": 6,
       "entry_price": 106.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-07-27",
+      "ticker": "KRW-MANTRA",
+      "score": 8,
+      "entry_price": 9.53,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-07-27",
+      "ticker": "KRW-ZBT",
+      "score": 7,
+      "entry_price": 167.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-07-27",
+      "ticker": "KRW-TOSHI",
+      "score": 7,
+      "entry_price": 0.164,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-07-27",
+      "ticker": "KRW-TREE",
+      "score": 7,
+      "entry_price": 57.9,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-07-27",
+      "ticker": "KRW-VANA",
+      "score": 7,
+      "entry_price": 1731.0,
       "return_1d": null,
       "return_3d": null,
       "return_5d": null
