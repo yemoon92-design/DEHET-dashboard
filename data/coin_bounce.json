@@ -1,33 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-06-11",
-      "type": "bounce",
-      "ticker": "PENGU",
-      "consecutive_red": 3,
-      "gain_pct": 20.4,
-      "rise_pct": 1.87,
-      "current_price": 9.78
-    },
-    {
-      "date": "2026-06-15",
-      "type": "bounce",
-      "ticker": "KAT",
-      "consecutive_red": 4,
-      "gain_pct": 52.6,
-      "rise_pct": 0.46,
-      "current_price": 8.77
-    },
-    {
-      "date": "2026-06-15",
-      "type": "bounce",
-      "ticker": "CTC",
-      "consecutive_red": 3,
-      "gain_pct": 26.9,
-      "rise_pct": 3.5,
-      "current_price": 148.0
-    },
-    {
       "date": "2026-06-16",
       "type": "bounce",
       "ticker": "WAVES",
@@ -1799,6 +1772,33 @@
       "gain_pct": 21.0,
       "rise_pct": 0.64,
       "current_price": 785.0
+    },
+    {
+      "date": "2026-07-30",
+      "type": "bounce",
+      "ticker": "ERA",
+      "consecutive_red": 5,
+      "gain_pct": 81.2,
+      "rise_pct": 1.95,
+      "current_price": 99.2
+    },
+    {
+      "date": "2026-07-30",
+      "type": "bounce",
+      "ticker": "PIEVERSE",
+      "consecutive_red": 3,
+      "gain_pct": 58.5,
+      "rise_pct": 0.21,
+      "current_price": 942.0
+    },
+    {
+      "date": "2026-07-30",
+      "type": "bounce",
+      "ticker": "SHIB",
+      "consecutive_red": 3,
+      "gain_pct": 41.7,
+      "rise_pct": 0.15,
+      "current_price": 0.00665
     }
   ]
 }
