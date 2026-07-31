@@ -1,42 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-06-16",
-      "type": "bounce",
-      "ticker": "WAVES",
-      "consecutive_red": 3,
-      "gain_pct": 41.7,
-      "rise_pct": 17.49,
-      "current_price": 477.0
-    },
-    {
-      "date": "2026-06-17",
-      "type": "bounce",
-      "ticker": "KAT",
-      "consecutive_red": 6,
-      "gain_pct": 52.6,
-      "rise_pct": 0.58,
-      "current_price": 8.63
-    },
-    {
-      "date": "2026-06-17",
-      "type": "bounce",
-      "ticker": "BLEND",
-      "consecutive_red": 4,
-      "gain_pct": 22.0,
-      "rise_pct": 1.0,
-      "current_price": 91.2
-    },
-    {
-      "date": "2026-06-17",
-      "type": "bounce",
-      "ticker": "TRUMP",
-      "consecutive_red": 3,
-      "gain_pct": 57.7,
-      "rise_pct": 0.56,
-      "current_price": 2881.0
-    },
-    {
       "date": "2026-06-17",
       "type": "bounce",
       "ticker": "MEGA",
@@ -1799,6 +1763,42 @@
       "gain_pct": 41.7,
       "rise_pct": 0.15,
       "current_price": 0.00665
+    },
+    {
+      "date": "2026-07-31",
+      "type": "bounce",
+      "ticker": "XEC",
+      "consecutive_red": 8,
+      "gain_pct": 72.5,
+      "rise_pct": 0.12,
+      "current_price": 0.00843
+    },
+    {
+      "date": "2026-07-31",
+      "type": "bounce",
+      "ticker": "ERA",
+      "consecutive_red": 6,
+      "gain_pct": 81.2,
+      "rise_pct": 9.29,
+      "current_price": 100.0
+    },
+    {
+      "date": "2026-07-31",
+      "type": "bounce",
+      "ticker": "PIEVERSE",
+      "consecutive_red": 4,
+      "gain_pct": 58.5,
+      "rise_pct": 0.11,
+      "current_price": 941.0
+    },
+    {
+      "date": "2026-07-31",
+      "type": "bounce",
+      "ticker": "VVV",
+      "consecutive_red": 4,
+      "gain_pct": 50.6,
+      "rise_pct": 0.91,
+      "current_price": 17650.0
     }
   ]
 }
