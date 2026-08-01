@@ -3,33 +3,6 @@
     {
       "date": "2026-06-17",
       "type": "bounce",
-      "ticker": "MEGA",
-      "consecutive_red": 3,
-      "gain_pct": 57.2,
-      "rise_pct": 1.5,
-      "current_price": 87.8
-    },
-    {
-      "date": "2026-06-17",
-      "type": "bounce",
-      "ticker": "AXL",
-      "consecutive_red": 3,
-      "gain_pct": 36.0,
-      "rise_pct": 2.18,
-      "current_price": 70.4
-    },
-    {
-      "date": "2026-06-17",
-      "type": "bounce",
-      "ticker": "FLOCK",
-      "consecutive_red": 3,
-      "gain_pct": 30.0,
-      "rise_pct": 2.83,
-      "current_price": 61.7
-    },
-    {
-      "date": "2026-06-17",
-      "type": "bounce",
       "ticker": "VIRTUAL",
       "consecutive_red": 3,
       "gain_pct": 24.6,
@@ -1799,6 +1772,33 @@
       "gain_pct": 50.6,
       "rise_pct": 0.91,
       "current_price": 17650.0
+    },
+    {
+      "date": "2026-08-01",
+      "type": "bounce",
+      "ticker": "SLX",
+      "consecutive_red": 7,
+      "gain_pct": 23.8,
+      "rise_pct": 0.84,
+      "current_price": 120.0
+    },
+    {
+      "date": "2026-08-01",
+      "type": "bounce",
+      "ticker": "VVV",
+      "consecutive_red": 5,
+      "gain_pct": 50.6,
+      "rise_pct": 0.59,
+      "current_price": 17080.0
+    },
+    {
+      "date": "2026-08-01",
+      "type": "bounce",
+      "ticker": "ZAMA",
+      "consecutive_red": 4,
+      "gain_pct": 105.7,
+      "rise_pct": 3.58,
+      "current_price": 78.1
     }
   ]
 }
