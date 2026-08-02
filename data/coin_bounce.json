@@ -3,24 +3,6 @@
     {
       "date": "2026-06-17",
       "type": "bounce",
-      "ticker": "VIRTUAL",
-      "consecutive_red": 3,
-      "gain_pct": 24.6,
-      "rise_pct": 2.12,
-      "current_price": 962.0
-    },
-    {
-      "date": "2026-06-17",
-      "type": "bounce",
-      "ticker": "TOSHI",
-      "consecutive_red": 3,
-      "gain_pct": 23.5,
-      "rise_pct": 1.52,
-      "current_price": 0.2
-    },
-    {
-      "date": "2026-06-17",
-      "type": "bounce",
       "ticker": "TRUST",
       "consecutive_red": 3,
       "gain_pct": 22.3,
@@ -1799,6 +1781,24 @@
       "gain_pct": 105.7,
       "rise_pct": 3.58,
       "current_price": 78.1
+    },
+    {
+      "date": "2026-08-02",
+      "type": "bounce",
+      "ticker": "VVV",
+      "consecutive_red": 6,
+      "gain_pct": 50.6,
+      "rise_pct": 0.3,
+      "current_price": 16810.0
+    },
+    {
+      "date": "2026-08-02",
+      "type": "bounce",
+      "ticker": "ZAMA",
+      "consecutive_red": 5,
+      "gain_pct": 105.7,
+      "rise_pct": 0.82,
+      "current_price": 74.2
     }
   ]
 }
