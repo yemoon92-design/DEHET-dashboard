@@ -3,24 +3,6 @@
     {
       "date": "2026-06-18",
       "type": "bounce",
-      "ticker": "TRUST",
-      "consecutive_red": 4,
-      "gain_pct": 22.3,
-      "rise_pct": 0.94,
-      "current_price": 75.1
-    },
-    {
-      "date": "2026-06-18",
-      "type": "bounce",
-      "ticker": "KITE",
-      "consecutive_red": 4,
-      "gain_pct": 20.4,
-      "rise_pct": 0.71,
-      "current_price": 283.0
-    },
-    {
-      "date": "2026-06-18",
-      "type": "bounce",
       "ticker": "ZKP",
       "consecutive_red": 3,
       "gain_pct": 36.7,
@@ -1799,6 +1781,24 @@
       "gain_pct": 24.1,
       "rise_pct": 2.56,
       "current_price": 560.0
+    },
+    {
+      "date": "2026-08-07",
+      "type": "bounce",
+      "ticker": "AKT",
+      "consecutive_red": 3,
+      "gain_pct": 33.4,
+      "rise_pct": 0.89,
+      "current_price": 682.0
+    },
+    {
+      "date": "2026-08-07",
+      "type": "bounce",
+      "ticker": "XCN",
+      "consecutive_red": 3,
+      "gain_pct": 25.7,
+      "rise_pct": 0.23,
+      "current_price": 4.36
     }
   ]
 }
