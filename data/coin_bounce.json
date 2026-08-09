@@ -1,24 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-06-18",
-      "type": "bounce",
-      "ticker": "RENDER",
-      "consecutive_red": 3,
-      "gain_pct": 22.3,
-      "rise_pct": 1.56,
-      "current_price": 2596.0
-    },
-    {
-      "date": "2026-06-19",
-      "type": "bounce",
-      "ticker": "KAT",
-      "consecutive_red": 8,
-      "gain_pct": 52.6,
-      "rise_pct": 0.62,
-      "current_price": 8.1
-    },
-    {
       "date": "2026-06-19",
       "type": "bounce",
       "ticker": "BLEND",
@@ -1799,6 +1781,24 @@
       "gain_pct": 21.9,
       "rise_pct": 10.95,
       "current_price": 30.4
+    },
+    {
+      "date": "2026-08-09",
+      "type": "bounce",
+      "ticker": "O",
+      "consecutive_red": 4,
+      "gain_pct": 22.1,
+      "rise_pct": 1.22,
+      "current_price": 663.0
+    },
+    {
+      "date": "2026-08-09",
+      "type": "bounce",
+      "ticker": "G",
+      "consecutive_red": 3,
+      "gain_pct": 21.0,
+      "rise_pct": 0.4,
+      "current_price": 5.04
     }
   ]
 }
