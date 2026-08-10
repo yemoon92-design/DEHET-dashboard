@@ -1,51 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-07-01",
-      "ticker": "KRW-XLM",
-      "score": 7,
-      "entry_price": 305.0,
-      "return_1d": 0.98,
-      "return_3d": 2.95,
-      "return_5d": -1.31
-    },
-    {
-      "date": "2026-07-01",
-      "ticker": "KRW-TAIKO",
-      "score": 7,
-      "entry_price": 115.0,
-      "return_1d": 106.09,
-      "return_3d": 67.83,
-      "return_5d": 23.48
-    },
-    {
-      "date": "2026-07-01",
-      "ticker": "KRW-AHT",
-      "score": 7,
-      "entry_price": 1.47,
-      "return_1d": 1.36,
-      "return_3d": -0.68,
-      "return_5d": 2.72
-    },
-    {
-      "date": "2026-07-01",
-      "ticker": "KRW-JTO",
-      "score": 7,
-      "entry_price": 1107.0,
-      "return_1d": 8.58,
-      "return_3d": 2.71,
-      "return_5d": -0.54
-    },
-    {
-      "date": "2026-07-01",
-      "ticker": "KRW-USDT",
-      "score": 6,
-      "entry_price": 1527.0,
-      "return_1d": -0.65,
-      "return_3d": -1.18,
-      "return_5d": -1.31
-    },
-    {
       "date": "2026-07-02",
       "ticker": "KRW-AQT",
       "score": 8,
@@ -1796,6 +1751,51 @@
       "ticker": "KRW-BTC",
       "score": 6,
       "entry_price": 91390000.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-08-10",
+      "ticker": "KRW-MMT",
+      "score": 7,
+      "entry_price": 290.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-08-10",
+      "ticker": "KRW-ESP",
+      "score": 7,
+      "entry_price": 103.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-08-10",
+      "ticker": "KRW-ENSO",
+      "score": 7,
+      "entry_price": 1364.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-08-10",
+      "ticker": "KRW-PUMP",
+      "score": 7,
+      "entry_price": 3.93,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-08-10",
+      "ticker": "KRW-BIRB",
+      "score": 7,
+      "entry_price": 75.6,
       "return_1d": null,
       "return_3d": null,
       "return_5d": null
