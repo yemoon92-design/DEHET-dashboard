@@ -3,24 +3,6 @@
     {
       "date": "2026-06-19",
       "type": "bounce",
-      "ticker": "IMX",
-      "consecutive_red": 4,
-      "gain_pct": 21.3,
-      "rise_pct": 4.25,
-      "current_price": 221.0
-    },
-    {
-      "date": "2026-06-19",
-      "type": "bounce",
-      "ticker": "IRYS",
-      "consecutive_red": 4,
-      "gain_pct": 21.1,
-      "rise_pct": 1.93,
-      "current_price": 26.4
-    },
-    {
-      "date": "2026-06-19",
-      "type": "bounce",
       "ticker": "AERGO",
       "consecutive_red": 4,
       "gain_pct": 20.7,
@@ -1799,6 +1781,24 @@
       "gain_pct": 20.9,
       "rise_pct": 0.83,
       "current_price": 122.0
+    },
+    {
+      "date": "2026-08-13",
+      "type": "bounce",
+      "ticker": "SKR",
+      "consecutive_red": 3,
+      "gain_pct": 27.5,
+      "rise_pct": 0.97,
+      "current_price": 10.4
+    },
+    {
+      "date": "2026-08-13",
+      "type": "bounce",
+      "ticker": "YGG",
+      "consecutive_red": 3,
+      "gain_pct": 26.7,
+      "rise_pct": 0.75,
+      "current_price": 26.7
     }
   ]
 }
