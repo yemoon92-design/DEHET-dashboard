@@ -3,24 +3,6 @@
     {
       "date": "2026-06-19",
       "type": "bounce",
-      "ticker": "AERGO",
-      "consecutive_red": 4,
-      "gain_pct": 20.7,
-      "rise_pct": 3.69,
-      "current_price": 50.6
-    },
-    {
-      "date": "2026-06-19",
-      "type": "bounce",
-      "ticker": "BERA",
-      "consecutive_red": 4,
-      "gain_pct": 20.4,
-      "rise_pct": 0.28,
-      "current_price": 357.0
-    },
-    {
-      "date": "2026-06-19",
-      "type": "bounce",
       "ticker": "AKT",
       "consecutive_red": 3,
       "gain_pct": 59.0,
@@ -1799,6 +1781,24 @@
       "gain_pct": 26.7,
       "rise_pct": 0.75,
       "current_price": 26.7
+    },
+    {
+      "date": "2026-08-14",
+      "type": "bounce",
+      "ticker": "ADA",
+      "consecutive_red": 7,
+      "gain_pct": 33.9,
+      "rise_pct": 0.78,
+      "current_price": 259.0
+    },
+    {
+      "date": "2026-08-14",
+      "type": "bounce",
+      "ticker": "MMT",
+      "consecutive_red": 3,
+      "gain_pct": 63.6,
+      "rise_pct": 4.2,
+      "current_price": 248.0
     }
   ]
 }
