@@ -3,24 +3,6 @@
     {
       "date": "2026-06-20",
       "type": "bounce",
-      "ticker": "BONK",
-      "consecutive_red": 4,
-      "gain_pct": 26.7,
-      "rise_pct": 0.88,
-      "current_price": 0.00689
-    },
-    {
-      "date": "2026-06-20",
-      "type": "bounce",
-      "ticker": "RAY",
-      "consecutive_red": 4,
-      "gain_pct": 23.8,
-      "rise_pct": 0.33,
-      "current_price": 905.0
-    },
-    {
-      "date": "2026-06-20",
-      "type": "bounce",
       "ticker": "W",
       "consecutive_red": 4,
       "gain_pct": 23.4,
@@ -1799,6 +1781,24 @@
       "gain_pct": 20.7,
       "rise_pct": 0.43,
       "current_price": 47.2
+    },
+    {
+      "date": "2026-08-17",
+      "type": "bounce",
+      "ticker": "OPEN",
+      "consecutive_red": 5,
+      "gain_pct": 34.4,
+      "rise_pct": 0.84,
+      "current_price": 240.0
+    },
+    {
+      "date": "2026-08-17",
+      "type": "bounce",
+      "ticker": "META2",
+      "consecutive_red": 3,
+      "gain_pct": 31.4,
+      "rise_pct": 1.29,
+      "current_price": 6680.0
     }
   ]
 }
