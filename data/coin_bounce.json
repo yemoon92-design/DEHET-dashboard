@@ -3,24 +3,6 @@
     {
       "date": "2026-06-20",
       "type": "bounce",
-      "ticker": "W",
-      "consecutive_red": 4,
-      "gain_pct": 23.4,
-      "rise_pct": 0.7,
-      "current_price": 14.4
-    },
-    {
-      "date": "2026-06-20",
-      "type": "bounce",
-      "ticker": "XRP",
-      "consecutive_red": 4,
-      "gain_pct": 21.0,
-      "rise_pct": 0.47,
-      "current_price": 1727.0
-    },
-    {
-      "date": "2026-06-20",
-      "type": "bounce",
       "ticker": "COW",
       "consecutive_red": 3,
       "gain_pct": 29.3,
@@ -1799,6 +1781,24 @@
       "gain_pct": 31.4,
       "rise_pct": 1.29,
       "current_price": 6680.0
+    },
+    {
+      "date": "2026-08-18",
+      "type": "bounce",
+      "ticker": "OPEN",
+      "consecutive_red": 6,
+      "gain_pct": 34.4,
+      "rise_pct": 0.86,
+      "current_price": 235.0
+    },
+    {
+      "date": "2026-08-18",
+      "type": "bounce",
+      "ticker": "HOME",
+      "consecutive_red": 4,
+      "gain_pct": 76.0,
+      "rise_pct": 3.82,
+      "current_price": 9.78
     }
   ]
 }
