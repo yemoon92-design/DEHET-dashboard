@@ -3,15 +3,6 @@
     {
       "date": "2026-06-21",
       "type": "bounce",
-      "ticker": "SENT",
-      "consecutive_red": 4,
-      "gain_pct": 78.9,
-      "rise_pct": 0.42,
-      "current_price": 23.8
-    },
-    {
-      "date": "2026-06-21",
-      "type": "bounce",
       "ticker": "TRUMP",
       "consecutive_red": 3,
       "gain_pct": 29.5,
@@ -1799,6 +1790,15 @@
       "gain_pct": 76.0,
       "rise_pct": 5.08,
       "current_price": 8.9
+    },
+    {
+      "date": "2026-08-21",
+      "type": "bounce",
+      "ticker": "WLFI",
+      "consecutive_red": 3,
+      "gain_pct": 21.1,
+      "rise_pct": 0.49,
+      "current_price": 82.8
     }
   ]
 }
