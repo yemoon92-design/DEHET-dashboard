@@ -1,51 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-07-13",
-      "ticker": "KRW-KAITO",
-      "score": 7,
-      "entry_price": 1003.0,
-      "return_1d": -2.19,
-      "return_3d": 9.37,
-      "return_5d": 25.82
-    },
-    {
-      "date": "2026-07-13",
-      "ticker": "KRW-JTO",
-      "score": 7,
-      "entry_price": 923.0,
-      "return_1d": 2.28,
-      "return_3d": -1.19,
-      "return_5d": -10.62
-    },
-    {
-      "date": "2026-07-13",
-      "ticker": "KRW-KITE",
-      "score": 7,
-      "entry_price": 185.0,
-      "return_1d": 3.78,
-      "return_3d": 2.16,
-      "return_5d": -8.65
-    },
-    {
-      "date": "2026-07-13",
-      "ticker": "KRW-HUNT",
-      "score": 7,
-      "entry_price": 122.0,
-      "return_1d": -2.46,
-      "return_3d": -1.64,
-      "return_5d": -1.64
-    },
-    {
-      "date": "2026-07-13",
-      "ticker": "KRW-ETH",
-      "score": 6,
-      "entry_price": 2722000.0,
-      "return_1d": -3.09,
-      "return_3d": 3.56,
-      "return_5d": -0.15
-    },
-    {
       "date": "2026-07-14",
       "ticker": "KRW-KITE",
       "score": 7,
@@ -1796,6 +1751,51 @@
       "ticker": "KRW-MMT",
       "score": 6,
       "entry_price": 246.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-08-22",
+      "ticker": "KRW-MMT",
+      "score": 8,
+      "entry_price": 260.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-08-22",
+      "ticker": "KRW-ENSO",
+      "score": 8,
+      "entry_price": 1193.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-08-22",
+      "ticker": "KRW-HOLO",
+      "score": 7,
+      "entry_price": 94.4,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-08-22",
+      "ticker": "KRW-PUMP",
+      "score": 6,
+      "entry_price": 5.58,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-08-22",
+      "ticker": "KRW-ETC",
+      "score": 6,
+      "entry_price": 11590.0,
       "return_1d": null,
       "return_3d": null,
       "return_5d": null
