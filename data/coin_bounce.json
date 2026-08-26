@@ -1,24 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-06-21",
-      "type": "bounce",
-      "ticker": "TRUMP",
-      "consecutive_red": 3,
-      "gain_pct": 29.5,
-      "rise_pct": 0.15,
-      "current_price": 2741.0
-    },
-    {
-      "date": "2026-06-22",
-      "type": "bounce",
-      "ticker": "KITE",
-      "consecutive_red": 8,
-      "gain_pct": 20.4,
-      "rise_pct": 0.81,
-      "current_price": 250.0
-    },
-    {
       "date": "2026-06-22",
       "type": "bounce",
       "ticker": "ZRO",
@@ -1799,6 +1781,24 @@
       "gain_pct": 21.1,
       "rise_pct": 0.49,
       "current_price": 82.8
+    },
+    {
+      "date": "2026-08-26",
+      "type": "bounce",
+      "ticker": "BCH",
+      "consecutive_red": 4,
+      "gain_pct": 46.6,
+      "rise_pct": 0.11,
+      "current_price": 370600.0
+    },
+    {
+      "date": "2026-08-26",
+      "type": "bounce",
+      "ticker": "BEAM",
+      "consecutive_red": 4,
+      "gain_pct": 23.6,
+      "rise_pct": 0.51,
+      "current_price": 1.99
     }
   ]
 }
