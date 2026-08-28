@@ -3,24 +3,6 @@
     {
       "date": "2026-06-22",
       "type": "bounce",
-      "ticker": "ZRO",
-      "consecutive_red": 6,
-      "gain_pct": 52.7,
-      "rise_pct": 1.1,
-      "current_price": 1380.0
-    },
-    {
-      "date": "2026-06-22",
-      "type": "bounce",
-      "ticker": "ENS",
-      "consecutive_red": 6,
-      "gain_pct": 33.5,
-      "rise_pct": 1.57,
-      "current_price": 7125.0
-    },
-    {
-      "date": "2026-06-22",
-      "type": "bounce",
       "ticker": "IOTA",
       "consecutive_red": 6,
       "gain_pct": 21.5,
@@ -1799,6 +1781,24 @@
       "gain_pct": 23.6,
       "rise_pct": 0.51,
       "current_price": 1.99
+    },
+    {
+      "date": "2026-08-28",
+      "type": "bounce",
+      "ticker": "STORJ",
+      "consecutive_red": 3,
+      "gain_pct": 71.2,
+      "rise_pct": 2.43,
+      "current_price": 58.9
+    },
+    {
+      "date": "2026-08-28",
+      "type": "bounce",
+      "ticker": "CC",
+      "consecutive_red": 3,
+      "gain_pct": 46.8,
+      "rise_pct": 0.65,
+      "current_price": 156.0
     }
   ]
 }
