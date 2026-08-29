@@ -3,42 +3,6 @@
     {
       "date": "2026-06-22",
       "type": "bounce",
-      "ticker": "IOTA",
-      "consecutive_red": 6,
-      "gain_pct": 21.5,
-      "rise_pct": 1.81,
-      "current_price": 67.4
-    },
-    {
-      "date": "2026-06-22",
-      "type": "bounce",
-      "ticker": "WLD",
-      "consecutive_red": 5,
-      "gain_pct": 100.8,
-      "rise_pct": 5.04,
-      "current_price": 958.0
-    },
-    {
-      "date": "2026-06-22",
-      "type": "bounce",
-      "ticker": "SENT",
-      "consecutive_red": 5,
-      "gain_pct": 78.9,
-      "rise_pct": 1.79,
-      "current_price": 22.7
-    },
-    {
-      "date": "2026-06-22",
-      "type": "bounce",
-      "ticker": "TIA",
-      "consecutive_red": 5,
-      "gain_pct": 43.6,
-      "rise_pct": 2.73,
-      "current_price": 565.0
-    },
-    {
-      "date": "2026-06-22",
-      "type": "bounce",
       "ticker": "UNI",
       "consecutive_red": 5,
       "gain_pct": 41.3,
@@ -1799,6 +1763,42 @@
       "gain_pct": 46.8,
       "rise_pct": 0.65,
       "current_price": 156.0
+    },
+    {
+      "date": "2026-08-29",
+      "type": "bounce",
+      "ticker": "ZORA",
+      "consecutive_red": 5,
+      "gain_pct": 60.8,
+      "rise_pct": 0.36,
+      "current_price": 8.48
+    },
+    {
+      "date": "2026-08-29",
+      "type": "bounce",
+      "ticker": "TRAC",
+      "consecutive_red": 4,
+      "gain_pct": 86.1,
+      "rise_pct": 3.93,
+      "current_price": 476.0
+    },
+    {
+      "date": "2026-08-29",
+      "type": "bounce",
+      "ticker": "QUID",
+      "consecutive_red": 4,
+      "gain_pct": 42.0,
+      "rise_pct": 7.26,
+      "current_price": 94.5
+    },
+    {
+      "date": "2026-08-29",
+      "type": "bounce",
+      "ticker": "RED",
+      "consecutive_red": 3,
+      "gain_pct": 50.9,
+      "rise_pct": 2.01,
+      "current_price": 152.0
     }
   ]
 }
