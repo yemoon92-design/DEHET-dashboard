@@ -1,33 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-06-22",
-      "type": "bounce",
-      "ticker": "UNI",
-      "consecutive_red": 5,
-      "gain_pct": 41.3,
-      "rise_pct": 2.31,
-      "current_price": 4607.0
-    },
-    {
-      "date": "2026-06-22",
-      "type": "bounce",
-      "ticker": "MANTRA",
-      "consecutive_red": 5,
-      "gain_pct": 28.0,
-      "rise_pct": 0.89,
-      "current_price": 11.3
-    },
-    {
-      "date": "2026-06-22",
-      "type": "bounce",
-      "ticker": "SUI",
-      "consecutive_red": 5,
-      "gain_pct": 20.6,
-      "rise_pct": 1.91,
-      "current_price": 1065.0
-    },
-    {
       "date": "2026-06-23",
       "type": "bounce",
       "ticker": "XPL",
@@ -1799,6 +1772,33 @@
       "gain_pct": 50.9,
       "rise_pct": 2.01,
       "current_price": 152.0
+    },
+    {
+      "date": "2026-08-30",
+      "type": "bounce",
+      "ticker": "MON",
+      "consecutive_red": 3,
+      "gain_pct": 47.5,
+      "rise_pct": 0.54,
+      "current_price": 37.4
+    },
+    {
+      "date": "2026-08-30",
+      "type": "bounce",
+      "ticker": "TOSHI",
+      "consecutive_red": 3,
+      "gain_pct": 36.3,
+      "rise_pct": 0.59,
+      "current_price": 0.171
+    },
+    {
+      "date": "2026-08-30",
+      "type": "bounce",
+      "ticker": "W",
+      "consecutive_red": 3,
+      "gain_pct": 32.4,
+      "rise_pct": 0.79,
+      "current_price": 12.7
     }
   ]
 }
