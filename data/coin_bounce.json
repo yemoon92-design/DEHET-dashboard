@@ -1,42 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-06-25",
-      "type": "bounce",
-      "ticker": "ZAMA",
-      "consecutive_red": 5,
-      "gain_pct": 31.7,
-      "rise_pct": 1.06,
-      "current_price": 47.6
-    },
-    {
-      "date": "2026-06-25",
-      "type": "bounce",
-      "ticker": "CFG",
-      "consecutive_red": 5,
-      "gain_pct": 31.6,
-      "rise_pct": 0.64,
-      "current_price": 316.0
-    },
-    {
-      "date": "2026-06-25",
-      "type": "bounce",
-      "ticker": "ARKM",
-      "consecutive_red": 5,
-      "gain_pct": 28.6,
-      "rise_pct": 1.11,
-      "current_price": 182.0
-    },
-    {
-      "date": "2026-06-25",
-      "type": "bounce",
-      "ticker": "SOMI",
-      "consecutive_red": 5,
-      "gain_pct": 20.9,
-      "rise_pct": 0.67,
-      "current_price": 151.0
-    },
-    {
       "date": "2026-06-26",
       "type": "bounce",
       "ticker": "ANIME",
@@ -1799,6 +1763,42 @@
       "gain_pct": 32.7,
       "rise_pct": 0.21,
       "current_price": 95.2
+    },
+    {
+      "date": "2026-09-02",
+      "type": "bounce",
+      "ticker": "UP2",
+      "consecutive_red": 4,
+      "gain_pct": 21.5,
+      "rise_pct": 0.72,
+      "current_price": 70.3
+    },
+    {
+      "date": "2026-09-02",
+      "type": "bounce",
+      "ticker": "PROM",
+      "consecutive_red": 3,
+      "gain_pct": 293.2,
+      "rise_pct": 2.43,
+      "current_price": 6755.0
+    },
+    {
+      "date": "2026-09-02",
+      "type": "bounce",
+      "ticker": "ZAMA",
+      "consecutive_red": 3,
+      "gain_pct": 31.4,
+      "rise_pct": 0.29,
+      "current_price": 69.0
+    },
+    {
+      "date": "2026-09-02",
+      "type": "bounce",
+      "ticker": "CRO",
+      "consecutive_red": 3,
+      "gain_pct": 26.4,
+      "rise_pct": 0.26,
+      "current_price": 76.0
     }
   ]
 }
