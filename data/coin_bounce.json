@@ -3,69 +3,6 @@
     {
       "date": "2026-06-26",
       "type": "bounce",
-      "ticker": "ANIME",
-      "consecutive_red": 5,
-      "gain_pct": 21.7,
-      "rise_pct": 0.26,
-      "current_price": 3.89
-    },
-    {
-      "date": "2026-06-26",
-      "type": "bounce",
-      "ticker": "SC",
-      "consecutive_red": 5,
-      "gain_pct": 20.5,
-      "rise_pct": 1.33,
-      "current_price": 0.988
-    },
-    {
-      "date": "2026-06-26",
-      "type": "bounce",
-      "ticker": "TAIKO",
-      "consecutive_red": 4,
-      "gain_pct": 25.6,
-      "rise_pct": 0.32,
-      "current_price": 94.0
-    },
-    {
-      "date": "2026-06-26",
-      "type": "bounce",
-      "ticker": "W",
-      "consecutive_red": 3,
-      "gain_pct": 55.5,
-      "rise_pct": 0.72,
-      "current_price": 14.0
-    },
-    {
-      "date": "2026-06-26",
-      "type": "bounce",
-      "ticker": "LAYER",
-      "consecutive_red": 3,
-      "gain_pct": 46.5,
-      "rise_pct": 1.2,
-      "current_price": 101.0
-    },
-    {
-      "date": "2026-06-26",
-      "type": "bounce",
-      "ticker": "AQT",
-      "consecutive_red": 3,
-      "gain_pct": 40.4,
-      "rise_pct": 0.64,
-      "current_price": 314.0
-    },
-    {
-      "date": "2026-06-26",
-      "type": "bounce",
-      "ticker": "MOC",
-      "consecutive_red": 3,
-      "gain_pct": 29.5,
-      "rise_pct": 10.57,
-      "current_price": 27.2
-    },
-    {
-      "date": "2026-06-26",
-      "type": "bounce",
       "ticker": "BREV",
       "consecutive_red": 3,
       "gain_pct": 22.8,
@@ -1799,6 +1736,69 @@
       "gain_pct": 26.4,
       "rise_pct": 0.26,
       "current_price": 76.0
+    },
+    {
+      "date": "2026-09-03",
+      "type": "bounce",
+      "ticker": "GLM",
+      "consecutive_red": 5,
+      "gain_pct": 35.3,
+      "rise_pct": 2.07,
+      "current_price": 148.0
+    },
+    {
+      "date": "2026-09-03",
+      "type": "bounce",
+      "ticker": "PUMP",
+      "consecutive_red": 4,
+      "gain_pct": 88.9,
+      "rise_pct": 2.31,
+      "current_price": 5.75
+    },
+    {
+      "date": "2026-09-03",
+      "type": "bounce",
+      "ticker": "SNT",
+      "consecutive_red": 4,
+      "gain_pct": 60.7,
+      "rise_pct": 11.65,
+      "current_price": 9.97
+    },
+    {
+      "date": "2026-09-03",
+      "type": "bounce",
+      "ticker": "STEEM",
+      "consecutive_red": 4,
+      "gain_pct": 35.3,
+      "rise_pct": 2.05,
+      "current_price": 59.8
+    },
+    {
+      "date": "2026-09-03",
+      "type": "bounce",
+      "ticker": "DOS",
+      "consecutive_red": 3,
+      "gain_pct": 62.0,
+      "rise_pct": 0.92,
+      "current_price": 329.0
+    },
+    {
+      "date": "2026-09-03",
+      "type": "bounce",
+      "ticker": "AUCTION",
+      "consecutive_red": 3,
+      "gain_pct": 57.1,
+      "rise_pct": 1.0,
+      "current_price": 4523.0
+    },
+    {
+      "date": "2026-09-03",
+      "type": "bounce",
+      "ticker": "PLUME",
+      "consecutive_red": 3,
+      "gain_pct": 28.3,
+      "rise_pct": 0.52,
+      "current_price": 19.4
     }
   ]
 }
