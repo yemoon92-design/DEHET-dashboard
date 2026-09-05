@@ -1,33 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-06-26",
-      "type": "bounce",
-      "ticker": "BREV",
-      "consecutive_red": 3,
-      "gain_pct": 22.8,
-      "rise_pct": 4.59,
-      "current_price": 114.0
-    },
-    {
-      "date": "2026-06-27",
-      "type": "bounce",
-      "ticker": "SC",
-      "consecutive_red": 6,
-      "gain_pct": 20.5,
-      "rise_pct": 0.41,
-      "current_price": 0.977
-    },
-    {
-      "date": "2026-06-27",
-      "type": "bounce",
-      "ticker": "WLD",
-      "consecutive_red": 4,
-      "gain_pct": 57.9,
-      "rise_pct": 0.14,
-      "current_price": 710.0
-    },
-    {
       "date": "2026-06-27",
       "type": "bounce",
       "ticker": "LAYER",
@@ -1799,6 +1772,33 @@
       "gain_pct": 28.3,
       "rise_pct": 0.52,
       "current_price": 19.4
+    },
+    {
+      "date": "2026-09-05",
+      "type": "bounce",
+      "ticker": "CRV",
+      "consecutive_red": 3,
+      "gain_pct": 171.9,
+      "rise_pct": 0.21,
+      "current_price": 482.0
+    },
+    {
+      "date": "2026-09-05",
+      "type": "bounce",
+      "ticker": "ONG",
+      "consecutive_red": 3,
+      "gain_pct": 124.2,
+      "rise_pct": 0.75,
+      "current_price": 134.0
+    },
+    {
+      "date": "2026-09-05",
+      "type": "bounce",
+      "ticker": "IQ",
+      "consecutive_red": 3,
+      "gain_pct": 61.0,
+      "rise_pct": 0.1,
+      "current_price": 0.967
     }
   ]
 }
