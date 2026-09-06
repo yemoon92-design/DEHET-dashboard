@@ -3,24 +3,6 @@
     {
       "date": "2026-06-27",
       "type": "bounce",
-      "ticker": "LAYER",
-      "consecutive_red": 4,
-      "gain_pct": 46.5,
-      "rise_pct": 2.62,
-      "current_price": 102.0
-    },
-    {
-      "date": "2026-06-27",
-      "type": "bounce",
-      "ticker": "AKT",
-      "consecutive_red": 4,
-      "gain_pct": 37.7,
-      "rise_pct": 1.73,
-      "current_price": 998.0
-    },
-    {
-      "date": "2026-06-27",
-      "type": "bounce",
       "ticker": "CHIP",
       "consecutive_red": 4,
       "gain_pct": 22.8,
@@ -1799,6 +1781,24 @@
       "gain_pct": 61.0,
       "rise_pct": 0.1,
       "current_price": 0.967
+    },
+    {
+      "date": "2026-09-06",
+      "type": "bounce",
+      "ticker": "FOLD",
+      "consecutive_red": 6,
+      "gain_pct": 31.8,
+      "rise_pct": 0.13,
+      "current_price": 76.2
+    },
+    {
+      "date": "2026-09-06",
+      "type": "bounce",
+      "ticker": "T",
+      "consecutive_red": 3,
+      "gain_pct": 87.8,
+      "rise_pct": 11.36,
+      "current_price": 6.57
     }
   ]
 }
