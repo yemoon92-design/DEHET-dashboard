@@ -1,51 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-07-31",
-      "ticker": "KRW-ONDO",
-      "score": 8,
-      "entry_price": 593.0,
-      "return_1d": -4.55,
-      "return_3d": -10.96,
-      "return_5d": -9.44
-    },
-    {
-      "date": "2026-07-31",
-      "ticker": "KRW-BTC",
-      "score": 7,
-      "entry_price": 92554000.0,
-      "return_1d": -2.08,
-      "return_3d": -2.76,
-      "return_5d": -1.17
-    },
-    {
-      "date": "2026-07-31",
-      "ticker": "KRW-ESP",
-      "score": 7,
-      "entry_price": 101.0,
-      "return_1d": -6.53,
-      "return_3d": -8.22,
-      "return_5d": -15.05
-    },
-    {
-      "date": "2026-07-31",
-      "ticker": "KRW-EDGE",
-      "score": 7,
-      "entry_price": 98.2,
-      "return_1d": -7.43,
-      "return_3d": -6.01,
-      "return_5d": -9.78
-    },
-    {
-      "date": "2026-07-31",
-      "ticker": "KRW-SHIB",
-      "score": 7,
-      "entry_price": 0.00682,
-      "return_1d": 3.52,
-      "return_3d": 1.76,
-      "return_5d": 3.67
-    },
-    {
       "date": "2026-08-01",
       "ticker": "KRW-SHIB",
       "score": 7,
@@ -1796,6 +1751,51 @@
       "ticker": "KRW-ETH",
       "score": 7,
       "entry_price": 3399000.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-09-09",
+      "ticker": "KRW-PENGU",
+      "score": 8,
+      "entry_price": 11.1,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-09-09",
+      "ticker": "KRW-ONG",
+      "score": 8,
+      "entry_price": 131.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-09-09",
+      "ticker": "KRW-POL",
+      "score": 8,
+      "entry_price": 130.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-09-09",
+      "ticker": "KRW-BTC",
+      "score": 7,
+      "entry_price": 106862000.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-09-09",
+      "ticker": "KRW-ENA",
+      "score": 7,
+      "entry_price": 218.0,
       "return_1d": null,
       "return_3d": null,
       "return_5d": null
