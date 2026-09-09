@@ -1,33 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-06-28",
-      "type": "bounce",
-      "ticker": "AERO",
-      "consecutive_red": 3,
-      "gain_pct": 65.0,
-      "rise_pct": 0.71,
-      "current_price": 707.0
-    },
-    {
-      "date": "2026-06-28",
-      "type": "bounce",
-      "ticker": "MASK",
-      "consecutive_red": 3,
-      "gain_pct": 24.6,
-      "rise_pct": 1.56,
-      "current_price": 587.0
-    },
-    {
-      "date": "2026-06-29",
-      "type": "bounce",
-      "ticker": "ZRO",
-      "consecutive_red": 6,
-      "gain_pct": 26.3,
-      "rise_pct": 0.26,
-      "current_price": 1177.0
-    },
-    {
       "date": "2026-06-29",
       "type": "bounce",
       "ticker": "MASK",
@@ -1799,6 +1772,33 @@
       "gain_pct": 23.9,
       "rise_pct": 2.51,
       "current_price": 4.09
+    },
+    {
+      "date": "2026-09-09",
+      "type": "bounce",
+      "ticker": "SPX",
+      "consecutive_red": 5,
+      "gain_pct": 87.8,
+      "rise_pct": 0.42,
+      "current_price": 721.0
+    },
+    {
+      "date": "2026-09-09",
+      "type": "bounce",
+      "ticker": "CHIP",
+      "consecutive_red": 3,
+      "gain_pct": 117.4,
+      "rise_pct": 0.41,
+      "current_price": 72.7
+    },
+    {
+      "date": "2026-09-09",
+      "type": "bounce",
+      "ticker": "TRUMP",
+      "consecutive_red": 3,
+      "gain_pct": 49.3,
+      "rise_pct": 0.03,
+      "current_price": 3018.0
     }
   ]
 }
