@@ -3,24 +3,6 @@
     {
       "date": "2026-07-08",
       "type": "bounce",
-      "ticker": "IN",
-      "consecutive_red": 8,
-      "gain_pct": 89.4,
-      "rise_pct": 0.55,
-      "current_price": 72.7
-    },
-    {
-      "date": "2026-07-08",
-      "type": "bounce",
-      "ticker": "VVV",
-      "consecutive_red": 6,
-      "gain_pct": 26.7,
-      "rise_pct": 3.3,
-      "current_price": 16270.0
-    },
-    {
-      "date": "2026-07-08",
-      "type": "bounce",
       "ticker": "ZBT",
       "consecutive_red": 4,
       "gain_pct": 47.3,
@@ -1799,6 +1781,24 @@
       "gain_pct": 190.5,
       "rise_pct": 1.2,
       "current_price": 25.4
+    },
+    {
+      "date": "2026-09-13",
+      "type": "bounce",
+      "ticker": "TAO",
+      "consecutive_red": 6,
+      "gain_pct": 27.1,
+      "rise_pct": 0.32,
+      "current_price": 317700.0
+    },
+    {
+      "date": "2026-09-13",
+      "type": "bounce",
+      "ticker": "PENGU",
+      "consecutive_red": 6,
+      "gain_pct": 20.6,
+      "rise_pct": 1.02,
+      "current_price": 9.95
     }
   ]
 }
