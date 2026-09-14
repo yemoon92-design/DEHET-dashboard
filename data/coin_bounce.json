@@ -1,78 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-07-08",
-      "type": "bounce",
-      "ticker": "ZBT",
-      "consecutive_red": 4,
-      "gain_pct": 47.3,
-      "rise_pct": 1.11,
-      "current_price": 182.0
-    },
-    {
-      "date": "2026-07-08",
-      "type": "bounce",
-      "ticker": "DOOD",
-      "consecutive_red": 4,
-      "gain_pct": 23.4,
-      "rise_pct": 2.25,
-      "current_price": 2.27
-    },
-    {
-      "date": "2026-07-08",
-      "type": "bounce",
-      "ticker": "PIEVERSE",
-      "consecutive_red": 4,
-      "gain_pct": 23.1,
-      "rise_pct": 1.39,
-      "current_price": 1020.0
-    },
-    {
-      "date": "2026-07-08",
-      "type": "bounce",
-      "ticker": "WLD",
-      "consecutive_red": 4,
-      "gain_pct": 23.0,
-      "rise_pct": 1.05,
-      "current_price": 578.0
-    },
-    {
-      "date": "2026-07-08",
-      "type": "bounce",
-      "ticker": "INJ",
-      "consecutive_red": 4,
-      "gain_pct": 20.2,
-      "rise_pct": 0.85,
-      "current_price": 7145.0
-    },
-    {
-      "date": "2026-07-08",
-      "type": "bounce",
-      "ticker": "MED",
-      "consecutive_red": 3,
-      "gain_pct": 46.0,
-      "rise_pct": 2.25,
-      "current_price": 2.27
-    },
-    {
-      "date": "2026-07-08",
-      "type": "bounce",
-      "ticker": "ADA",
-      "consecutive_red": 3,
-      "gain_pct": 43.3,
-      "rise_pct": 1.15,
-      "current_price": 264.0
-    },
-    {
-      "date": "2026-07-08",
-      "type": "bounce",
-      "ticker": "FLOCK",
-      "consecutive_red": 3,
-      "gain_pct": 24.0,
-      "rise_pct": 0.21,
-      "current_price": 48.5
-    },
-    {
       "date": "2026-07-09",
       "type": "bounce",
       "ticker": "IN",
@@ -1799,6 +1727,78 @@
       "gain_pct": 20.6,
       "rise_pct": 1.02,
       "current_price": 9.95
+    },
+    {
+      "date": "2026-09-14",
+      "type": "bounce",
+      "ticker": "TAO",
+      "consecutive_red": 7,
+      "gain_pct": 27.1,
+      "rise_pct": 0.95,
+      "current_price": 318400.0
+    },
+    {
+      "date": "2026-09-14",
+      "type": "bounce",
+      "ticker": "PENGU",
+      "consecutive_red": 7,
+      "gain_pct": 20.6,
+      "rise_pct": 0.84,
+      "current_price": 9.6
+    },
+    {
+      "date": "2026-09-14",
+      "type": "bounce",
+      "ticker": "DOT",
+      "consecutive_red": 5,
+      "gain_pct": 54.4,
+      "rise_pct": 0.88,
+      "current_price": 1373.0
+    },
+    {
+      "date": "2026-09-14",
+      "type": "bounce",
+      "ticker": "XPL",
+      "consecutive_red": 5,
+      "gain_pct": 24.5,
+      "rise_pct": 1.89,
+      "current_price": 108.0
+    },
+    {
+      "date": "2026-09-14",
+      "type": "bounce",
+      "ticker": "EGLD",
+      "consecutive_red": 4,
+      "gain_pct": 54.1,
+      "rise_pct": 0.36,
+      "current_price": 5635.0
+    },
+    {
+      "date": "2026-09-14",
+      "type": "bounce",
+      "ticker": "ATOM",
+      "consecutive_red": 4,
+      "gain_pct": 39.0,
+      "rise_pct": 0.74,
+      "current_price": 2167.0
+    },
+    {
+      "date": "2026-09-14",
+      "type": "bounce",
+      "ticker": "PROS",
+      "consecutive_red": 3,
+      "gain_pct": 37.0,
+      "rise_pct": 2.8,
+      "current_price": 662.0
+    },
+    {
+      "date": "2026-09-14",
+      "type": "bounce",
+      "ticker": "CPOOL",
+      "consecutive_red": 3,
+      "gain_pct": 22.3,
+      "rise_pct": 12.55,
+      "current_price": 30.5
     }
   ]
 }
