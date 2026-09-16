@@ -1,96 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-07-09",
-      "type": "bounce",
-      "ticker": "ORDER",
-      "consecutive_red": 4,
-      "gain_pct": 20.8,
-      "rise_pct": 0.2,
-      "current_price": 49.6
-    },
-    {
-      "date": "2026-07-09",
-      "type": "bounce",
-      "ticker": "BIRB",
-      "consecutive_red": 3,
-      "gain_pct": 75.6,
-      "rise_pct": 0.45,
-      "current_price": 88.7
-    },
-    {
-      "date": "2026-07-09",
-      "type": "bounce",
-      "ticker": "BSV",
-      "consecutive_red": 3,
-      "gain_pct": 42.2,
-      "rise_pct": 0.1,
-      "current_price": 19490.0
-    },
-    {
-      "date": "2026-07-10",
-      "type": "bounce",
-      "ticker": "ADA",
-      "consecutive_red": 5,
-      "gain_pct": 43.3,
-      "rise_pct": 0.4,
-      "current_price": 250.0
-    },
-    {
-      "date": "2026-07-10",
-      "type": "bounce",
-      "ticker": "HP",
-      "consecutive_red": 4,
-      "gain_pct": 23.9,
-      "rise_pct": 0.7,
-      "current_price": 14.3
-    },
-    {
-      "date": "2026-07-10",
-      "type": "bounce",
-      "ticker": "PUMP",
-      "consecutive_red": 3,
-      "gain_pct": 44.9,
-      "rise_pct": 0.45,
-      "current_price": 2.22
-    },
-    {
-      "date": "2026-07-10",
-      "type": "bounce",
-      "ticker": "DEEP",
-      "consecutive_red": 3,
-      "gain_pct": 39.9,
-      "rise_pct": 1.14,
-      "current_price": 26.7
-    },
-    {
-      "date": "2026-07-10",
-      "type": "bounce",
-      "ticker": "SPX",
-      "consecutive_red": 3,
-      "gain_pct": 32.6,
-      "rise_pct": 0.54,
-      "current_price": 561.0
-    },
-    {
-      "date": "2026-07-10",
-      "type": "bounce",
-      "ticker": "RE",
-      "consecutive_red": 3,
-      "gain_pct": 24.5,
-      "rise_pct": 0.11,
-      "current_price": 877.0
-    },
-    {
-      "date": "2026-07-10",
-      "type": "bounce",
-      "ticker": "MOVE",
-      "consecutive_red": 3,
-      "gain_pct": 21.2,
-      "rise_pct": 0.6,
-      "current_price": 16.8
-    },
-    {
       "date": "2026-07-11",
       "type": "bounce",
       "ticker": "RE",
@@ -1799,6 +1709,96 @@
       "gain_pct": 28.8,
       "rise_pct": 2.41,
       "current_price": 1573.0
+    },
+    {
+      "date": "2026-09-16",
+      "type": "bounce",
+      "ticker": "SKR",
+      "consecutive_red": 7,
+      "gain_pct": 190.5,
+      "rise_pct": 1.66,
+      "current_price": 24.5
+    },
+    {
+      "date": "2026-09-16",
+      "type": "bounce",
+      "ticker": "EGLD",
+      "consecutive_red": 6,
+      "gain_pct": 54.1,
+      "rise_pct": 0.19,
+      "current_price": 5165.0
+    },
+    {
+      "date": "2026-09-16",
+      "type": "bounce",
+      "ticker": "KAT",
+      "consecutive_red": 6,
+      "gain_pct": 48.3,
+      "rise_pct": 0.89,
+      "current_price": 5.67
+    },
+    {
+      "date": "2026-09-16",
+      "type": "bounce",
+      "ticker": "RAY",
+      "consecutive_red": 4,
+      "gain_pct": 126.4,
+      "rise_pct": 1.02,
+      "current_price": 1691.0
+    },
+    {
+      "date": "2026-09-16",
+      "type": "bounce",
+      "ticker": "MET2",
+      "consecutive_red": 4,
+      "gain_pct": 58.2,
+      "rise_pct": 1.12,
+      "current_price": 271.0
+    },
+    {
+      "date": "2026-09-16",
+      "type": "bounce",
+      "ticker": "ZORA",
+      "consecutive_red": 4,
+      "gain_pct": 37.8,
+      "rise_pct": 0.1,
+      "current_price": 9.9
+    },
+    {
+      "date": "2026-09-16",
+      "type": "bounce",
+      "ticker": "PIEVERSE",
+      "consecutive_red": 4,
+      "gain_pct": 28.8,
+      "rise_pct": 0.92,
+      "current_price": 1529.0
+    },
+    {
+      "date": "2026-09-16",
+      "type": "bounce",
+      "ticker": "MINA",
+      "consecutive_red": 3,
+      "gain_pct": 97.2,
+      "rise_pct": 0.92,
+      "current_price": 110.0
+    },
+    {
+      "date": "2026-09-16",
+      "type": "bounce",
+      "ticker": "SOPH",
+      "consecutive_red": 3,
+      "gain_pct": 32.1,
+      "rise_pct": 4.81,
+      "current_price": 5.23
+    },
+    {
+      "date": "2026-09-16",
+      "type": "bounce",
+      "ticker": "SYRUP",
+      "consecutive_red": 3,
+      "gain_pct": 29.7,
+      "rise_pct": 0.37,
+      "current_price": 270.0
     }
   ]
 }
