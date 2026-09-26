@@ -1,15 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-07-14",
-      "type": "bounce",
-      "ticker": "INJ",
-      "consecutive_red": 3,
-      "gain_pct": 21.1,
-      "rise_pct": 0.22,
-      "current_price": 6935.0
-    },
-    {
       "date": "2026-07-15",
       "type": "bounce",
       "ticker": "MMT",
@@ -1799,6 +1790,15 @@
       "gain_pct": 249.2,
       "rise_pct": 1.3,
       "current_price": 7.78
+    },
+    {
+      "date": "2026-09-26",
+      "type": "bounce",
+      "ticker": "MINA",
+      "consecutive_red": 3,
+      "gain_pct": 109.7,
+      "rise_pct": 0.52,
+      "current_price": 192.0
     }
   ]
 }
