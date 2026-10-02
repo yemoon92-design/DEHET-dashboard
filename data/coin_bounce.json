@@ -1,69 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-07-22",
-      "type": "bounce",
-      "ticker": "PYTH",
-      "consecutive_red": 3,
-      "gain_pct": 31.2,
-      "rise_pct": 0.87,
-      "current_price": 69.9
-    },
-    {
-      "date": "2026-07-24",
-      "type": "bounce",
-      "ticker": "CBK",
-      "consecutive_red": 4,
-      "gain_pct": 37.9,
-      "rise_pct": 0.39,
-      "current_price": 259.0
-    },
-    {
-      "date": "2026-07-25",
-      "type": "bounce",
-      "ticker": "VIRTUAL",
-      "consecutive_red": 3,
-      "gain_pct": 28.8,
-      "rise_pct": 0.12,
-      "current_price": 862.0
-    },
-    {
-      "date": "2026-07-26",
-      "type": "bounce",
-      "ticker": "PUMP",
-      "consecutive_red": 5,
-      "gain_pct": 52.2,
-      "rise_pct": 0.38,
-      "current_price": 2.62
-    },
-    {
-      "date": "2026-07-26",
-      "type": "bounce",
-      "ticker": "B3",
-      "consecutive_red": 5,
-      "gain_pct": 21.5,
-      "rise_pct": 5.41,
-      "current_price": 0.76
-    },
-    {
-      "date": "2026-07-26",
-      "type": "bounce",
-      "ticker": "VIRTUAL",
-      "consecutive_red": 4,
-      "gain_pct": 28.8,
-      "rise_pct": 0.94,
-      "current_price": 860.0
-    },
-    {
-      "date": "2026-07-26",
-      "type": "bounce",
-      "ticker": "XEC",
-      "consecutive_red": 3,
-      "gain_pct": 72.5,
-      "rise_pct": 4.0,
-      "current_price": 0.0104
-    },
-    {
       "date": "2026-07-26",
       "type": "bounce",
       "ticker": "ONDO",
@@ -1799,6 +1736,69 @@
       "gain_pct": 65.2,
       "rise_pct": 1.81,
       "current_price": 1069.0
+    },
+    {
+      "date": "2026-10-02",
+      "type": "bounce",
+      "ticker": "ELSA",
+      "consecutive_red": 5,
+      "gain_pct": 29.9,
+      "rise_pct": 0.53,
+      "current_price": 75.4
+    },
+    {
+      "date": "2026-10-02",
+      "type": "bounce",
+      "ticker": "EUL",
+      "consecutive_red": 5,
+      "gain_pct": 29.1,
+      "rise_pct": 0.54,
+      "current_price": 1873.0
+    },
+    {
+      "date": "2026-10-02",
+      "type": "bounce",
+      "ticker": "MET2",
+      "consecutive_red": 4,
+      "gain_pct": 97.7,
+      "rise_pct": 0.73,
+      "current_price": 414.0
+    },
+    {
+      "date": "2026-10-02",
+      "type": "bounce",
+      "ticker": "PYTH",
+      "consecutive_red": 4,
+      "gain_pct": 73.4,
+      "rise_pct": 0.98,
+      "current_price": 103.0
+    },
+    {
+      "date": "2026-10-02",
+      "type": "bounce",
+      "ticker": "BSV",
+      "consecutive_red": 4,
+      "gain_pct": 38.9,
+      "rise_pct": 4.35,
+      "current_price": 28080.0
+    },
+    {
+      "date": "2026-10-02",
+      "type": "bounce",
+      "ticker": "DATA",
+      "consecutive_red": 4,
+      "gain_pct": 32.4,
+      "rise_pct": 1.03,
+      "current_price": 295.0
+    },
+    {
+      "date": "2026-10-02",
+      "type": "bounce",
+      "ticker": "ALGO",
+      "consecutive_red": 3,
+      "gain_pct": 61.5,
+      "rise_pct": 1.8,
+      "current_price": 170.0
     }
   ]
 }
