@@ -1,87 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-07-26",
-      "type": "bounce",
-      "ticker": "ONDO",
-      "consecutive_red": 3,
-      "gain_pct": 36.8,
-      "rise_pct": 1.44,
-      "current_price": 562.0
-    },
-    {
-      "date": "2026-07-26",
-      "type": "bounce",
-      "ticker": "SKY",
-      "consecutive_red": 3,
-      "gain_pct": 22.0,
-      "rise_pct": 0.83,
-      "current_price": 85.5
-    },
-    {
-      "date": "2026-07-27",
-      "type": "bounce",
-      "ticker": "B3",
-      "consecutive_red": 6,
-      "gain_pct": 21.5,
-      "rise_pct": 1.39,
-      "current_price": 0.73
-    },
-    {
-      "date": "2026-07-27",
-      "type": "bounce",
-      "ticker": "JTO",
-      "consecutive_red": 3,
-      "gain_pct": 21.0,
-      "rise_pct": 1.88,
-      "current_price": 869.0
-    },
-    {
-      "date": "2026-07-28",
-      "type": "bounce",
-      "ticker": "JTO",
-      "consecutive_red": 4,
-      "gain_pct": 21.0,
-      "rise_pct": 0.24,
-      "current_price": 829.0
-    },
-    {
-      "date": "2026-07-28",
-      "type": "bounce",
-      "ticker": "RE",
-      "consecutive_red": 3,
-      "gain_pct": 87.6,
-      "rise_pct": 0.76,
-      "current_price": 663.0
-    },
-    {
-      "date": "2026-07-28",
-      "type": "bounce",
-      "ticker": "ERA",
-      "consecutive_red": 3,
-      "gain_pct": 81.2,
-      "rise_pct": 4.76,
-      "current_price": 110.0
-    },
-    {
-      "date": "2026-07-29",
-      "type": "bounce",
-      "ticker": "WLFI",
-      "consecutive_red": 5,
-      "gain_pct": 26.0,
-      "rise_pct": 0.25,
-      "current_price": 79.3
-    },
-    {
-      "date": "2026-07-29",
-      "type": "bounce",
-      "ticker": "JTO",
-      "consecutive_red": 5,
-      "gain_pct": 21.0,
-      "rise_pct": 0.64,
-      "current_price": 785.0
-    },
-    {
       "date": "2026-07-30",
       "type": "bounce",
       "ticker": "ERA",
@@ -1799,6 +1718,87 @@
       "gain_pct": 61.5,
       "rise_pct": 1.8,
       "current_price": 170.0
+    },
+    {
+      "date": "2026-10-03",
+      "type": "bounce",
+      "ticker": "ETC",
+      "consecutive_red": 5,
+      "gain_pct": 34.5,
+      "rise_pct": 0.17,
+      "current_price": 12040.0
+    },
+    {
+      "date": "2026-10-03",
+      "type": "bounce",
+      "ticker": "DATA",
+      "consecutive_red": 5,
+      "gain_pct": 32.4,
+      "rise_pct": 1.38,
+      "current_price": 293.0
+    },
+    {
+      "date": "2026-10-03",
+      "type": "bounce",
+      "ticker": "KMNO",
+      "consecutive_red": 3,
+      "gain_pct": 83.2,
+      "rise_pct": 0.36,
+      "current_price": 55.3
+    },
+    {
+      "date": "2026-10-03",
+      "type": "bounce",
+      "ticker": "JUP",
+      "consecutive_red": 3,
+      "gain_pct": 61.6,
+      "rise_pct": 0.93,
+      "current_price": 434.0
+    },
+    {
+      "date": "2026-10-03",
+      "type": "bounce",
+      "ticker": "PENGU",
+      "consecutive_red": 3,
+      "gain_pct": 49.9,
+      "rise_pct": 1.65,
+      "current_price": 12.3
+    },
+    {
+      "date": "2026-10-03",
+      "type": "bounce",
+      "ticker": "ICP",
+      "consecutive_red": 3,
+      "gain_pct": 44.3,
+      "rise_pct": 2.51,
+      "current_price": 4574.0
+    },
+    {
+      "date": "2026-10-03",
+      "type": "bounce",
+      "ticker": "ENS",
+      "consecutive_red": 3,
+      "gain_pct": 38.5,
+      "rise_pct": 1.14,
+      "current_price": 9335.0
+    },
+    {
+      "date": "2026-10-03",
+      "type": "bounce",
+      "ticker": "POL",
+      "consecutive_red": 3,
+      "gain_pct": 38.2,
+      "rise_pct": 0.68,
+      "current_price": 147.0
+    },
+    {
+      "date": "2026-10-03",
+      "type": "bounce",
+      "ticker": "BFC",
+      "consecutive_red": 3,
+      "gain_pct": 22.5,
+      "rise_pct": 0.26,
+      "current_price": 37.9
     }
   ]
 }
