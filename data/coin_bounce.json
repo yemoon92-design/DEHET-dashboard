@@ -1,96 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-08-10",
-      "type": "bounce",
-      "ticker": "ADA",
-      "consecutive_red": 3,
-      "gain_pct": 33.9,
-      "rise_pct": 0.37,
-      "current_price": 274.0
-    },
-    {
-      "date": "2026-08-10",
-      "type": "bounce",
-      "ticker": "ENA",
-      "consecutive_red": 3,
-      "gain_pct": 20.9,
-      "rise_pct": 0.83,
-      "current_price": 122.0
-    },
-    {
-      "date": "2026-08-13",
-      "type": "bounce",
-      "ticker": "SKR",
-      "consecutive_red": 3,
-      "gain_pct": 27.5,
-      "rise_pct": 0.97,
-      "current_price": 10.4
-    },
-    {
-      "date": "2026-08-13",
-      "type": "bounce",
-      "ticker": "YGG",
-      "consecutive_red": 3,
-      "gain_pct": 26.7,
-      "rise_pct": 0.75,
-      "current_price": 26.7
-    },
-    {
-      "date": "2026-08-14",
-      "type": "bounce",
-      "ticker": "ADA",
-      "consecutive_red": 7,
-      "gain_pct": 33.9,
-      "rise_pct": 0.78,
-      "current_price": 259.0
-    },
-    {
-      "date": "2026-08-14",
-      "type": "bounce",
-      "ticker": "MMT",
-      "consecutive_red": 3,
-      "gain_pct": 63.6,
-      "rise_pct": 4.2,
-      "current_price": 248.0
-    },
-    {
-      "date": "2026-08-15",
-      "type": "bounce",
-      "ticker": "OPEN",
-      "consecutive_red": 3,
-      "gain_pct": 34.4,
-      "rise_pct": 0.77,
-      "current_price": 261.0
-    },
-    {
-      "date": "2026-08-15",
-      "type": "bounce",
-      "ticker": "EDGE",
-      "consecutive_red": 3,
-      "gain_pct": 26.2,
-      "rise_pct": 0.57,
-      "current_price": 88.0
-    },
-    {
-      "date": "2026-08-16",
-      "type": "bounce",
-      "ticker": "OPEN",
-      "consecutive_red": 4,
-      "gain_pct": 34.4,
-      "rise_pct": 0.4,
-      "current_price": 251.0
-    },
-    {
-      "date": "2026-08-16",
-      "type": "bounce",
-      "ticker": "KERNEL",
-      "consecutive_red": 3,
-      "gain_pct": 20.7,
-      "rise_pct": 0.43,
-      "current_price": 47.2
-    },
-    {
       "date": "2026-08-17",
       "type": "bounce",
       "ticker": "OPEN",
@@ -1799,6 +1709,96 @@
       "gain_pct": 38.8,
       "rise_pct": 0.18,
       "current_price": 1087.0
+    },
+    {
+      "date": "2026-10-09",
+      "type": "bounce",
+      "ticker": "2Z",
+      "consecutive_red": 9,
+      "gain_pct": 54.4,
+      "rise_pct": 1.62,
+      "current_price": 50.2
+    },
+    {
+      "date": "2026-10-09",
+      "type": "bounce",
+      "ticker": "BFC",
+      "consecutive_red": 9,
+      "gain_pct": 22.5,
+      "rise_pct": 16.81,
+      "current_price": 39.6
+    },
+    {
+      "date": "2026-10-09",
+      "type": "bounce",
+      "ticker": "DOOD",
+      "consecutive_red": 8,
+      "gain_pct": 26.7,
+      "rise_pct": 0.93,
+      "current_price": 2.16
+    },
+    {
+      "date": "2026-10-09",
+      "type": "bounce",
+      "ticker": "MOODENG",
+      "consecutive_red": 7,
+      "gain_pct": 31.3,
+      "rise_pct": 0.72,
+      "current_price": 56.3
+    },
+    {
+      "date": "2026-10-09",
+      "type": "bounce",
+      "ticker": "TRUST",
+      "consecutive_red": 7,
+      "gain_pct": 21.8,
+      "rise_pct": 0.27,
+      "current_price": 75.6
+    },
+    {
+      "date": "2026-10-09",
+      "type": "bounce",
+      "ticker": "MINA",
+      "consecutive_red": 6,
+      "gain_pct": 90.8,
+      "rise_pct": 1.87,
+      "current_price": 109.0
+    },
+    {
+      "date": "2026-10-09",
+      "type": "bounce",
+      "ticker": "ZAMA",
+      "consecutive_red": 5,
+      "gain_pct": 81.1,
+      "rise_pct": 4.9,
+      "current_price": 107.0
+    },
+    {
+      "date": "2026-10-09",
+      "type": "bounce",
+      "ticker": "WLD",
+      "consecutive_red": 5,
+      "gain_pct": 60.5,
+      "rise_pct": 2.12,
+      "current_price": 674.0
+    },
+    {
+      "date": "2026-10-09",
+      "type": "bounce",
+      "ticker": "TRAC",
+      "consecutive_red": 5,
+      "gain_pct": 53.4,
+      "rise_pct": 3.32,
+      "current_price": 560.0
+    },
+    {
+      "date": "2026-10-09",
+      "type": "bounce",
+      "ticker": "MON",
+      "consecutive_red": 5,
+      "gain_pct": 47.6,
+      "rise_pct": 2.12,
+      "current_price": 33.7
     }
   ]
 }
