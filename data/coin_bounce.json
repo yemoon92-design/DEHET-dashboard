@@ -1,69 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-08-17",
-      "type": "bounce",
-      "ticker": "OPEN",
-      "consecutive_red": 5,
-      "gain_pct": 34.4,
-      "rise_pct": 0.84,
-      "current_price": 240.0
-    },
-    {
-      "date": "2026-08-17",
-      "type": "bounce",
-      "ticker": "META2",
-      "consecutive_red": 3,
-      "gain_pct": 31.4,
-      "rise_pct": 1.29,
-      "current_price": 6680.0
-    },
-    {
-      "date": "2026-08-18",
-      "type": "bounce",
-      "ticker": "OPEN",
-      "consecutive_red": 6,
-      "gain_pct": 34.4,
-      "rise_pct": 0.86,
-      "current_price": 235.0
-    },
-    {
-      "date": "2026-08-18",
-      "type": "bounce",
-      "ticker": "HOME",
-      "consecutive_red": 4,
-      "gain_pct": 76.0,
-      "rise_pct": 3.82,
-      "current_price": 9.78
-    },
-    {
-      "date": "2026-08-19",
-      "type": "bounce",
-      "ticker": "OPEN",
-      "consecutive_red": 7,
-      "gain_pct": 34.4,
-      "rise_pct": 0.47,
-      "current_price": 213.0
-    },
-    {
-      "date": "2026-08-19",
-      "type": "bounce",
-      "ticker": "HOME",
-      "consecutive_red": 5,
-      "gain_pct": 76.0,
-      "rise_pct": 0.23,
-      "current_price": 8.76
-    },
-    {
-      "date": "2026-08-20",
-      "type": "bounce",
-      "ticker": "HOME",
-      "consecutive_red": 6,
-      "gain_pct": 76.0,
-      "rise_pct": 5.08,
-      "current_price": 8.9
-    },
-    {
       "date": "2026-08-21",
       "type": "bounce",
       "ticker": "WLFI",
@@ -1799,6 +1736,69 @@
       "gain_pct": 47.6,
       "rise_pct": 2.12,
       "current_price": 33.7
+    },
+    {
+      "date": "2026-10-10",
+      "type": "bounce",
+      "ticker": "O",
+      "consecutive_red": 9,
+      "gain_pct": 20.0,
+      "rise_pct": 9.09,
+      "current_price": 672.0
+    },
+    {
+      "date": "2026-10-10",
+      "type": "bounce",
+      "ticker": "VVV",
+      "consecutive_red": 5,
+      "gain_pct": 21.7,
+      "rise_pct": 1.92,
+      "current_price": 30770.0
+    },
+    {
+      "date": "2026-10-10",
+      "type": "bounce",
+      "ticker": "CVC",
+      "consecutive_red": 4,
+      "gain_pct": 21.7,
+      "rise_pct": 0.56,
+      "current_price": 35.7
+    },
+    {
+      "date": "2026-10-10",
+      "type": "bounce",
+      "ticker": "ORCA",
+      "consecutive_red": 3,
+      "gain_pct": 129.5,
+      "rise_pct": 2.92,
+      "current_price": 3171.0
+    },
+    {
+      "date": "2026-10-10",
+      "type": "bounce",
+      "ticker": "0G",
+      "consecutive_red": 3,
+      "gain_pct": 49.7,
+      "rise_pct": 1.42,
+      "current_price": 357.0
+    },
+    {
+      "date": "2026-10-10",
+      "type": "bounce",
+      "ticker": "ETHFI",
+      "consecutive_red": 3,
+      "gain_pct": 24.8,
+      "rise_pct": 1.31,
+      "current_price": 931.0
+    },
+    {
+      "date": "2026-10-10",
+      "type": "bounce",
+      "ticker": "KITE",
+      "consecutive_red": 3,
+      "gain_pct": 24.4,
+      "rise_pct": 0.61,
+      "current_price": 166.0
     }
   ]
 }
