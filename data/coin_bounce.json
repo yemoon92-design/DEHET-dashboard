@@ -1,24 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-08-21",
-      "type": "bounce",
-      "ticker": "WLFI",
-      "consecutive_red": 3,
-      "gain_pct": 21.1,
-      "rise_pct": 0.49,
-      "current_price": 82.8
-    },
-    {
-      "date": "2026-08-26",
-      "type": "bounce",
-      "ticker": "BCH",
-      "consecutive_red": 4,
-      "gain_pct": 46.6,
-      "rise_pct": 0.11,
-      "current_price": 370600.0
-    },
-    {
       "date": "2026-08-26",
       "type": "bounce",
       "ticker": "BEAM",
@@ -1799,6 +1781,24 @@
       "gain_pct": 24.4,
       "rise_pct": 0.61,
       "current_price": 166.0
+    },
+    {
+      "date": "2026-10-11",
+      "type": "bounce",
+      "ticker": "CVC",
+      "consecutive_red": 5,
+      "gain_pct": 21.7,
+      "rise_pct": 0.28,
+      "current_price": 35.3
+    },
+    {
+      "date": "2026-10-11",
+      "type": "bounce",
+      "ticker": "SENT",
+      "consecutive_red": 3,
+      "gain_pct": 43.4,
+      "rise_pct": 1.05,
+      "current_price": 28.8
     }
   ]
 }
