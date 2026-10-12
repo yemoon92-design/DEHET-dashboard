@@ -1,24 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-08-26",
-      "type": "bounce",
-      "ticker": "BEAM",
-      "consecutive_red": 4,
-      "gain_pct": 23.6,
-      "rise_pct": 0.51,
-      "current_price": 1.99
-    },
-    {
-      "date": "2026-08-28",
-      "type": "bounce",
-      "ticker": "STORJ",
-      "consecutive_red": 3,
-      "gain_pct": 71.2,
-      "rise_pct": 2.43,
-      "current_price": 58.9
-    },
-    {
       "date": "2026-08-28",
       "type": "bounce",
       "ticker": "CC",
@@ -1799,6 +1781,24 @@
       "gain_pct": 43.4,
       "rise_pct": 1.05,
       "current_price": 28.8
+    },
+    {
+      "date": "2026-10-12",
+      "type": "bounce",
+      "ticker": "SOON",
+      "consecutive_red": 3,
+      "gain_pct": 75.7,
+      "rise_pct": 1.2,
+      "current_price": 421.0
+    },
+    {
+      "date": "2026-10-12",
+      "type": "bounce",
+      "ticker": "PYTH",
+      "consecutive_red": 3,
+      "gain_pct": 41.8,
+      "rise_pct": 1.87,
+      "current_price": 109.0
     }
   ]
 }
