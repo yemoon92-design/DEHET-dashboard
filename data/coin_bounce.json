@@ -1,51 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-08-29",
-      "type": "bounce",
-      "ticker": "RED",
-      "consecutive_red": 3,
-      "gain_pct": 50.9,
-      "rise_pct": 2.01,
-      "current_price": 152.0
-    },
-    {
-      "date": "2026-08-30",
-      "type": "bounce",
-      "ticker": "MON",
-      "consecutive_red": 3,
-      "gain_pct": 47.5,
-      "rise_pct": 0.54,
-      "current_price": 37.4
-    },
-    {
-      "date": "2026-08-30",
-      "type": "bounce",
-      "ticker": "TOSHI",
-      "consecutive_red": 3,
-      "gain_pct": 36.3,
-      "rise_pct": 0.59,
-      "current_price": 0.171
-    },
-    {
-      "date": "2026-08-30",
-      "type": "bounce",
-      "ticker": "W",
-      "consecutive_red": 3,
-      "gain_pct": 32.4,
-      "rise_pct": 0.79,
-      "current_price": 12.7
-    },
-    {
-      "date": "2026-08-31",
-      "type": "bounce",
-      "ticker": "ICX",
-      "consecutive_red": 8,
-      "gain_pct": 20.8,
-      "rise_pct": 0.55,
-      "current_price": 18.2
-    },
-    {
       "date": "2026-08-31",
       "type": "bounce",
       "ticker": "STORJ",
@@ -1799,6 +1754,51 @@
       "gain_pct": 29.7,
       "rise_pct": 0.2,
       "current_price": 2459.0
+    },
+    {
+      "date": "2026-10-14",
+      "type": "bounce",
+      "ticker": "SOON",
+      "consecutive_red": 5,
+      "gain_pct": 75.7,
+      "rise_pct": 2.22,
+      "current_price": 415.0
+    },
+    {
+      "date": "2026-10-14",
+      "type": "bounce",
+      "ticker": "EDGE",
+      "consecutive_red": 4,
+      "gain_pct": 58.2,
+      "rise_pct": 4.93,
+      "current_price": 149.0
+    },
+    {
+      "date": "2026-10-14",
+      "type": "bounce",
+      "ticker": "ORCA",
+      "consecutive_red": 3,
+      "gain_pct": 68.8,
+      "rise_pct": 1.41,
+      "current_price": 2809.0
+    },
+    {
+      "date": "2026-10-14",
+      "type": "bounce",
+      "ticker": "ERA",
+      "consecutive_red": 3,
+      "gain_pct": 58.1,
+      "rise_pct": 0.23,
+      "current_price": 87.5
+    },
+    {
+      "date": "2026-10-14",
+      "type": "bounce",
+      "ticker": "DOT",
+      "consecutive_red": 3,
+      "gain_pct": 26.9,
+      "rise_pct": 0.32,
+      "current_price": 1576.0
     }
   ]
 }
