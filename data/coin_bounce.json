@@ -3,69 +3,6 @@
     {
       "date": "2026-08-31",
       "type": "bounce",
-      "ticker": "STORJ",
-      "consecutive_red": 6,
-      "gain_pct": 71.2,
-      "rise_pct": 27.26,
-      "current_price": 69.1
-    },
-    {
-      "date": "2026-08-31",
-      "type": "bounce",
-      "ticker": "AZTEC",
-      "consecutive_red": 5,
-      "gain_pct": 34.4,
-      "rise_pct": 1.09,
-      "current_price": 18.5
-    },
-    {
-      "date": "2026-08-31",
-      "type": "bounce",
-      "ticker": "ENS",
-      "consecutive_red": 4,
-      "gain_pct": 61.7,
-      "rise_pct": 0.64,
-      "current_price": 7825.0
-    },
-    {
-      "date": "2026-08-31",
-      "type": "bounce",
-      "ticker": "MON",
-      "consecutive_red": 4,
-      "gain_pct": 47.5,
-      "rise_pct": 0.81,
-      "current_price": 37.2
-    },
-    {
-      "date": "2026-08-31",
-      "type": "bounce",
-      "ticker": "NEO",
-      "consecutive_red": 4,
-      "gain_pct": 40.3,
-      "rise_pct": 0.97,
-      "current_price": 2816.0
-    },
-    {
-      "date": "2026-08-31",
-      "type": "bounce",
-      "ticker": "ZRX",
-      "consecutive_red": 4,
-      "gain_pct": 39.2,
-      "rise_pct": 2.31,
-      "current_price": 133.0
-    },
-    {
-      "date": "2026-08-31",
-      "type": "bounce",
-      "ticker": "GRT",
-      "consecutive_red": 4,
-      "gain_pct": 37.9,
-      "rise_pct": 1.35,
-      "current_price": 22.6
-    },
-    {
-      "date": "2026-08-31",
-      "type": "bounce",
       "ticker": "CELO",
       "consecutive_red": 4,
       "gain_pct": 36.6,
@@ -1799,6 +1736,69 @@
       "gain_pct": 26.9,
       "rise_pct": 0.32,
       "current_price": 1576.0
+    },
+    {
+      "date": "2026-10-15",
+      "type": "bounce",
+      "ticker": "SAND",
+      "consecutive_red": 5,
+      "gain_pct": 81.2,
+      "rise_pct": 1.72,
+      "current_price": 76.9
+    },
+    {
+      "date": "2026-10-15",
+      "type": "bounce",
+      "ticker": "GEOD",
+      "consecutive_red": 5,
+      "gain_pct": 27.4,
+      "rise_pct": 1.17,
+      "current_price": 345.0
+    },
+    {
+      "date": "2026-10-15",
+      "type": "bounce",
+      "ticker": "ORCA",
+      "consecutive_red": 4,
+      "gain_pct": 68.8,
+      "rise_pct": 0.23,
+      "current_price": 2643.0
+    },
+    {
+      "date": "2026-10-15",
+      "type": "bounce",
+      "ticker": "W",
+      "consecutive_red": 3,
+      "gain_pct": 91.5,
+      "rise_pct": 2.91,
+      "current_price": 21.2
+    },
+    {
+      "date": "2026-10-15",
+      "type": "bounce",
+      "ticker": "ZRO",
+      "consecutive_red": 3,
+      "gain_pct": 48.7,
+      "rise_pct": 1.01,
+      "current_price": 2591.0
+    },
+    {
+      "date": "2026-10-15",
+      "type": "bounce",
+      "ticker": "ESP",
+      "consecutive_red": 3,
+      "gain_pct": 26.6,
+      "rise_pct": 2.29,
+      "current_price": 134.0
+    },
+    {
+      "date": "2026-10-15",
+      "type": "bounce",
+      "ticker": "BFC",
+      "consecutive_red": 3,
+      "gain_pct": 23.9,
+      "rise_pct": 12.77,
+      "current_price": 36.2
     }
   ]
 }
