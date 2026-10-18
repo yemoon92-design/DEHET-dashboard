@@ -1,60 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-09-02",
-      "type": "bounce",
-      "ticker": "CRO",
-      "consecutive_red": 3,
-      "gain_pct": 26.4,
-      "rise_pct": 0.26,
-      "current_price": 76.0
-    },
-    {
-      "date": "2026-09-03",
-      "type": "bounce",
-      "ticker": "GLM",
-      "consecutive_red": 5,
-      "gain_pct": 35.3,
-      "rise_pct": 2.07,
-      "current_price": 148.0
-    },
-    {
-      "date": "2026-09-03",
-      "type": "bounce",
-      "ticker": "PUMP",
-      "consecutive_red": 4,
-      "gain_pct": 88.9,
-      "rise_pct": 2.31,
-      "current_price": 5.75
-    },
-    {
-      "date": "2026-09-03",
-      "type": "bounce",
-      "ticker": "SNT",
-      "consecutive_red": 4,
-      "gain_pct": 60.7,
-      "rise_pct": 11.65,
-      "current_price": 9.97
-    },
-    {
-      "date": "2026-09-03",
-      "type": "bounce",
-      "ticker": "STEEM",
-      "consecutive_red": 4,
-      "gain_pct": 35.3,
-      "rise_pct": 2.05,
-      "current_price": 59.8
-    },
-    {
-      "date": "2026-09-03",
-      "type": "bounce",
-      "ticker": "DOS",
-      "consecutive_red": 3,
-      "gain_pct": 62.0,
-      "rise_pct": 0.92,
-      "current_price": 329.0
-    },
-    {
       "date": "2026-09-03",
       "type": "bounce",
       "ticker": "AUCTION",
@@ -1799,6 +1745,60 @@
       "gain_pct": 47.4,
       "rise_pct": 7.4,
       "current_price": 566.0
+    },
+    {
+      "date": "2026-10-18",
+      "type": "bounce",
+      "ticker": "MBL",
+      "consecutive_red": 7,
+      "gain_pct": 38.7,
+      "rise_pct": 0.1,
+      "current_price": 0.955
+    },
+    {
+      "date": "2026-10-18",
+      "type": "bounce",
+      "ticker": "CHIP",
+      "consecutive_red": 6,
+      "gain_pct": 73.8,
+      "rise_pct": 0.17,
+      "current_price": 58.5
+    },
+    {
+      "date": "2026-10-18",
+      "type": "bounce",
+      "ticker": "DOS",
+      "consecutive_red": 6,
+      "gain_pct": 34.5,
+      "rise_pct": 0.4,
+      "current_price": 248.0
+    },
+    {
+      "date": "2026-10-18",
+      "type": "bounce",
+      "ticker": "CFX",
+      "consecutive_red": 4,
+      "gain_pct": 23.2,
+      "rise_pct": 0.28,
+      "current_price": 72.6
+    },
+    {
+      "date": "2026-10-18",
+      "type": "bounce",
+      "ticker": "LINEA",
+      "consecutive_red": 4,
+      "gain_pct": 23.1,
+      "rise_pct": 0.27,
+      "current_price": 3.72
+    },
+    {
+      "date": "2026-10-18",
+      "type": "bounce",
+      "ticker": "WAL",
+      "consecutive_red": 3,
+      "gain_pct": 109.1,
+      "rise_pct": 3.09,
+      "current_price": 56.8
     }
   ]
 }
