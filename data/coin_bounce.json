@@ -1,96 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-09-03",
-      "type": "bounce",
-      "ticker": "AUCTION",
-      "consecutive_red": 3,
-      "gain_pct": 57.1,
-      "rise_pct": 1.0,
-      "current_price": 4523.0
-    },
-    {
-      "date": "2026-09-03",
-      "type": "bounce",
-      "ticker": "PLUME",
-      "consecutive_red": 3,
-      "gain_pct": 28.3,
-      "rise_pct": 0.52,
-      "current_price": 19.4
-    },
-    {
-      "date": "2026-09-05",
-      "type": "bounce",
-      "ticker": "CRV",
-      "consecutive_red": 3,
-      "gain_pct": 171.9,
-      "rise_pct": 0.21,
-      "current_price": 482.0
-    },
-    {
-      "date": "2026-09-05",
-      "type": "bounce",
-      "ticker": "ONG",
-      "consecutive_red": 3,
-      "gain_pct": 124.2,
-      "rise_pct": 0.75,
-      "current_price": 134.0
-    },
-    {
-      "date": "2026-09-05",
-      "type": "bounce",
-      "ticker": "IQ",
-      "consecutive_red": 3,
-      "gain_pct": 61.0,
-      "rise_pct": 0.1,
-      "current_price": 0.967
-    },
-    {
-      "date": "2026-09-06",
-      "type": "bounce",
-      "ticker": "FOLD",
-      "consecutive_red": 6,
-      "gain_pct": 31.8,
-      "rise_pct": 0.13,
-      "current_price": 76.2
-    },
-    {
-      "date": "2026-09-06",
-      "type": "bounce",
-      "ticker": "T",
-      "consecutive_red": 3,
-      "gain_pct": 87.8,
-      "rise_pct": 11.36,
-      "current_price": 6.57
-    },
-    {
-      "date": "2026-09-07",
-      "type": "bounce",
-      "ticker": "ICX",
-      "consecutive_red": 4,
-      "gain_pct": 51.4,
-      "rise_pct": 7.07,
-      "current_price": 21.2
-    },
-    {
-      "date": "2026-09-07",
-      "type": "bounce",
-      "ticker": "RVN",
-      "consecutive_red": 3,
-      "gain_pct": 23.9,
-      "rise_pct": 2.51,
-      "current_price": 4.09
-    },
-    {
-      "date": "2026-09-09",
-      "type": "bounce",
-      "ticker": "SPX",
-      "consecutive_red": 5,
-      "gain_pct": 87.8,
-      "rise_pct": 0.42,
-      "current_price": 721.0
-    },
-    {
       "date": "2026-09-09",
       "type": "bounce",
       "ticker": "CHIP",
@@ -1799,6 +1709,96 @@
       "gain_pct": 109.1,
       "rise_pct": 3.09,
       "current_price": 56.8
+    },
+    {
+      "date": "2026-10-19",
+      "type": "bounce",
+      "ticker": "MBL",
+      "consecutive_red": 8,
+      "gain_pct": 38.7,
+      "rise_pct": 1.27,
+      "current_price": 0.957
+    },
+    {
+      "date": "2026-10-19",
+      "type": "bounce",
+      "ticker": "CHIP",
+      "consecutive_red": 7,
+      "gain_pct": 73.8,
+      "rise_pct": 3.09,
+      "current_price": 56.8
+    },
+    {
+      "date": "2026-10-19",
+      "type": "bounce",
+      "ticker": "ESP",
+      "consecutive_red": 7,
+      "gain_pct": 26.6,
+      "rise_pct": 0.87,
+      "current_price": 116.0
+    },
+    {
+      "date": "2026-10-19",
+      "type": "bounce",
+      "ticker": "ICP",
+      "consecutive_red": 7,
+      "gain_pct": 20.8,
+      "rise_pct": 0.77,
+      "current_price": 3926.0
+    },
+    {
+      "date": "2026-10-19",
+      "type": "bounce",
+      "ticker": "CFX",
+      "consecutive_red": 5,
+      "gain_pct": 23.2,
+      "rise_pct": 0.42,
+      "current_price": 71.6
+    },
+    {
+      "date": "2026-10-19",
+      "type": "bounce",
+      "ticker": "LINEA",
+      "consecutive_red": 5,
+      "gain_pct": 23.1,
+      "rise_pct": 1.4,
+      "current_price": 3.62
+    },
+    {
+      "date": "2026-10-19",
+      "type": "bounce",
+      "ticker": "WAL",
+      "consecutive_red": 4,
+      "gain_pct": 109.1,
+      "rise_pct": 4.57,
+      "current_price": 54.9
+    },
+    {
+      "date": "2026-10-19",
+      "type": "bounce",
+      "ticker": "POD",
+      "consecutive_red": 4,
+      "gain_pct": 100.4,
+      "rise_pct": 0.53,
+      "current_price": 758.0
+    },
+    {
+      "date": "2026-10-19",
+      "type": "bounce",
+      "ticker": "MET2",
+      "consecutive_red": 4,
+      "gain_pct": 37.7,
+      "rise_pct": 0.45,
+      "current_price": 451.0
+    },
+    {
+      "date": "2026-10-19",
+      "type": "bounce",
+      "ticker": "TRAC",
+      "consecutive_red": 4,
+      "gain_pct": 31.5,
+      "rise_pct": 2.24,
+      "current_price": 547.0
     }
   ]
 }
