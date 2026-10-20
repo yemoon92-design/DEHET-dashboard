@@ -1,42 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-09-09",
-      "type": "bounce",
-      "ticker": "CHIP",
-      "consecutive_red": 3,
-      "gain_pct": 117.4,
-      "rise_pct": 0.41,
-      "current_price": 72.7
-    },
-    {
-      "date": "2026-09-09",
-      "type": "bounce",
-      "ticker": "TRUMP",
-      "consecutive_red": 3,
-      "gain_pct": 49.3,
-      "rise_pct": 0.03,
-      "current_price": 3018.0
-    },
-    {
-      "date": "2026-09-10",
-      "type": "bounce",
-      "ticker": "UNI",
-      "consecutive_red": 3,
-      "gain_pct": 98.3,
-      "rise_pct": 0.06,
-      "current_price": 8380.0
-    },
-    {
-      "date": "2026-09-10",
-      "type": "bounce",
-      "ticker": "LA",
-      "consecutive_red": 3,
-      "gain_pct": 49.0,
-      "rise_pct": 2.44,
-      "current_price": 84.1
-    },
-    {
       "date": "2026-09-11",
       "type": "bounce",
       "ticker": "SPX",
@@ -1799,6 +1763,42 @@
       "gain_pct": 31.5,
       "rise_pct": 2.24,
       "current_price": 547.0
+    },
+    {
+      "date": "2026-10-20",
+      "type": "bounce",
+      "ticker": "POD",
+      "consecutive_red": 5,
+      "gain_pct": 100.4,
+      "rise_pct": 16.02,
+      "current_price": 840.0
+    },
+    {
+      "date": "2026-10-20",
+      "type": "bounce",
+      "ticker": "NXPC",
+      "consecutive_red": 4,
+      "gain_pct": 50.6,
+      "rise_pct": 1.92,
+      "current_price": 212.0
+    },
+    {
+      "date": "2026-10-20",
+      "type": "bounce",
+      "ticker": "BFC",
+      "consecutive_red": 4,
+      "gain_pct": 28.0,
+      "rise_pct": 0.66,
+      "current_price": 30.6
+    },
+    {
+      "date": "2026-10-20",
+      "type": "bounce",
+      "ticker": "OP",
+      "consecutive_red": 3,
+      "gain_pct": 25.3,
+      "rise_pct": 1.2,
+      "current_price": 169.0
     }
   ]
 }
