@@ -3,15 +3,6 @@
     {
       "date": "2026-09-11",
       "type": "bounce",
-      "ticker": "CHIP",
-      "consecutive_red": 5,
-      "gain_pct": 117.4,
-      "rise_pct": 1.27,
-      "current_price": 63.8
-    },
-    {
-      "date": "2026-09-11",
-      "type": "bounce",
       "ticker": "TRUMP",
       "consecutive_red": 5,
       "gain_pct": 49.3,
@@ -1799,6 +1790,15 @@
       "gain_pct": 27.7,
       "rise_pct": 1.11,
       "current_price": 2378.0
+    },
+    {
+      "date": "2026-10-23",
+      "type": "bounce",
+      "ticker": "BLUR",
+      "consecutive_red": 7,
+      "gain_pct": 44.2,
+      "rise_pct": 4.96,
+      "current_price": 12.7
     }
   ]
 }
