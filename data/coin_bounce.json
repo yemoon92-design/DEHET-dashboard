@@ -1,69 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-09-11",
-      "type": "bounce",
-      "ticker": "MOODENG",
-      "consecutive_red": 5,
-      "gain_pct": 32.3,
-      "rise_pct": 1.32,
-      "current_price": 53.6
-    },
-    {
-      "date": "2026-09-11",
-      "type": "bounce",
-      "ticker": "ARB",
-      "consecutive_red": 4,
-      "gain_pct": 141.4,
-      "rise_pct": 1.56,
-      "current_price": 195.0
-    },
-    {
-      "date": "2026-09-11",
-      "type": "bounce",
-      "ticker": "UNI",
-      "consecutive_red": 4,
-      "gain_pct": 98.3,
-      "rise_pct": 1.47,
-      "current_price": 8260.0
-    },
-    {
-      "date": "2026-09-11",
-      "type": "bounce",
-      "ticker": "DOOD",
-      "consecutive_red": 4,
-      "gain_pct": 54.9,
-      "rise_pct": 2.28,
-      "current_price": 2.24
-    },
-    {
-      "date": "2026-09-11",
-      "type": "bounce",
-      "ticker": "CRV",
-      "consecutive_red": 4,
-      "gain_pct": 48.1,
-      "rise_pct": 1.09,
-      "current_price": 464.0
-    },
-    {
-      "date": "2026-09-11",
-      "type": "bounce",
-      "ticker": "JUP",
-      "consecutive_red": 4,
-      "gain_pct": 47.7,
-      "rise_pct": 1.3,
-      "current_price": 312.0
-    },
-    {
-      "date": "2026-09-12",
-      "type": "bounce",
-      "ticker": "META2",
-      "consecutive_red": 6,
-      "gain_pct": 27.9,
-      "rise_pct": 0.3,
-      "current_price": 6705.0
-    },
-    {
       "date": "2026-09-12",
       "type": "bounce",
       "ticker": "ARB",
@@ -1799,6 +1736,69 @@
       "gain_pct": 101.1,
       "rise_pct": 6.79,
       "current_price": 2.36
+    },
+    {
+      "date": "2026-10-25",
+      "type": "bounce",
+      "ticker": "IOST",
+      "consecutive_red": 4,
+      "gain_pct": 52.1,
+      "rise_pct": 2.0,
+      "current_price": 1.02
+    },
+    {
+      "date": "2026-10-25",
+      "type": "bounce",
+      "ticker": "TIA",
+      "consecutive_red": 4,
+      "gain_pct": 47.7,
+      "rise_pct": 0.7,
+      "current_price": 723.0
+    },
+    {
+      "date": "2026-10-25",
+      "type": "bounce",
+      "ticker": "INJ",
+      "consecutive_red": 4,
+      "gain_pct": 37.7,
+      "rise_pct": 0.19,
+      "current_price": 10360.0
+    },
+    {
+      "date": "2026-10-25",
+      "type": "bounce",
+      "ticker": "CKB",
+      "consecutive_red": 3,
+      "gain_pct": 30.5,
+      "rise_pct": 0.52,
+      "current_price": 1.94
+    },
+    {
+      "date": "2026-10-25",
+      "type": "bounce",
+      "ticker": "VVV",
+      "consecutive_red": 3,
+      "gain_pct": 28.9,
+      "rise_pct": 2.06,
+      "current_price": 33160.0
+    },
+    {
+      "date": "2026-10-25",
+      "type": "bounce",
+      "ticker": "CRV",
+      "consecutive_red": 3,
+      "gain_pct": 27.4,
+      "rise_pct": 0.85,
+      "current_price": 476.0
+    },
+    {
+      "date": "2026-10-25",
+      "type": "bounce",
+      "ticker": "NEAR",
+      "consecutive_red": 3,
+      "gain_pct": 22.1,
+      "rise_pct": 0.08,
+      "current_price": 6045.0
     }
   ]
 }
