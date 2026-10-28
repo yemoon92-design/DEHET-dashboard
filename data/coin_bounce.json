@@ -1,51 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-09-12",
-      "type": "bounce",
-      "ticker": "PYTH",
-      "consecutive_red": 5,
-      "gain_pct": 23.2,
-      "rise_pct": 0.72,
-      "current_price": 69.8
-    },
-    {
-      "date": "2026-09-12",
-      "type": "bounce",
-      "ticker": "PUMP",
-      "consecutive_red": 4,
-      "gain_pct": 23.4,
-      "rise_pct": 0.82,
-      "current_price": 4.93
-    },
-    {
-      "date": "2026-09-12",
-      "type": "bounce",
-      "ticker": "SOPH",
-      "consecutive_red": 3,
-      "gain_pct": 235.4,
-      "rise_pct": 7.94,
-      "current_price": 6.66
-    },
-    {
-      "date": "2026-09-12",
-      "type": "bounce",
-      "ticker": "SKR",
-      "consecutive_red": 3,
-      "gain_pct": 190.5,
-      "rise_pct": 1.2,
-      "current_price": 25.4
-    },
-    {
-      "date": "2026-09-13",
-      "type": "bounce",
-      "ticker": "TAO",
-      "consecutive_red": 6,
-      "gain_pct": 27.1,
-      "rise_pct": 0.32,
-      "current_price": 317700.0
-    },
-    {
       "date": "2026-09-13",
       "type": "bounce",
       "ticker": "PENGU",
@@ -1799,6 +1754,51 @@
       "gain_pct": 26.2,
       "rise_pct": 0.31,
       "current_price": 64.9
+    },
+    {
+      "date": "2026-10-28",
+      "type": "bounce",
+      "ticker": "WLD",
+      "consecutive_red": 7,
+      "gain_pct": 26.7,
+      "rise_pct": 1.2,
+      "current_price": 592.0
+    },
+    {
+      "date": "2026-10-28",
+      "type": "bounce",
+      "ticker": "THETA",
+      "consecutive_red": 7,
+      "gain_pct": 21.0,
+      "rise_pct": 1.67,
+      "current_price": 244.0
+    },
+    {
+      "date": "2026-10-28",
+      "type": "bounce",
+      "ticker": "CRV",
+      "consecutive_red": 6,
+      "gain_pct": 27.4,
+      "rise_pct": 1.11,
+      "current_price": 457.0
+    },
+    {
+      "date": "2026-10-28",
+      "type": "bounce",
+      "ticker": "MEW",
+      "consecutive_red": 3,
+      "gain_pct": 25.5,
+      "rise_pct": 0.35,
+      "current_price": 0.579
+    },
+    {
+      "date": "2026-10-28",
+      "type": "bounce",
+      "ticker": "TAIKO",
+      "consecutive_red": 3,
+      "gain_pct": 20.0,
+      "rise_pct": 1.89,
+      "current_price": 108.0
     }
   ]
 }
