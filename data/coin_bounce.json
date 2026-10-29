@@ -1,15 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-09-13",
-      "type": "bounce",
-      "ticker": "PENGU",
-      "consecutive_red": 6,
-      "gain_pct": 20.6,
-      "rise_pct": 1.02,
-      "current_price": 9.95
-    },
-    {
       "date": "2026-09-14",
       "type": "bounce",
       "ticker": "TAO",
@@ -1799,6 +1790,15 @@
       "gain_pct": 20.0,
       "rise_pct": 1.89,
       "current_price": 108.0
+    },
+    {
+      "date": "2026-10-29",
+      "type": "bounce",
+      "ticker": "B3",
+      "consecutive_red": 4,
+      "gain_pct": 41.9,
+      "rise_pct": 5.66,
+      "current_price": 0.915
     }
   ]
 }
