@@ -3,15 +3,6 @@
     {
       "date": "2026-09-14",
       "type": "bounce",
-      "ticker": "TAO",
-      "consecutive_red": 7,
-      "gain_pct": 27.1,
-      "rise_pct": 0.95,
-      "current_price": 318400.0
-    },
-    {
-      "date": "2026-09-14",
-      "type": "bounce",
       "ticker": "PENGU",
       "consecutive_red": 7,
       "gain_pct": 20.6,
@@ -1799,6 +1790,15 @@
       "gain_pct": 41.9,
       "rise_pct": 5.66,
       "current_price": 0.915
+    },
+    {
+      "date": "2026-10-30",
+      "type": "bounce",
+      "ticker": "IRYS",
+      "consecutive_red": 6,
+      "gain_pct": 2660.7,
+      "rise_pct": 1.74,
+      "current_price": 29.3
     }
   ]
 }
