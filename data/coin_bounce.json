@@ -3,15 +3,6 @@
     {
       "date": "2026-09-14",
       "type": "bounce",
-      "ticker": "PENGU",
-      "consecutive_red": 7,
-      "gain_pct": 20.6,
-      "rise_pct": 0.84,
-      "current_price": 9.6
-    },
-    {
-      "date": "2026-09-14",
-      "type": "bounce",
       "ticker": "DOT",
       "consecutive_red": 5,
       "gain_pct": 54.4,
@@ -1799,6 +1790,15 @@
       "gain_pct": 2660.7,
       "rise_pct": 1.74,
       "current_price": 29.3
+    },
+    {
+      "date": "2026-10-31",
+      "type": "bounce",
+      "ticker": "T",
+      "consecutive_red": 5,
+      "gain_pct": 78.5,
+      "rise_pct": 0.49,
+      "current_price": 6.12
     }
   ]
 }
