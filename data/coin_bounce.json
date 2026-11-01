@@ -3,24 +3,6 @@
     {
       "date": "2026-09-14",
       "type": "bounce",
-      "ticker": "DOT",
-      "consecutive_red": 5,
-      "gain_pct": 54.4,
-      "rise_pct": 0.88,
-      "current_price": 1373.0
-    },
-    {
-      "date": "2026-09-14",
-      "type": "bounce",
-      "ticker": "XPL",
-      "consecutive_red": 5,
-      "gain_pct": 24.5,
-      "rise_pct": 1.89,
-      "current_price": 108.0
-    },
-    {
-      "date": "2026-09-14",
-      "type": "bounce",
       "ticker": "EGLD",
       "consecutive_red": 4,
       "gain_pct": 54.1,
@@ -1799,6 +1781,24 @@
       "gain_pct": 78.5,
       "rise_pct": 0.49,
       "current_price": 6.12
+    },
+    {
+      "date": "2026-11-01",
+      "type": "bounce",
+      "ticker": "KMNO",
+      "consecutive_red": 5,
+      "gain_pct": 31.6,
+      "rise_pct": 1.36,
+      "current_price": 44.7
+    },
+    {
+      "date": "2026-11-01",
+      "type": "bounce",
+      "ticker": "MEGA",
+      "consecutive_red": 3,
+      "gain_pct": 23.4,
+      "rise_pct": 0.34,
+      "current_price": 59.5
     }
   ]
 }
