@@ -1,51 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-09-27",
-      "ticker": "KRW-BTC",
-      "score": 9,
-      "entry_price": 114873000.0,
-      "return_1d": -1.68,
-      "return_3d": -1.51,
-      "return_5d": 1.23
-    },
-    {
-      "date": "2026-09-27",
-      "ticker": "KRW-ETH",
-      "score": 9,
-      "entry_price": 3673000.0,
-      "return_1d": -2.34,
-      "return_3d": -1.23,
-      "return_5d": 0.65
-    },
-    {
-      "date": "2026-09-27",
-      "ticker": "KRW-NEAR",
-      "score": 8,
-      "entry_price": 6925.0,
-      "return_1d": 2.53,
-      "return_3d": -4.33,
-      "return_5d": -3.1
-    },
-    {
-      "date": "2026-09-27",
-      "ticker": "KRW-FLOCK",
-      "score": 8,
-      "entry_price": 100.0,
-      "return_1d": -9.3,
-      "return_3d": -13.9,
-      "return_5d": -14.2
-    },
-    {
-      "date": "2026-09-27",
-      "ticker": "KRW-PUMP",
-      "score": 8,
-      "entry_price": 5.98,
-      "return_1d": 15.55,
-      "return_3d": 29.6,
-      "return_5d": 31.1
-    },
-    {
       "date": "2026-09-28",
       "ticker": "KRW-ENA",
       "score": 7,
@@ -1796,6 +1751,51 @@
       "ticker": "KRW-FLUID",
       "score": 7,
       "entry_price": 3635.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-11-06",
+      "ticker": "KRW-UP2",
+      "score": 7,
+      "entry_price": 88.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-11-06",
+      "ticker": "KRW-BIRB",
+      "score": 7,
+      "entry_price": 135.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-11-06",
+      "ticker": "KRW-ERA",
+      "score": 7,
+      "entry_price": 100.0,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-11-06",
+      "ticker": "KRW-PEPE",
+      "score": 7,
+      "entry_price": 0.00663,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-11-06",
+      "ticker": "KRW-ETH",
+      "score": 6,
+      "entry_price": 3039000.0,
       "return_1d": null,
       "return_3d": null,
       "return_5d": null
