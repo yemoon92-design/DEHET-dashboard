@@ -3,24 +3,6 @@
     {
       "date": "2026-09-16",
       "type": "bounce",
-      "ticker": "SKR",
-      "consecutive_red": 7,
-      "gain_pct": 190.5,
-      "rise_pct": 1.66,
-      "current_price": 24.5
-    },
-    {
-      "date": "2026-09-16",
-      "type": "bounce",
-      "ticker": "EGLD",
-      "consecutive_red": 6,
-      "gain_pct": 54.1,
-      "rise_pct": 0.19,
-      "current_price": 5165.0
-    },
-    {
-      "date": "2026-09-16",
-      "type": "bounce",
       "ticker": "KAT",
       "consecutive_red": 6,
       "gain_pct": 48.3,
@@ -1799,6 +1781,24 @@
       "gain_pct": 25.6,
       "rise_pct": 2.86,
       "current_price": 79.0
+    },
+    {
+      "date": "2026-11-08",
+      "type": "bounce",
+      "ticker": "BMT",
+      "consecutive_red": 3,
+      "gain_pct": 57.9,
+      "rise_pct": 6.47,
+      "current_price": 32.9
+    },
+    {
+      "date": "2026-11-08",
+      "type": "bounce",
+      "ticker": "LSK",
+      "consecutive_red": 3,
+      "gain_pct": 37.0,
+      "rise_pct": 1.22,
+      "current_price": 249.0
     }
   ]
 }
