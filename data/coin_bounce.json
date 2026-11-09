@@ -3,51 +3,6 @@
     {
       "date": "2026-09-16",
       "type": "bounce",
-      "ticker": "KAT",
-      "consecutive_red": 6,
-      "gain_pct": 48.3,
-      "rise_pct": 0.89,
-      "current_price": 5.67
-    },
-    {
-      "date": "2026-09-16",
-      "type": "bounce",
-      "ticker": "RAY",
-      "consecutive_red": 4,
-      "gain_pct": 126.4,
-      "rise_pct": 1.02,
-      "current_price": 1691.0
-    },
-    {
-      "date": "2026-09-16",
-      "type": "bounce",
-      "ticker": "MET2",
-      "consecutive_red": 4,
-      "gain_pct": 58.2,
-      "rise_pct": 1.12,
-      "current_price": 271.0
-    },
-    {
-      "date": "2026-09-16",
-      "type": "bounce",
-      "ticker": "ZORA",
-      "consecutive_red": 4,
-      "gain_pct": 37.8,
-      "rise_pct": 0.1,
-      "current_price": 9.9
-    },
-    {
-      "date": "2026-09-16",
-      "type": "bounce",
-      "ticker": "PIEVERSE",
-      "consecutive_red": 4,
-      "gain_pct": 28.8,
-      "rise_pct": 0.92,
-      "current_price": 1529.0
-    },
-    {
-      "date": "2026-09-16",
-      "type": "bounce",
       "ticker": "MINA",
       "consecutive_red": 3,
       "gain_pct": 97.2,
@@ -1799,6 +1754,51 @@
       "gain_pct": 37.0,
       "rise_pct": 1.22,
       "current_price": 249.0
+    },
+    {
+      "date": "2026-11-09",
+      "type": "bounce",
+      "ticker": "LA",
+      "consecutive_red": 6,
+      "gain_pct": 25.6,
+      "rise_pct": 1.13,
+      "current_price": 71.6
+    },
+    {
+      "date": "2026-11-09",
+      "type": "bounce",
+      "ticker": "SUPER",
+      "consecutive_red": 4,
+      "gain_pct": 35.0,
+      "rise_pct": 2.37,
+      "current_price": 216.0
+    },
+    {
+      "date": "2026-11-09",
+      "type": "bounce",
+      "ticker": "GTC",
+      "consecutive_red": 4,
+      "gain_pct": 29.7,
+      "rise_pct": 9.36,
+      "current_price": 257.0
+    },
+    {
+      "date": "2026-11-09",
+      "type": "bounce",
+      "ticker": "BAT",
+      "consecutive_red": 4,
+      "gain_pct": 22.3,
+      "rise_pct": 4.35,
+      "current_price": 168.0
+    },
+    {
+      "date": "2026-11-09",
+      "type": "bounce",
+      "ticker": "LIT",
+      "consecutive_red": 3,
+      "gain_pct": 36.1,
+      "rise_pct": 1.89,
+      "current_price": 4261.0
     }
   ]
 }
