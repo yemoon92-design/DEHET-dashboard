@@ -3,24 +3,6 @@
     {
       "date": "2026-09-16",
       "type": "bounce",
-      "ticker": "MINA",
-      "consecutive_red": 3,
-      "gain_pct": 97.2,
-      "rise_pct": 0.92,
-      "current_price": 110.0
-    },
-    {
-      "date": "2026-09-16",
-      "type": "bounce",
-      "ticker": "SOPH",
-      "consecutive_red": 3,
-      "gain_pct": 32.1,
-      "rise_pct": 4.81,
-      "current_price": 5.23
-    },
-    {
-      "date": "2026-09-16",
-      "type": "bounce",
       "ticker": "SYRUP",
       "consecutive_red": 3,
       "gain_pct": 29.7,
@@ -1799,6 +1781,24 @@
       "gain_pct": 36.1,
       "rise_pct": 1.89,
       "current_price": 4261.0
+    },
+    {
+      "date": "2026-11-10",
+      "type": "bounce",
+      "ticker": "LSK",
+      "consecutive_red": 5,
+      "gain_pct": 37.0,
+      "rise_pct": 1.3,
+      "current_price": 233.0
+    },
+    {
+      "date": "2026-11-10",
+      "type": "bounce",
+      "ticker": "STX",
+      "consecutive_red": 3,
+      "gain_pct": 31.8,
+      "rise_pct": 0.71,
+      "current_price": 428.0
     }
   ]
 }
