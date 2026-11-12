@@ -1,51 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-10-03",
-      "ticker": "KRW-KNC",
-      "score": 9,
-      "entry_price": 196.0,
-      "return_1d": -1.53,
-      "return_3d": -2.04,
-      "return_5d": -6.12
-    },
-    {
-      "date": "2026-10-03",
-      "ticker": "KRW-TIA",
-      "score": 8,
-      "entry_price": 614.0,
-      "return_1d": 4.07,
-      "return_3d": 1.63,
-      "return_5d": 5.21
-    },
-    {
-      "date": "2026-10-03",
-      "ticker": "KRW-FIL",
-      "score": 8,
-      "entry_price": 1429.0,
-      "return_1d": 0.56,
-      "return_3d": 10.5,
-      "return_5d": 0.14
-    },
-    {
-      "date": "2026-10-03",
-      "ticker": "KRW-XRP",
-      "score": 7,
-      "entry_price": 2026.0,
-      "return_1d": -0.15,
-      "return_3d": 0.2,
-      "return_5d": -5.48
-    },
-    {
-      "date": "2026-10-03",
-      "ticker": "KRW-BTC",
-      "score": 7,
-      "entry_price": 115113000.0,
-      "return_1d": 0.13,
-      "return_3d": 0.62,
-      "return_5d": -2.19
-    },
-    {
       "date": "2026-10-04",
       "ticker": "KRW-ETH",
       "score": 9,
@@ -1797,6 +1752,51 @@
       "score": 7,
       "entry_price": 11310.0,
       "return_1d": -9.28,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-11-12",
+      "ticker": "KRW-PEPE",
+      "score": 7,
+      "entry_price": 0.00615,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-11-12",
+      "ticker": "KRW-DKA",
+      "score": 7,
+      "entry_price": 4.16,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-11-12",
+      "ticker": "KRW-ELSA",
+      "score": 7,
+      "entry_price": 88.5,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-11-12",
+      "ticker": "KRW-ZK",
+      "score": 7,
+      "entry_price": 12.3,
+      "return_1d": null,
+      "return_3d": null,
+      "return_5d": null
+    },
+    {
+      "date": "2026-11-12",
+      "ticker": "KRW-ERA",
+      "score": 6,
+      "entry_price": 127.0,
+      "return_1d": null,
       "return_3d": null,
       "return_5d": null
     }
