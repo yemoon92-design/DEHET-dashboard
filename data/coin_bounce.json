@@ -1,24 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-09-17",
-      "type": "bounce",
-      "ticker": "HUNT",
-      "consecutive_red": 3,
-      "gain_pct": 30.7,
-      "rise_pct": 1.56,
-      "current_price": 130.0
-    },
-    {
-      "date": "2026-09-18",
-      "type": "bounce",
-      "ticker": "ZKC",
-      "consecutive_red": 5,
-      "gain_pct": 22.0,
-      "rise_pct": 1.14,
-      "current_price": 53.2
-    },
-    {
       "date": "2026-09-18",
       "type": "bounce",
       "ticker": "BOUNTY",
@@ -1799,6 +1781,24 @@
       "gain_pct": 25.9,
       "rise_pct": 4.59,
       "current_price": 11390.0
+    },
+    {
+      "date": "2026-11-12",
+      "type": "bounce",
+      "ticker": "BLUR",
+      "consecutive_red": 3,
+      "gain_pct": 30.2,
+      "rise_pct": 1.69,
+      "current_price": 12.0
+    },
+    {
+      "date": "2026-11-12",
+      "type": "bounce",
+      "ticker": "BLEND",
+      "consecutive_red": 3,
+      "gain_pct": 29.8,
+      "rise_pct": 1.34,
+      "current_price": 68.2
     }
   ]
 }
