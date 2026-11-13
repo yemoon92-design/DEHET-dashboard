@@ -1,24 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-09-18",
-      "type": "bounce",
-      "ticker": "BOUNTY",
-      "consecutive_red": 4,
-      "gain_pct": 25.2,
-      "rise_pct": 1.75,
-      "current_price": 17.4
-    },
-    {
-      "date": "2026-09-20",
-      "type": "bounce",
-      "ticker": "FF",
-      "consecutive_red": 4,
-      "gain_pct": 106.2,
-      "rise_pct": 1.16,
-      "current_price": 174.0
-    },
-    {
       "date": "2026-09-22",
       "type": "bounce",
       "ticker": "LSK",
@@ -1799,6 +1781,24 @@
       "gain_pct": 29.8,
       "rise_pct": 1.34,
       "current_price": 68.2
+    },
+    {
+      "date": "2026-11-13",
+      "type": "bounce",
+      "ticker": "UP2",
+      "consecutive_red": 5,
+      "gain_pct": 43.1,
+      "rise_pct": 0.81,
+      "current_price": 74.7
+    },
+    {
+      "date": "2026-11-13",
+      "type": "bounce",
+      "ticker": "BIRB",
+      "consecutive_red": 3,
+      "gain_pct": 53.7,
+      "rise_pct": 7.4,
+      "current_price": 106.0
     }
   ]
 }
