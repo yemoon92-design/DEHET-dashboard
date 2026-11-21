@@ -3,15 +3,6 @@
     {
       "date": "2026-09-30",
       "type": "bounce",
-      "ticker": "MEGA",
-      "consecutive_red": 4,
-      "gain_pct": 38.5,
-      "rise_pct": 2.11,
-      "current_price": 58.1
-    },
-    {
-      "date": "2026-09-30",
-      "type": "bounce",
       "ticker": "ADA",
       "consecutive_red": 4,
       "gain_pct": 35.0,
@@ -1799,6 +1790,15 @@
       "gain_pct": 43.4,
       "rise_pct": 0.36,
       "current_price": 56.3
+    },
+    {
+      "date": "2026-11-21",
+      "type": "bounce",
+      "ticker": "DRV",
+      "consecutive_red": 5,
+      "gain_pct": 33.9,
+      "rise_pct": 2.66,
+      "current_price": 347.0
     }
   ]
 }
