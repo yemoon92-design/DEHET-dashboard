@@ -1,69 +1,6 @@
 {
   "recommendations": [
     {
-      "date": "2026-10-02",
-      "type": "bounce",
-      "ticker": "ELSA",
-      "consecutive_red": 5,
-      "gain_pct": 29.9,
-      "rise_pct": 0.53,
-      "current_price": 75.4
-    },
-    {
-      "date": "2026-10-02",
-      "type": "bounce",
-      "ticker": "EUL",
-      "consecutive_red": 5,
-      "gain_pct": 29.1,
-      "rise_pct": 0.54,
-      "current_price": 1873.0
-    },
-    {
-      "date": "2026-10-02",
-      "type": "bounce",
-      "ticker": "MET2",
-      "consecutive_red": 4,
-      "gain_pct": 97.7,
-      "rise_pct": 0.73,
-      "current_price": 414.0
-    },
-    {
-      "date": "2026-10-02",
-      "type": "bounce",
-      "ticker": "PYTH",
-      "consecutive_red": 4,
-      "gain_pct": 73.4,
-      "rise_pct": 0.98,
-      "current_price": 103.0
-    },
-    {
-      "date": "2026-10-02",
-      "type": "bounce",
-      "ticker": "BSV",
-      "consecutive_red": 4,
-      "gain_pct": 38.9,
-      "rise_pct": 4.35,
-      "current_price": 28080.0
-    },
-    {
-      "date": "2026-10-02",
-      "type": "bounce",
-      "ticker": "DATA",
-      "consecutive_red": 4,
-      "gain_pct": 32.4,
-      "rise_pct": 1.03,
-      "current_price": 295.0
-    },
-    {
-      "date": "2026-10-02",
-      "type": "bounce",
-      "ticker": "ALGO",
-      "consecutive_red": 3,
-      "gain_pct": 61.5,
-      "rise_pct": 1.8,
-      "current_price": 170.0
-    },
-    {
       "date": "2026-10-03",
       "type": "bounce",
       "ticker": "ETC",
@@ -1799,6 +1736,69 @@
       "gain_pct": 56.4,
       "rise_pct": 1.0,
       "current_price": 30.4
+    },
+    {
+      "date": "2026-11-27",
+      "type": "bounce",
+      "ticker": "MEGA",
+      "consecutive_red": 7,
+      "gain_pct": 44.8,
+      "rise_pct": 0.36,
+      "current_price": 55.5
+    },
+    {
+      "date": "2026-11-27",
+      "type": "bounce",
+      "ticker": "DOS",
+      "consecutive_red": 7,
+      "gain_pct": 26.6,
+      "rise_pct": 1.9,
+      "current_price": 107.0
+    },
+    {
+      "date": "2026-11-27",
+      "type": "bounce",
+      "ticker": "GTC",
+      "consecutive_red": 7,
+      "gain_pct": 22.8,
+      "rise_pct": 2.45,
+      "current_price": 167.0
+    },
+    {
+      "date": "2026-11-27",
+      "type": "bounce",
+      "ticker": "IRYS",
+      "consecutive_red": 4,
+      "gain_pct": 57.7,
+      "rise_pct": 1.86,
+      "current_price": 21.9
+    },
+    {
+      "date": "2026-11-27",
+      "type": "bounce",
+      "ticker": "ETHFI",
+      "consecutive_red": 4,
+      "gain_pct": 20.3,
+      "rise_pct": 2.64,
+      "current_price": 621.0
+    },
+    {
+      "date": "2026-11-27",
+      "type": "bounce",
+      "ticker": "LSK",
+      "consecutive_red": 3,
+      "gain_pct": 36.6,
+      "rise_pct": 1.03,
+      "current_price": 196.0
+    },
+    {
+      "date": "2026-11-27",
+      "type": "bounce",
+      "ticker": "PUFFER",
+      "consecutive_red": 3,
+      "gain_pct": 22.0,
+      "rise_pct": 0.78,
+      "current_price": 25.7
     }
   ]
 }
